@@ -1,0 +1,11 @@
+{
+  "peak_epoch": 389,
+  "peak": {
+    "ARI": 0.6485728220428908,
+    "NMI": 0.7334764580897734
+  },
+  "final_epoch": 500,
+  "final_weight": "weights/DLPFC/151671/paper/seed_3_retrained_final.pt",
+  "best_weight": "weights/DLPFC/151671/paper/seed_3_best.pt",
+  "recover_best": true
+}

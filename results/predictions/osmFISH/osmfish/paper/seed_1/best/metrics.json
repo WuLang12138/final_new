@@ -1,0 +1,26 @@
+{
+  "action": "trained_to_save_best",
+  "device": "cuda",
+  "epoch": 498,
+  "checkpoint": "best",
+  "metrics": {
+    "ARI": 0.6862853791208767,
+    "NMI": 0.7612681093539633
+  },
+  "weight": "weights/osmFISH/osmfish/paper/seed_1_best.pt",
+  "weight_sha256": "73c4ac2984498e50ec7e8b8d0c0758edc47f14bce09e127146cf6743d6d55d6e",
+  "best_weight_available": true,
+  "prediction": "results/predictions/osmFISH/osmfish/paper/seed_1/best",
+  "comparison_with_archived_peak": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_ARI": 0.6862853791208767
+  },
+  "peak_reload_check": {
+    "saved_ARI": 0.6862853791208767,
+    "ARI_difference": 0.0,
+    "prediction_array_available": true,
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0
+  }
+}

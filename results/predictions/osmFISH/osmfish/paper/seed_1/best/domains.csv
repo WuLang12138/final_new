@@ -1,0 +1,4840 @@
+obs_name,prediction,reference
+cell_778,6,Layer 6
+cell_1409,8,Internal Capsule Caudoputamen
+cell_3642,1,Layer 4
+cell_1302,8,Internal Capsule Caudoputamen
+cell_1285,8,Internal Capsule Caudoputamen
+cell_769,3,Layer 4
+cell_1466,8,White matter
+cell_5870,1,Layer 4
+cell_1392,8,Internal Capsule Caudoputamen
+cell_5682,10,Layer 2-3 medial
+cell_1274,8,Internal Capsule Caudoputamen
+cell_1464,8,White matter
+cell_1263,8,Internal Capsule Caudoputamen
+cell_1277,8,Internal Capsule Caudoputamen
+cell_6337,6,Layer 6
+cell_4303,0,Hippocampus
+cell_2071,1,Layer 4
+cell_1416,8,Internal Capsule Caudoputamen
+cell_993,4,White matter
+cell_1273,8,Internal Capsule Caudoputamen
+cell_6195,3,Layer 5
+cell_4907,3,Layer 5
+cell_4094,6,Layer 6
+cell_2244,3,Layer 6
+cell_5036,3,Layer 5
+cell_1299,8,Internal Capsule Caudoputamen
+cell_2209,3,Layer 5
+cell_4690,10,Layer 2-3 medial
+cell_1411,8,Internal Capsule Caudoputamen
+cell_5719,10,Layer 2-3 medial
+cell_1249,8,Internal Capsule Caudoputamen
+cell_6435,6,Layer 6
+cell_6046,3,Layer 5
+cell_645,3,Layer 4
+cell_3427,10,Layer 2-3 medial
+cell_1297,8,Internal Capsule Caudoputamen
+cell_4287,4,White matter
+cell_3959,6,Layer 6
+cell_1148,8,White matter
+cell_5867,1,Layer 2-3 medial
+cell_1845,10,Layer 3-4
+cell_5754,10,Layer 2-3 medial
+cell_1414,8,Internal Capsule Caudoputamen
+cell_1286,8,Internal Capsule Caudoputamen
+cell_2646,4,White matter
+cell_4980,3,Layer 4
+cell_2311,6,Layer 6
+cell_765,6,Layer 6
+cell_1279,8,Internal Capsule Caudoputamen
+cell_4568,10,Layer 2-3 medial
+cell_3901,6,Layer 6
+cell_2848,4,White matter
+cell_1284,8,Internal Capsule Caudoputamen
+cell_1271,8,Internal Capsule Caudoputamen
+cell_1306,8,Internal Capsule Caudoputamen
+cell_3477,10,Layer 2-3 medial
+cell_170,2,Layer 2-3 lateral
+cell_2157,3,Layer 5
+cell_1806,2,Layer 2-3 lateral
+cell_4609,10,Layer 2-3 medial
+cell_3758,3,Layer 5
+cell_2083,1,Layer 4
+cell_687,7,Layer 4
+cell_2293,6,Layer 6
+cell_1425,8,Internal Capsule Caudoputamen
+cell_6196,3,Layer 5
+cell_1334,8,Internal Capsule Caudoputamen
+cell_6157,3,Layer 4
+cell_3313,9,Pia Layer 1
+cell_5692,10,Layer 2-3 medial
+cell_5724,10,Layer 2-3 medial
+cell_1281,8,Internal Capsule Caudoputamen
+cell_4725,10,Layer 2-3 medial
+cell_1290,8,Internal Capsule Caudoputamen
+cell_4504,4,White matter
+cell_3881,6,Layer 6
+cell_205,2,Layer 2-3 lateral
+cell_6302,6,Layer 6
+cell_5048,1,Layer 4
+cell_5413,6,Layer 6
+cell_5857,1,Layer 2-3 medial
+cell_1253,8,Internal Capsule Caudoputamen
+cell_1291,8,Internal Capsule Caudoputamen
+cell_768,6,Layer 6
+cell_767,6,Layer 6
+cell_3307,9,Pia Layer 1
+cell_7328,3,Layer 5
+cell_164,2,Layer 2-3 lateral
+cell_2843,4,White matter
+cell_5386,4,White matter
+cell_2670,4,White matter
+cell_7350,3,Layer 5
+cell_5740,10,Layer 2-3 medial
+cell_1267,8,Internal Capsule Caudoputamen
+cell_1259,8,Internal Capsule Caudoputamen
+cell_1408,8,Internal Capsule Caudoputamen
+cell_6218,3,Layer 5
+cell_2174,3,Layer 5
+cell_6015,1,Layer 4
+cell_4435,9,White matter
+cell_1301,8,Internal Capsule Caudoputamen
+cell_4672,10,Layer 2-3 medial
+cell_6058,1,Layer 4
+cell_5185,6,Layer 6
+cell_1465,8,White matter
+cell_6254,6,Layer 6
+cell_5219,6,Layer 6
+cell_4990,3,Layer 5
+cell_3560,10,Layer 2-3 medial
+cell_1336,8,White matter
+cell_1289,8,Internal Capsule Caudoputamen
+cell_3759,3,Layer 5
+cell_6174,3,Layer 5
+cell_1280,8,Internal Capsule Caudoputamen
+cell_6189,3,Layer 5
+cell_1415,8,Internal Capsule Caudoputamen
+cell_1269,8,Internal Capsule Caudoputamen
+cell_7382,3,Layer 5
+cell_1272,8,Internal Capsule Caudoputamen
+cell_6372,6,Layer 6
+cell_1264,8,Internal Capsule Caudoputamen
+cell_2233,6,Layer 6
+cell_7383,6,Layer 6
+cell_5877,1,Layer 4
+cell_1296,8,Internal Capsule Caudoputamen
+cell_1275,8,Internal Capsule Caudoputamen
+cell_5806,10,Layer 2-3 medial
+cell_6722,10,Layer 2-3 medial
+cell_3699,10,Layer 4
+cell_3877,6,Layer 6
+cell_1282,8,Internal Capsule Caudoputamen
+cell_2187,3,Layer 5
+cell_5231,6,Layer 6
+cell_1429,8,Internal Capsule Caudoputamen
+cell_1293,8,Internal Capsule Caudoputamen
+cell_2148,3,Layer 5
+cell_809,6,Layer 6
+cell_1260,8,Internal Capsule Caudoputamen
+cell_1399,8,Internal Capsule Caudoputamen
+cell_3583,10,Layer 2-3 medial
+cell_2076,3,Layer 6
+cell_3803,3,Layer 4
+cell_1257,8,Internal Capsule Caudoputamen
+cell_5681,10,Layer 2-3 medial
+cell_4031,6,Layer 6
+cell_1268,8,Internal Capsule Caudoputamen
+cell_800,6,Layer 6
+cell_4055,6,Layer 6
+cell_1308,8,Internal Capsule Caudoputamen
+cell_2098,3,Layer 5
+cell_1421,8,Internal Capsule Caudoputamen
+cell_3908,3,Layer 5
+cell_3294,4,White matter
+cell_1320,8,Internal Capsule Caudoputamen
+cell_3915,6,Layer 6
+cell_1295,8,Internal Capsule Caudoputamen
+cell_3987,6,Layer 6
+cell_4625,10,Layer 2-3 medial
+cell_7363,3,Layer 5
+cell_1410,8,White matter
+cell_5155,6,Layer 6
+cell_4735,1,Layer 4
+cell_1451,8,White matter
+cell_6071,3,Layer 4
+cell_5061,3,Layer 4
+cell_7653,6,Layer 6
+cell_3874,3,Layer 5
+cell_2509,6,Layer 6
+cell_6187,3,Layer 5
+cell_5513,0,Hippocampus
+cell_723,3,Layer 5
+cell_6097,3,Layer 4
+cell_4613,10,Layer 2-3 medial
+cell_3706,10,Layer 4
+cell_5670,10,Layer 2-3 medial
+cell_5452,0,Hippocampus
+cell_5281,6,Layer 6
+cell_4218,6,Layer 6
+cell_56,2,Layer 2-3 lateral
+cell_2169,6,Layer 6
+cell_6531,0,Hippocampus
+cell_6181,3,Layer 5
+cell_655,3,Layer 4
+cell_868,6,Layer 6
+cell_4748,10,Layer 2-3 medial
+cell_6720,10,Layer 2-3 medial
+cell_4630,10,Layer 2-3 medial
+cell_2061,3,Layer 4
+cell_4323,0,Hippocampus
+cell_6513,0,Hippocampus
+cell_6288,6,Layer 6
+cell_6096,3,Layer 4
+cell_243,2,Layer 2-3 lateral
+cell_6353,6,Layer 6
+cell_4449,9,White matter
+cell_697,3,Layer 4
+cell_89,7,Layer 4
+cell_6153,6,Layer 6
+cell_5113,3,Layer 5
+cell_5696,10,Layer 2-3 medial
+cell_2123,3,Layer 5
+cell_4768,10,Layer 2-3 medial
+cell_4252,4,White matter
+cell_3462,10,Layer 2-3 medial
+cell_2510,6,Layer 6
+cell_3574,10,Layer 2-3 medial
+cell_6456,0,Hippocampus
+cell_4035,6,Layer 6
+cell_5698,10,Layer 2-3 medial
+cell_5488,0,Hippocampus
+cell_4596,10,Layer 2-3 medial
+cell_6193,6,Layer 6
+cell_6251,6,Layer 6
+cell_6490,0,Hippocampus
+cell_4752,1,Layer 4
+cell_5804,10,Layer 2-3 medial
+cell_5793,10,Layer 2-3 medial
+cell_6496,0,Hippocampus
+cell_2253,3,Layer 6
+cell_1906,10,Layer 2-3 medial
+cell_5057,3,Layer 5
+cell_2224,6,Layer 6
+cell_2208,3,Layer 5
+cell_2282,6,Layer 6
+cell_212,2,Layer 2-3 lateral
+cell_4782,10,Layer 2-3 medial
+cell_1495,8,White matter
+cell_5444,0,Hippocampus
+cell_2443,6,Layer 6
+cell_6529,0,Hippocampus
+cell_634,7,Layer 4
+cell_4270,0,Hippocampus
+cell_6422,6,Layer 6
+cell_818,6,Layer 6
+cell_6182,6,Layer 6
+cell_5923,3,Layer 4
+cell_4032,6,Layer 6
+cell_5564,0,Hippocampus
+cell_4407,0,Hippocampus
+cell_4893,3,Layer 4
+cell_6508,4,White matter
+cell_4274,0,Hippocampus
+cell_6172,6,Layer 6
+cell_3707,10,Layer 4
+cell_5794,10,Layer 2-3 medial
+cell_4300,4,White matter
+cell_3422,10,Layer 2-3 lateral
+cell_2753,0,Hippocampus
+cell_6369,6,Layer 6
+cell_2467,6,Layer 6
+cell_3948,6,Layer 6
+cell_4432,9,White matter
+cell_1006,4,White matter
+cell_736,3,Layer 4
+cell_301,2,Layer 2-3 lateral
+cell_5947,1,Layer 4
+cell_842,2,Layer 6
+cell_4166,6,Layer 6
+cell_5448,0,Hippocampus
+cell_5233,6,Layer 6
+cell_6517,0,Hippocampus
+cell_6067,3,Layer 5
+cell_3745,3,Layer 4
+cell_3713,3,Layer 5
+cell_6315,6,Layer 6
+cell_2739,4,White matter
+cell_5403,4,White matter
+cell_4343,0,Hippocampus
+cell_5112,3,Layer 5
+cell_7632,6,Layer 6
+cell_2859,9,White matter
+cell_3110,5,Ventricle
+cell_5136,6,Layer 6
+cell_3834,3,Layer 6
+cell_5703,10,Layer 2-3 medial
+cell_7648,4,White matter
+cell_2472,6,Layer 6
+cell_1009,4,White matter
+cell_2264,3,Layer 5
+cell_7837,0,Hippocampus
+cell_4253,4,White matter
+cell_2215,3,Layer 5
+cell_4491,4,White matter
+cell_706,3,Layer 5
+cell_621,7,Layer 4
+cell_4750,1,Layer 4
+cell_2444,6,Layer 6
+cell_4945,3,Layer 5
+cell_2137,3,Layer 5
+cell_4392,0,Hippocampus
+cell_487,7,Layer 4
+cell_690,3,Layer 4
+cell_4843,10,Layer 2-3 medial
+cell_1745,7,Layer 3-4
+cell_1046,4,White matter
+cell_5790,10,Layer 2-3 medial
+cell_4243,4,White matter
+cell_2784,0,Hippocampus
+cell_4020,6,Layer 6
+cell_3478,10,Layer 2-3 medial
+cell_5508,0,Hippocampus
+cell_1863,10,Layer 3-4
+cell_2489,6,Layer 6
+cell_3281,4,White matter
+cell_860,2,Layer 6
+cell_852,2,Layer 6
+cell_3576,1,Layer 4
+cell_3702,3,Layer 5
+cell_3735,1,Layer 4
+cell_4599,9,Layer 2-3 medial
+cell_5845,3,Layer 2-3 medial
+cell_5738,10,Layer 2-3 medial
+cell_2242,6,Layer 6
+cell_1588,9,Pia Layer 1
+cell_4883,1,Layer 4
+cell_6289,6,Layer 6
+cell_4870,3,Layer 2-3 medial
+cell_2852,3,White matter
+cell_5688,10,Layer 2-3 medial
+cell_7341,3,Layer 5
+cell_2787,0,Hippocampus
+cell_4866,3,Layer 2-3 medial
+cell_4006,6,Layer 6
+cell_6161,6,Layer 6
+cell_1091,4,White matter
+cell_856,2,Layer 6
+cell_2462,6,Layer 6
+cell_2520,6,Layer 6
+cell_1908,1,Layer 4
+cell_850,2,Layer 6
+cell_16,2,Layer 2-3 lateral
+cell_3597,1,Layer 3-4
+cell_4667,10,Layer 2-3 medial
+cell_5310,6,Layer 6
+cell_2258,6,Layer 6
+cell_5841,3,Layer 2-3 medial
+cell_4410,0,Hippocampus
+cell_1835,7,Layer 3-4
+cell_2857,9,White matter
+cell_4115,6,Layer 6
+cell_1241,8,Internal Capsule Caudoputamen
+cell_5735,10,Layer 2-3 medial
+cell_1619,2,Layer 2-3 lateral
+cell_4602,10,Layer 2-3 medial
+cell_4065,6,Layer 6
+cell_2122,3,Layer 5
+cell_6209,3,Layer 5
+cell_3737,3,Layer 5
+cell_4574,10,Layer 2-3 medial
+cell_1715,2,Layer 2-3 lateral
+cell_3334,9,Layer 2-3 medial
+cell_4979,3,Layer 4
+cell_1455,8,White matter
+cell_6042,1,Layer 4
+cell_4733,1,Layer 4
+cell_5071,3,Layer 5
+cell_3742,3,Layer 5
+cell_6091,3,Layer 5
+cell_5127,3,Layer 5
+cell_1473,8,White matter
+cell_5540,9,Hippocampus
+cell_3073,8,White matter
+cell_1309,8,Internal Capsule Caudoputamen
+cell_1337,8,Internal Capsule Caudoputamen
+cell_123,2,Layer 2-3 lateral
+cell_6605,9,Pia Layer 1
+cell_3922,3,Layer 5
+cell_1494,8,White matter
+cell_1347,8,White matter
+cell_1352,8,Internal Capsule Caudoputamen
+cell_1338,8,Internal Capsule Caudoputamen
+cell_4527,10,Layer 2-3 medial
+cell_3470,10,Layer 2-3 medial
+cell_4882,1,Layer 4
+cell_29,2,Layer 2-3 lateral
+cell_1328,8,Internal Capsule Caudoputamen
+cell_7060,1,Layer 4
+cell_1653,10,Layer 2-3 medial
+cell_5137,6,Layer 6
+cell_1353,8,Internal Capsule Caudoputamen
+cell_1111,8,Internal Capsule Caudoputamen
+cell_5031,3,Layer 5
+cell_6381,6,Layer 6
+cell_185,2,Layer 2-3 lateral
+cell_1595,2,Layer 2-3 lateral
+cell_6537,9,Hippocampus
+cell_3207,5,Ventricle
+cell_1355,8,Internal Capsule Caudoputamen
+cell_2109,1,Layer 4
+cell_1447,8,White matter
+cell_3410,9,Pia Layer 1
+cell_3896,3,Layer 5
+cell_2146,6,Layer 6
+cell_3734,1,Layer 4
+cell_286,2,Layer 2-3 lateral
+cell_3343,10,Layer 2-3 medial
+cell_3932,3,Layer 5
+cell_1343,8,Internal Capsule Caudoputamen
+cell_1472,8,White matter
+cell_1540,5,Ventricle
+cell_1484,8,White matter
+cell_1342,8,Internal Capsule Caudoputamen
+cell_1164,8,Internal Capsule Caudoputamen
+cell_3661,3,Layer 5
+cell_3382,10,Layer 2-3 medial
+cell_1616,9,Pia Layer 1
+cell_5701,9,Pia Layer 1
+cell_1335,8,Internal Capsule Caudoputamen
+cell_1457,8,White matter
+cell_1476,8,White matter
+cell_4736,10,Layer 2-3 medial
+cell_4518,9,Layer 2-3 medial
+cell_4874,1,Layer 4
+cell_1450,8,White matter
+cell_3770,1,Layer 4
+cell_4622,10,Layer 2-3 medial
+cell_3102,5,Ventricle
+cell_6170,3,Layer 5
+cell_4751,10,Layer 2-3 medial
+cell_1326,8,Internal Capsule Caudoputamen
+cell_1633,10,Layer 2-3 medial
+cell_1778,7,Layer 4
+cell_143,7,Layer 4
+cell_4541,9,Layer 2-3 medial
+cell_348,2,Layer 2-3 lateral
+cell_5849,1,Layer 4
+cell_1331,8,Internal Capsule Caudoputamen
+cell_5591,9,Pia Layer 1
+cell_5165,3,Layer 6
+cell_4545,9,Layer 2-3 medial
+cell_6552,9,Hippocampus
+cell_1512,8,White matter
+cell_1480,8,White matter
+cell_4929,3,Layer 4
+cell_1470,8,White matter
+cell_248,2,Layer 2-3 lateral
+cell_5081,3,Layer 5
+cell_2201,6,Layer 6
+cell_368,7,Layer 4
+cell_83,7,Layer 4
+cell_1576,2,Layer 2-3 lateral
+cell_3857,3,Layer 5
+cell_7052,1,Layer 4
+cell_3807,3,Layer 4
+cell_5911,1,Layer 4
+cell_3726,1,Layer 4
+cell_4744,10,Layer 2-3 medial
+cell_3324,10,Layer 2-3 medial
+cell_3618,1,Layer 4
+cell_4280,0,Hippocampus
+cell_5752,10,Layer 2-3 medial
+cell_2767,0,Hippocampus
+cell_1973,7,Layer 4
+cell_3669,1,Layer 4
+cell_5725,10,Layer 2-3 medial
+cell_2161,7,Layer 4
+cell_186,2,Pia Layer 1
+cell_2039,3,Layer 5
+cell_2167,3,Layer 6
+cell_6484,0,Hippocampus
+cell_2304,6,Layer 6
+cell_2771,0,Hippocampus
+cell_7812,0,Hippocampus
+cell_679,7,Layer 4
+cell_3755,3,Layer 4
+cell_4794,1,Layer 4
+cell_4678,10,Layer 2-3 medial
+cell_1394,8,White matter
+cell_5163,3,Layer 6
+cell_5501,0,Hippocampus
+cell_4928,1,Layer 4
+cell_606,7,Layer 4
+cell_3114,5,Ventricle
+cell_4047,6,Layer 6
+cell_2581,4,Layer 6
+cell_643,3,Layer 4
+cell_5558,0,Hippocampus
+cell_719,3,Layer 5
+cell_4909,1,Layer 4
+cell_6094,3,Layer 4
+cell_5480,0,Hippocampus
+cell_321,7,Layer 3-4
+cell_5963,1,Layer 4
+cell_2133,3,Layer 5
+cell_7066,1,Layer 4
+cell_3368,10,Layer 2-3 medial
+cell_1807,7,Layer 4
+cell_2089,3,Layer 5
+cell_5507,0,Hippocampus
+cell_617,7,Layer 4
+cell_3515,10,Layer 2-3 medial
+cell_6034,1,Layer 4
+cell_493,7,Layer 4
+cell_6483,0,Hippocampus
+cell_545,7,Layer 4
+cell_3970,6,Layer 6
+cell_1527,8,White matter
+cell_7373,3,Layer 4
+cell_1300,8,Internal Capsule Caudoputamen
+cell_2131,3,Layer 5
+cell_601,7,Layer 4
+cell_5491,0,Hippocampus
+cell_4796,1,Layer 4
+cell_4800,10,Layer 2-3 medial
+cell_6005,1,Layer 4
+cell_1915,7,Layer 4
+cell_2057,3,Layer 5
+cell_5024,1,Layer 4
+cell_604,7,Layer 4
+cell_5458,0,Hippocampus
+cell_4904,3,Layer 4
+cell_2016,7,Layer 4
+cell_5940,1,Layer 4
+cell_670,7,Layer 4
+cell_3088,8,White matter
+cell_3677,3,Layer 4
+cell_4386,0,Hippocampus
+cell_717,3,Layer 5
+cell_431,7,Layer 4
+cell_3386,10,Layer 2-3 medial
+cell_2751,0,Hippocampus
+cell_5493,0,Hippocampus
+cell_2152,3,Layer 5
+cell_694,7,Layer 4
+cell_4324,0,Hippocampus
+cell_457,7,Layer 4
+cell_2766,0,Hippocampus
+cell_1972,7,Layer 4
+cell_513,7,Layer 4
+cell_6008,1,Layer 4
+cell_5933,1,Layer 4
+cell_2237,3,Layer 6
+cell_550,7,Layer 4
+cell_3862,3,Layer 6
+cell_2196,3,Layer 5
+cell_4123,4,White matter
+cell_6188,6,Layer 6
+cell_4895,1,Layer 4
+cell_678,7,Layer 4
+cell_1796,2,Layer 2-3 lateral
+cell_837,6,Layer 6
+cell_6743,10,Layer 2-3 medial
+cell_5647,10,Layer 2-3 medial
+cell_3911,3,Layer 5
+cell_4612,10,Layer 2-3 medial
+cell_3487,10,Layer 2-3 medial
+cell_41,2,Pia Layer 1
+cell_2750,4,White matter
+cell_3859,3,Layer 5
+cell_5898,1,Layer 4
+cell_1518,8,Ventricle
+cell_3910,3,Layer 5
+cell_7835,0,Hippocampus
+cell_3380,10,Layer 2-3 medial
+cell_3664,1,Layer 4
+cell_5768,10,Layer 2-3 medial
+cell_1085,4,White matter
+cell_2051,7,Layer 4
+cell_3747,1,Layer 4
+cell_221,2,Layer 2-3 lateral
+cell_5699,10,Layer 2-3 medial
+cell_312,2,Layer 3-4
+cell_4350,0,Hippocampus
+cell_3316,9,Layer 2-3 medial
+cell_805,3,Layer 4
+cell_4319,0,Hippocampus
+cell_2714,4,White matter
+cell_2226,3,Layer 5
+cell_4348,0,Hippocampus
+cell_3168,5,Ventricle
+cell_3888,3,Layer 5
+cell_4681,10,Layer 2-3 medial
+cell_3412,10,Layer 2-3 medial
+cell_189,2,Layer 2-3 lateral
+cell_1402,8,White matter
+cell_7068,1,Layer 4
+cell_3352,9,Pia Layer 1
+cell_4769,1,Layer 4
+cell_4346,0,Hippocampus
+cell_1403,8,White matter
+cell_4723,10,Layer 2-3 medial
+cell_5204,3,Layer 5
+cell_2338,6,Layer 6
+cell_1033,4,White matter
+cell_5119,3,Layer 6
+cell_3208,5,Ventricle
+cell_5824,10,Layer 2-3 medial
+cell_4950,3,Layer 4
+cell_5531,0,Hippocampus
+cell_2702,4,White matter
+cell_5040,3,Layer 6
+cell_3242,4,White matter
+cell_558,7,Layer 4
+cell_3604,1,Layer 3-4
+cell_5567,0,Hippocampus
+cell_4691,10,Layer 2-3 medial
+cell_5663,10,Layer 2-3 medial
+cell_1522,8,White matter
+cell_3191,4,White matter
+cell_2001,7,Layer 4
+cell_7822,0,Hippocampus
+cell_1636,10,Layer 2-3 lateral
+cell_1,9,Pia Layer 1
+cell_3083,8,White matter
+cell_37,2,Layer 2-3 lateral
+cell_2733,4,White matter
+cell_4920,1,Layer 4
+cell_5506,0,Hippocampus
+cell_665,7,Layer 4
+cell_2471,6,Layer 6
+cell_1250,8,Internal Capsule Caudoputamen
+cell_5146,3,Layer 6
+cell_7075,1,Layer 4
+cell_2218,3,Layer 5
+cell_2601,6,Layer 6
+cell_293,2,Layer 2-3 lateral
+cell_781,6,Layer 6
+cell_4661,10,Layer 2-3 medial
+cell_1198,5,White matter
+cell_7073,1,Layer 4
+cell_4849,10,Layer 2-3 medial
+cell_1831,10,Layer 3-4
+cell_203,2,Layer 2-3 lateral
+cell_5685,10,Layer 2-3 medial
+cell_4847,1,Layer 4
+cell_585,7,Layer 4
+cell_6314,3,Layer 6
+cell_4934,3,Layer 4
+cell_6113,3,Layer 5
+cell_44,2,Layer 2-3 lateral
+cell_3528,10,Layer 2-3 medial
+cell_3079,8,Ventricle
+cell_4296,4,White matter
+cell_3670,1,Layer 4
+cell_1621,2,Layer 2-3 lateral
+cell_7663,6,Layer 6
+cell_4916,3,Layer 5
+cell_6248,6,Layer 6
+cell_275,2,Layer 2-3 lateral
+cell_87,2,Layer 3-4
+cell_5007,3,Layer 5
+cell_3367,10,Layer 2-3 medial
+cell_298,2,Layer 2-3 lateral
+cell_5020,3,Layer 5
+cell_5238,3,Layer 6
+cell_1020,2,White matter
+cell_7089,1,Layer 4
+cell_5573,0,Hippocampus
+cell_1048,2,Layer 6
+cell_268,2,Layer 2-3 lateral
+cell_258,2,Layer 2-3 lateral
+cell_4830,1,Layer 4
+cell_5818,10,Layer 2-3 medial
+cell_2295,2,Layer 6
+cell_2570,6,Layer 6
+cell_899,6,Layer 6
+cell_1591,2,Layer 2-3 medial
+cell_6525,0,Hippocampus
+cell_5449,0,Hippocampus
+cell_4414,0,Hippocampus
+cell_4347,0,Hippocampus
+cell_1596,2,Layer 2-3 lateral
+cell_137,7,Layer 4
+cell_914,6,Layer 6
+cell_2580,4,Layer 6
+cell_4668,10,Layer 2-3 medial
+cell_6524,0,Hippocampus
+cell_2577,4,Layer 6
+cell_202,2,Pia Layer 1
+cell_5232,6,Layer 6
+cell_2291,2,Layer 6
+cell_1435,8,White matter
+cell_2469,6,Layer 6
+cell_969,4,White matter
+cell_1713,2,Layer 2-3 lateral
+cell_6522,0,Hippocampus
+cell_1574,2,Layer 2-3 lateral
+cell_2563,6,Layer 6
+cell_3092,5,Ventricle
+cell_232,2,Layer 2-3 lateral
+cell_379,2,Layer 2-3 lateral
+cell_3398,10,Layer 2-3 lateral
+cell_2517,4,Layer 6
+cell_2294,2,Layer 6
+cell_255,2,Layer 2-3 lateral
+cell_4629,10,Layer 2-3 medial
+cell_5763,10,Layer 2-3 medial
+cell_4376,0,Hippocampus
+cell_5608,10,Layer 2-3 medial
+cell_6734,10,Layer 2-3 medial
+cell_3018,4,White matter
+cell_4071,6,Layer 6
+cell_6471,0,Hippocampus
+cell_1679,2,Layer 2-3 lateral
+cell_1864,10,Layer 3-4
+cell_1667,10,Layer 2-3 medial
+cell_6766,10,Layer 2-3 medial
+cell_2219,6,Layer 6
+cell_1531,5,Ventricle
+cell_5340,6,Layer 6
+cell_6083,1,Layer 4
+cell_2163,3,Layer 5
+cell_214,2,Layer 2-3 lateral
+cell_847,2,Layer 6
+cell_35,2,Layer 2-3 lateral
+cell_227,2,Layer 2-3 lateral
+cell_6249,6,Layer 6
+cell_174,2,Layer 2-3 lateral
+cell_3957,2,Layer 6
+cell_96,7,Layer 4
+cell_3599,1,Layer 3-4
+cell_57,2,Pia Layer 1
+cell_4002,6,Layer 6
+cell_2791,0,Hippocampus
+cell_1042,4,White matter
+cell_963,2,Layer 6
+cell_4021,6,Layer 6
+cell_4046,6,Layer 6
+cell_226,2,Layer 2-3 lateral
+cell_4167,4,Layer 6
+cell_1782,7,Layer 3-4
+cell_2538,6,Layer 6
+cell_1026,2,Layer 6
+cell_5785,1,Layer 4
+cell_305,2,Layer 2-3 lateral
+cell_1147,4,White matter
+cell_276,2,Layer 2-3 lateral
+cell_5278,6,Layer 6
+cell_943,6,Layer 6
+cell_3961,2,Layer 6
+cell_4096,6,Layer 6
+cell_1333,8,Internal Capsule Caudoputamen
+cell_2243,6,Layer 6
+cell_1433,8,White matter
+cell_688,3,Layer 5
+cell_5960,1,Layer 4
+cell_1584,2,Layer 2-3 lateral
+cell_362,7,Layer 4
+cell_6299,6,Layer 6
+cell_422,7,Layer 4
+cell_1856,7,Layer 4
+cell_5019,3,Layer 5
+cell_1298,8,Internal Capsule Caudoputamen
+cell_43,2,Layer 2-3 lateral
+cell_251,2,Layer 2-3 lateral
+cell_315,2,Layer 2-3 lateral
+cell_6521,0,Hippocampus
+cell_36,2,Layer 2-3 lateral
+cell_5279,6,Layer 6
+cell_39,2,Layer 2-3 lateral
+cell_5318,6,Layer 6
+cell_2181,6,Layer 6
+cell_1247,8,Internal Capsule Caudoputamen
+cell_5234,6,Layer 6
+cell_188,2,Layer 2-3 lateral
+cell_1324,8,Internal Capsule Caudoputamen
+cell_5787,1,Layer 4
+cell_5786,1,Layer 4
+cell_63,2,Layer 2-3 lateral
+cell_6108,3,Layer 5
+cell_1572,2,Layer 2-3 lateral
+cell_3981,6,Layer 6
+cell_2642,4,White matter
+cell_1920,7,Layer 3-4
+cell_2245,6,Layer 6
+cell_3960,2,Layer 6
+cell_1751,2,Layer 2-3 lateral
+cell_131,2,Layer 2-3 lateral
+cell_1452,8,White matter
+cell_846,2,Layer 6
+cell_224,2,Layer 2-3 lateral
+cell_285,2,Layer 2-3 lateral
+cell_356,2,Layer 2-3 lateral
+cell_5653,10,Layer 2-3 medial
+cell_4215,4,Layer 6
+cell_6303,6,Layer 6
+cell_3384,10,Layer 2-3 medial
+cell_2262,6,Layer 6
+cell_6330,6,Layer 6
+cell_7331,3,Layer 5
+cell_6308,6,Layer 6
+cell_6171,3,Layer 5
+cell_6185,6,Layer 6
+cell_4811,1,Layer 4
+cell_7336,3,Layer 5
+cell_4138,6,Layer 6
+cell_3972,6,Layer 6
+cell_5186,6,Layer 6
+cell_4785,10,Layer 2-3 medial
+cell_4718,10,Layer 2-3 medial
+cell_3480,10,Layer 2-3 medial
+cell_2463,6,Layer 6
+cell_5214,6,Layer 6
+cell_1897,1,Layer 3-4
+cell_2328,6,Layer 6
+cell_6199,3,Layer 5
+cell_5038,3,Layer 5
+cell_5294,6,Layer 6
+cell_4787,10,Layer 2-3 medial
+cell_863,6,Layer 6
+cell_5260,6,Layer 6
+cell_5259,6,Layer 6
+cell_6233,6,Layer 6
+cell_5123,3,Layer 5
+cell_3853,6,Layer 6
+cell_5169,6,Layer 6
+cell_5920,3,Layer 4
+cell_6721,10,Layer 2-3 medial
+cell_3449,10,Layer 2-3 medial
+cell_4614,10,Layer 2-3 medial
+cell_3978,6,Layer 6
+cell_5714,10,Layer 2-3 medial
+cell_2320,6,Layer 6
+cell_3436,10,Layer 2-3 medial
+cell_3931,6,Layer 6
+cell_6325,6,Layer 6
+cell_5200,6,Layer 6
+cell_5282,6,Layer 6
+cell_3849,6,Layer 6
+cell_819,6,Layer 6
+cell_3377,10,Layer 2-3 medial
+cell_4007,6,Layer 6
+cell_5249,6,Layer 6
+cell_6230,6,Layer 6
+cell_827,6,Layer 6
+cell_4003,6,Layer 6
+cell_5150,6,Layer 6
+cell_6499,0,Hippocampus
+cell_6252,6,Layer 6
+cell_2500,6,Layer 6
+cell_6048,3,Layer 5
+cell_3766,3,Layer 5
+cell_6021,1,Layer 4
+cell_4601,10,Layer 2-3 medial
+cell_5250,6,Layer 6
+cell_6492,0,Hippocampus
+cell_3431,10,Layer 2-3 lateral
+cell_3565,1,Layer 3-4
+cell_3572,10,Layer 2-3 medial
+cell_5712,10,Layer 2-3 medial
+cell_4578,10,Layer 2-3 medial
+cell_7640,6,Layer 6
+cell_3847,3,Layer 5
+cell_1904,10,Layer 2-3 medial
+cell_2312,6,Layer 6
+cell_2433,6,Layer 6
+cell_2105,3,Layer 5
+cell_2306,6,Layer 6
+cell_5805,10,Layer 2-3 medial
+cell_5697,10,Layer 2-3 medial
+cell_4148,6,Layer 6
+cell_7039,1,Layer 4
+cell_3506,10,Layer 2-3 medial
+cell_6204,3,Layer 5
+cell_6324,6,Layer 6
+cell_5177,3,Layer 6
+cell_4803,1,Layer 4
+cell_5080,6,Layer 6
+cell_3520,1,Layer 4
+cell_2227,6,Layer 6
+cell_5813,10,Layer 2-3 medial
+cell_4369,0,Hippocampus
+cell_4553,10,Layer 2-3 medial
+cell_6442,6,Layer 6
+cell_6229,6,Layer 6
+cell_6135,3,Layer 4
+cell_2404,6,Layer 6
+cell_5263,6,Layer 6
+cell_6729,10,Layer 2-3 medial
+cell_3992,6,Layer 6
+cell_6351,6,Layer 6
+cell_5189,6,Layer 6
+cell_5702,10,Layer 2-3 medial
+cell_2297,6,Layer 6
+cell_4910,1,Layer 4
+cell_5284,6,Layer 6
+cell_7062,1,Layer 4
+cell_5746,10,Layer 2-3 medial
+cell_4754,10,Layer 2-3 medial
+cell_5830,10,Layer 2-3 medial
+cell_5781,10,Layer 2-3 medial
+cell_5651,10,Layer 2-3 medial
+cell_4658,10,Layer 2-3 medial
+cell_5705,10,Layer 2-3 medial
+cell_1606,10,Layer 2-3 medial
+cell_1879,1,Layer 3-4
+cell_1878,10,Layer 2-3 medial
+cell_1877,1,Layer 3-4
+cell_4770,10,Layer 2-3 medial
+cell_3512,10,Layer 2-3 medial
+cell_2113,1,Layer 4
+cell_1750,2,Layer 2-3 lateral
+cell_1666,10,Layer 2-3 medial
+cell_3503,10,Layer 2-3 medial
+cell_4821,10,Layer 2-3 medial
+cell_3700,10,Layer 4
+cell_5666,10,Layer 2-3 medial
+cell_6044,1,Layer 4
+cell_3339,10,Layer 2-3 medial
+cell_5829,10,Layer 2-3 medial
+cell_5662,10,Layer 2-3 medial
+cell_1841,10,Layer 2-3 medial
+cell_4587,10,Layer 2-3 medial
+cell_365,2,Layer 2-3 lateral
+cell_5639,10,Layer 2-3 medial
+cell_3539,10,Layer 2-3 medial
+cell_6713,10,Layer 2-3 medial
+cell_5690,10,Layer 2-3 medial
+cell_3639,10,Layer 3-4
+cell_4665,10,Layer 2-3 medial
+cell_4711,10,Layer 2-3 medial
+cell_1632,10,Layer 2-3 medial
+cell_4671,10,Layer 2-3 medial
+cell_4793,10,Layer 2-3 medial
+cell_5640,10,Layer 2-3 medial
+cell_1612,10,Layer 2-3 medial
+cell_3546,10,Layer 2-3 medial
+cell_5706,10,Layer 2-3 medial
+cell_5691,10,Layer 2-3 medial
+cell_4570,10,Layer 2-3 medial
+cell_3554,10,Layer 3-4
+cell_1855,10,Layer 3-4
+cell_5700,10,Layer 2-3 medial
+cell_5797,10,Layer 2-3 medial
+cell_4640,10,Layer 2-3 medial
+cell_4649,10,Layer 2-3 medial
+cell_6762,10,Layer 2-3 medial
+cell_5837,10,Layer 2-3 medial
+cell_5726,10,Layer 2-3 medial
+cell_4710,10,Layer 2-3 medial
+cell_3587,10,Layer 2-3 medial
+cell_3537,10,Layer 2-3 medial
+cell_3516,10,Layer 2-3 medial
+cell_5755,10,Layer 2-3 medial
+cell_3545,1,Layer 3-4
+cell_3488,10,Layer 2-3 medial
+cell_4759,10,Layer 2-3 medial
+cell_4607,10,Layer 2-3 medial
+cell_4862,10,Layer 2-3 medial
+cell_5704,10,Layer 2-3 medial
+cell_4792,10,Layer 2-3 medial
+cell_4581,10,Layer 2-3 medial
+cell_4648,10,Layer 2-3 medial
+cell_3486,10,Layer 2-3 medial
+cell_5803,10,Layer 2-3 medial
+cell_1660,10,Layer 2-3 medial
+cell_3547,1,Layer 3-4
+cell_1615,10,Layer 2-3 lateral
+cell_6714,10,Layer 2-3 medial
+cell_3586,10,Layer 3-4
+cell_3438,10,Layer 2-3 lateral
+cell_3432,10,Layer 2-3 medial
+cell_3643,10,Layer 3-4
+cell_5909,10,Layer 4
+cell_5848,1,Layer 2-3 medial
+cell_3360,10,Layer 2-3 medial
+cell_3468,10,Layer 2-3 medial
+cell_4576,10,Layer 2-3 medial
+cell_4873,1,Layer 2-3 medial
+cell_4700,10,Layer 2-3 medial
+cell_3754,1,Layer 4
+cell_4756,10,Layer 2-3 medial
+cell_3481,10,Layer 2-3 medial
+cell_6717,10,Layer 2-3 medial
+cell_5676,10,Layer 2-3 medial
+cell_1696,2,Layer 2-3 lateral
+cell_5737,10,Layer 2-3 medial
+cell_5822,10,Layer 2-3 medial
+cell_4799,1,Layer 4
+cell_3508,10,Layer 2-3 medial
+cell_5637,10,Layer 2-3 medial
+cell_5695,10,Layer 2-3 medial
+cell_3482,10,Layer 2-3 medial
+cell_6738,10,Layer 2-3 medial
+cell_1608,10,Layer 2-3 lateral
+cell_4868,1,Layer 2-3 medial
+cell_4758,1,Layer 4
+cell_4560,10,Layer 2-3 medial
+cell_5635,10,Layer 2-3 medial
+cell_5788,10,Layer 2-3 medial
+cell_1670,10,Layer 2-3 medial
+cell_6736,10,Layer 2-3 medial
+cell_3510,10,Layer 2-3 medial
+cell_4704,10,Layer 2-3 medial
+cell_5798,10,Layer 2-3 medial
+cell_4734,10,Layer 2-3 medial
+cell_5728,10,Layer 2-3 medial
+cell_5732,10,Layer 2-3 medial
+cell_6723,10,Layer 2-3 medial
+cell_1724,2,Layer 2-3 lateral
+cell_5686,10,Layer 2-3 medial
+cell_4688,10,Layer 2-3 medial
+cell_5789,10,Layer 2-3 medial
+cell_4654,10,Layer 2-3 medial
+cell_4685,10,Layer 2-3 medial
+cell_4669,10,Layer 2-3 medial
+cell_4580,10,Layer 2-3 medial
+cell_3362,10,Layer 2-3 medial
+cell_4637,10,Layer 2-3 medial
+cell_4651,10,Layer 2-3 medial
+cell_4680,1,Layer 4
+cell_5927,1,Layer 4
+cell_4595,10,Layer 2-3 medial
+cell_3802,1,Layer 4
+cell_6740,10,Layer 2-3 medial
+cell_4675,10,Layer 2-3 medial
+cell_1722,2,Layer 2-3 lateral
+cell_3581,10,Layer 2-3 medial
+cell_1662,10,Layer 2-3 medial
+cell_3396,10,Layer 2-3 medial
+cell_1811,10,Layer 3-4
+cell_4684,10,Layer 2-3 medial
+cell_1654,10,Layer 2-3 medial
+cell_6017,1,Layer 4
+cell_4647,10,Layer 2-3 medial
+cell_5776,10,Layer 2-3 medial
+cell_4788,10,Layer 2-3 medial
+cell_3420,10,Layer 2-3 medial
+cell_3580,10,Layer 3-4
+cell_5780,10,Layer 2-3 medial
+cell_3433,10,Layer 2-3 medial
+cell_5731,10,Layer 2-3 medial
+cell_1657,10,Layer 2-3 medial
+cell_5689,10,Layer 2-3 medial
+cell_3674,10,Layer 4
+cell_3472,10,Layer 2-3 medial
+cell_3521,10,Layer 2-3 medial
+cell_1656,10,Layer 2-3 medial
+cell_3522,10,Layer 2-3 medial
+cell_1886,10,Layer 3-4
+cell_3541,10,Layer 2-3 medial
+cell_6255,6,Layer 6
+cell_4618,10,Layer 2-3 medial
+cell_4679,10,Layer 2-3 medial
+cell_3649,10,Layer 2-3 medial
+cell_5733,10,Layer 2-3 medial
+cell_2232,6,Layer 6
+cell_5644,10,Layer 2-3 medial
+cell_6719,10,Layer 2-3 medial
+cell_5782,10,Layer 2-3 medial
+cell_3627,1,Layer 3-4
+cell_5820,10,Layer 2-3 medial
+cell_4765,10,Layer 2-3 medial
+cell_3370,10,Layer 2-3 medial
+cell_4584,10,Layer 2-3 medial
+cell_3774,1,Layer 4
+cell_4689,10,Layer 2-3 medial
+cell_4764,10,Layer 2-3 medial
+cell_4755,10,Layer 2-3 medial
+cell_5843,1,Layer 2-3 medial
+cell_3632,10,Layer 2-3 medial
+cell_3428,10,Layer 2-3 medial
+cell_6007,1,Layer 4
+cell_3366,10,Layer 2-3 medial
+cell_4854,10,Layer 2-3 medial
+cell_4594,10,Layer 2-3 medial
+cell_4766,1,Layer 4
+cell_3464,10,Layer 2-3 medial
+cell_3426,10,Layer 2-3 medial
+cell_4855,10,Layer 2-3 medial
+cell_5817,10,Layer 2-3 medial
+cell_1611,10,Layer 2-3 medial
+cell_5801,10,Layer 2-3 medial
+cell_4626,10,Layer 2-3 medial
+cell_1634,10,Layer 2-3 medial
+cell_3728,3,Layer 5
+cell_6733,10,Layer 2-3 medial
+cell_5722,10,Layer 2-3 medial
+cell_4728,10,Layer 2-3 medial
+cell_5778,10,Layer 2-3 medial
+cell_1665,10,Layer 2-3 medial
+cell_1617,10,Layer 2-3 medial
+cell_4600,10,Layer 2-3 medial
+cell_332,2,Layer 2-3 lateral
+cell_3355,10,Layer 2-3 medial
+cell_2427,6,Layer 6
+cell_5026,1,Layer 4
+cell_3365,10,Layer 2-3 medial
+cell_3498,10,Layer 2-3 medial
+cell_4763,10,Layer 2-3 medial
+cell_5779,10,Layer 2-3 medial
+cell_4653,10,Layer 2-3 medial
+cell_3425,10,Layer 2-3 lateral
+cell_4808,1,Layer 2-3 medial
+cell_3405,10,Layer 2-3 lateral
+cell_3872,3,Layer 5
+cell_4642,10,Layer 2-3 medial
+cell_245,2,Layer 2-3 lateral
+cell_4569,10,Layer 2-3 medial
+cell_4988,3,Layer 5
+cell_3860,3,Layer 5
+cell_272,2,Layer 2-3 lateral
+cell_1569,2,Layer 2-3 lateral
+cell_71,2,Layer 2-3 lateral
+cell_1663,10,Layer 2-3 medial
+cell_204,2,Layer 2-3 lateral
+cell_5650,10,Layer 2-3 medial
+cell_1680,2,Layer 2-3 lateral
+cell_274,2,Layer 2-3 lateral
+cell_1785,2,Layer 2-3 lateral
+cell_341,2,Layer 2-3 lateral
+cell_3430,10,Layer 2-3 lateral
+cell_5028,3,Layer 5
+cell_3838,3,Layer 5
+cell_4606,10,Layer 2-3 medial
+cell_6132,3,Layer 5
+cell_749,3,Layer 4
+cell_5073,3,Layer 5
+cell_1720,2,Layer 2-3 lateral
+cell_5206,3,Layer 5
+cell_4712,10,Layer 2-3 medial
+cell_4620,10,Layer 2-3 medial
+cell_7346,3,Layer 5
+cell_6085,3,Layer 5
+cell_18,2,Layer 2-3 lateral
+cell_4605,10,Layer 2-3 medial
+cell_7355,3,Layer 5
+cell_3401,10,Layer 3-4
+cell_2050,3,Layer 5
+cell_6742,10,Layer 2-3 medial
+cell_2195,3,Layer 5
+cell_3392,10,Layer 2-3 lateral
+cell_250,2,Layer 2-3 lateral
+cell_5809,10,Layer 2-3 medial
+cell_3308,10,Layer 2-3 lateral
+cell_3505,10,Layer 2-3 medial
+cell_3322,10,Layer 2-3 medial
+cell_284,2,Layer 2-3 lateral
+cell_3828,3,Layer 5
+cell_7371,3,Layer 5
+cell_62,2,Layer 2-3 lateral
+cell_1813,10,Layer 3-4
+cell_4619,10,Layer 2-3 medial
+cell_5745,10,Layer 2-3 medial
+cell_4912,3,Layer 5
+cell_3820,3,Layer 5
+cell_4699,10,Layer 2-3 medial
+cell_4694,10,Layer 2-3 medial
+cell_5039,3,Layer 5
+cell_5892,1,Layer 4
+cell_352,2,Layer 2-3 lateral
+cell_4552,10,Layer 2-3 medial
+cell_5799,10,Layer 2-3 medial
+cell_2221,3,Layer 5
+cell_6214,3,Layer 5
+cell_259,2,Layer 2-3 lateral
+cell_5736,10,Layer 2-3 medial
+cell_3866,3,Layer 5
+cell_32,2,Layer 2-3 lateral
+cell_3378,10,Layer 2-3 medial
+cell_3893,3,Layer 6
+cell_6715,10,Layer 2-3 medial
+cell_257,2,Layer 2-3 lateral
+cell_4643,10,Layer 2-3 medial
+cell_3465,10,Layer 2-3 medial
+cell_4571,10,Layer 2-3 medial
+cell_1593,2,Layer 2-3 medial
+cell_5221,3,Layer 5
+cell_1706,2,Layer 2-3 lateral
+cell_3552,10,Layer 2-3 medial
+cell_6110,3,Layer 4
+cell_1652,10,Layer 2-3 medial
+cell_3936,3,Layer 5
+cell_3876,3,Layer 5
+cell_6725,10,Layer 2-3 medial
+cell_5199,3,Layer 6
+cell_3532,10,Layer 2-3 medial
+cell_3821,3,Layer 5
+cell_3867,3,Layer 5
+cell_4610,10,Layer 2-3 medial
+cell_3421,10,Layer 2-3 lateral
+cell_4636,10,Layer 2-3 medial
+cell_6160,3,Layer 5
+cell_2280,3,Layer 6
+cell_6075,3,Layer 5
+cell_2168,7,Layer 4
+cell_735,3,Layer 4
+cell_747,3,Layer 4
+cell_3496,10,Layer 2-3 medial
+cell_306,2,Layer 3-4
+cell_262,2,Layer 2-3 lateral
+cell_7379,3,Layer 5
+cell_5156,3,Layer 5
+cell_314,2,Layer 2-3 lateral
+cell_4925,3,Layer 5
+cell_3752,3,Layer 5
+cell_304,2,Layer 2-3 lateral
+cell_4919,3,Layer 5
+cell_6183,3,Layer 5
+cell_1638,10,Layer 2-3 medial
+cell_225,2,Layer 2-3 lateral
+cell_1594,2,Layer 2-3 medial
+cell_4659,10,Layer 2-3 medial
+cell_74,2,Layer 2-3 lateral
+cell_5761,10,Layer 2-3 medial
+cell_4743,10,Layer 2-3 medial
+cell_3393,10,Layer 2-3 medial
+cell_436,2,Layer 2-3 lateral
+cell_1637,10,Layer 2-3 lateral
+cell_3830,3,Layer 6
+cell_6159,3,Layer 5
+cell_1649,10,Layer 2-3 medial
+cell_299,2,Layer 2-3 lateral
+cell_5645,10,Layer 2-3 medial
+cell_3357,10,Layer 2-3 medial
+cell_3600,10,Layer 2-3 medial
+cell_2130,3,Layer 5
+cell_5741,10,Layer 2-3 medial
+cell_2158,3,Layer 5
+cell_4633,10,Layer 2-3 medial
+cell_6107,3,Layer 5
+cell_3328,10,Layer 2-3 medial
+cell_4131,6,Layer 6
+cell_5759,10,Layer 2-3 medial
+cell_3469,10,Layer 2-3 medial
+cell_5721,10,Layer 2-3 medial
+cell_3878,3,Layer 5
+cell_5134,3,Layer 6
+cell_5990,1,Layer 4
+cell_6133,3,Layer 5
+cell_6190,3,Layer 5
+cell_3624,10,Layer 2-3 medial
+cell_354,2,Layer 2-3 lateral
+cell_1710,2,Layer 2-3 lateral
+cell_3836,3,Layer 5
+cell_1678,2,Layer 2-3 lateral
+cell_4900,3,Layer 5
+cell_5171,3,Layer 6
+cell_3359,10,Layer 2-3 medial
+cell_20,2,Layer 2-3 lateral
+cell_5658,10,Layer 2-3 medial
+cell_309,2,Layer 2-3 lateral
+cell_1717,2,Layer 2-3 lateral
+cell_3536,10,Layer 2-3 medial
+cell_5748,10,Layer 2-3 medial
+cell_222,2,Layer 2-3 lateral
+cell_4949,3,Layer 5
+cell_4695,10,Layer 2-3 medial
+cell_4757,10,Layer 2-3 medial
+cell_206,2,Layer 2-3 lateral
+cell_3452,10,Layer 2-3 medial
+cell_3363,10,Layer 2-3 medial
+cell_247,2,Layer 2-3 lateral
+cell_3454,10,Layer 2-3 medial
+cell_4985,3,Layer 5
+cell_4639,10,Layer 2-3 medial
+cell_3727,3,Layer 5
+cell_127,2,Layer 2-3 lateral
+cell_6165,3,Layer 4
+cell_4783,1,Layer 4
+cell_3782,3,Layer 5
+cell_7345,3,Layer 5
+cell_3816,3,Layer 5
+cell_5132,3,Layer 6
+cell_5832,10,Layer 2-3 medial
+cell_4676,10,Layer 2-3 medial
+cell_313,2,Layer 2-3 lateral
+cell_6102,3,Layer 5
+cell_5668,10,Layer 2-3 medial
+cell_5764,10,Layer 2-3 medial
+cell_3808,3,Layer 4
+cell_218,2,Layer 2-3 lateral
+cell_1682,2,Layer 2-3 lateral
+cell_271,2,Layer 2-3 lateral
+cell_1820,10,Layer 3-4
+cell_1644,10,Layer 2-3 medial
+cell_1732,2,Layer 2-3 lateral
+cell_6056,3,Layer 5
+cell_7351,3,Layer 5
+cell_3946,3,Layer 6
+cell_7357,3,Layer 5
+cell_50,2,Layer 2-3 lateral
+cell_1622,10,Layer 2-3 medial
+cell_1607,10,Layer 2-3 lateral
+cell_3941,3,Layer 5
+cell_296,2,Layer 2-3 lateral
+cell_279,2,Layer 2-3 lateral
+cell_4634,10,Layer 2-3 medial
+cell_6741,10,Layer 2-3 medial
+cell_1739,2,Layer 2-3 lateral
+cell_138,2,Layer 2-3 lateral
+cell_1838,10,Layer 2-3 medial
+cell_3799,3,Layer 5
+cell_5729,10,Layer 2-3 medial
+cell_3795,3,Layer 4
+cell_184,2,Layer 2-3 lateral
+cell_1793,2,Layer 2-3 lateral
+cell_716,3,Layer 5
+cell_3451,10,Layer 2-3 medial
+cell_270,2,Layer 2-3 lateral
+cell_1642,10,Layer 2-3 medial
+cell_6761,10,Layer 2-3 medial
+cell_3435,10,Layer 2-3 medial
+cell_4915,3,Layer 5
+cell_4666,10,Layer 2-3 medial
+cell_5885,10,Layer 2-3 medial
+cell_1705,2,Layer 2-3 lateral
+cell_525,2,Layer 3-4
+cell_6184,3,Layer 5
+cell_4664,10,Layer 2-3 medial
+cell_1738,2,Layer 2-3 lateral
+cell_5708,10,Layer 2-3 medial
+cell_269,2,Layer 2-3 lateral
+cell_308,2,Layer 2-3 lateral
+cell_6764,10,Layer 2-3 medial
+cell_4836,1,Layer 4
+cell_6049,3,Layer 5
+cell_5683,10,Layer 2-3 medial
+cell_3822,3,Layer 5
+cell_1659,10,Layer 2-3 medial
+cell_3933,3,Layer 5
+cell_2180,3,Layer 5
+cell_26,2,Layer 2-3 lateral
+cell_5680,10,Layer 2-3 medial
+cell_48,2,Layer 2-3 lateral
+cell_6086,3,Layer 5
+cell_1630,10,Layer 2-3 lateral
+cell_2121,3,Layer 5
+cell_4617,10,Layer 2-3 medial
+cell_219,2,Layer 2-3 lateral
+cell_1620,10,Layer 2-3 lateral
+cell_725,3,Layer 5
+cell_5769,10,Layer 2-3 medial
+cell_3397,10,Layer 2-3 lateral
+cell_2166,3,Layer 5
+cell_4632,10,Layer 2-3 medial
+cell_5734,10,Layer 2-3 medial
+cell_2139,3,Layer 5
+cell_3909,3,Layer 5
+cell_6124,3,Layer 5
+cell_3513,10,Layer 2-3 medial
+cell_3388,10,Layer 2-3 lateral
+cell_3390,10,Layer 2-3 lateral
+cell_6109,3,Layer 5
+cell_84,2,Layer 2-3 lateral
+cell_5760,10,Layer 2-3 medial
+cell_773,3,Layer 4
+cell_264,2,Layer 2-3 lateral
+cell_3445,10,Layer 2-3 medial
+cell_1756,2,Layer 2-3 lateral
+cell_234,2,Layer 2-3 lateral
+cell_3924,3,Layer 5
+cell_5082,3,Layer 5
+cell_5010,3,Layer 5
+cell_3523,10,Layer 2-3 medial
+cell_4833,10,Layer 2-3 medial
+cell_6162,3,Layer 5
+cell_3389,10,Layer 2-3 medial
+cell_4686,10,Layer 2-3 medial
+cell_6219,3,Layer 5
+cell_129,2,Layer 2-3 lateral
+cell_3827,3,Layer 5
+cell_4839,10,Layer 2-3 medial
+cell_5673,10,Layer 2-3 medial
+cell_1709,7,Layer 3-4
+cell_646,3,Layer 4
+cell_2171,7,Layer 4
+cell_91,2,Layer 2-3 lateral
+cell_239,2,Layer 2-3 lateral
+cell_4575,10,Layer 2-3 medial
+cell_3530,10,Layer 2-3 medial
+cell_724,3,Layer 5
+cell_5652,10,Layer 2-3 medial
+cell_94,2,Layer 2-3 lateral
+cell_108,2,Layer 4
+cell_3937,3,Layer 5
+cell_2100,3,Layer 5
+cell_254,2,Layer 2-3 lateral
+cell_2175,3,Layer 5
+cell_4635,10,Layer 2-3 medial
+cell_5710,10,Layer 2-3 medial
+cell_5090,3,Layer 5
+cell_2138,3,Layer 5
+cell_5751,10,Layer 2-3 medial
+cell_55,2,Layer 2-3 lateral
+cell_1648,10,Layer 2-3 medial
+cell_3851,3,Layer 5
+cell_5032,3,Layer 5
+cell_4805,10,Layer 2-3 medial
+cell_750,3,Layer 4
+cell_1783,7,Layer 4
+cell_6131,3,Layer 6
+cell_4628,10,Layer 2-3 medial
+cell_238,2,Layer 2-3 lateral
+cell_287,2,Layer 2-3 lateral
+cell_6213,3,Layer 5
+cell_5715,10,Layer 2-3 medial
+cell_3805,3,Layer 5
+cell_5046,3,Layer 5
+cell_1640,10,Layer 2-3 lateral
+cell_5747,10,Layer 2-3 medial
+cell_4638,10,Layer 2-3 medial
+cell_4749,10,Layer 2-3 medial
+cell_3531,10,Layer 2-3 medial
+cell_4611,10,Layer 2-3 medial
+cell_363,2,Layer 2-3 lateral
+cell_4577,10,Layer 2-3 medial
+cell_3403,10,Layer 2-3 medial
+cell_277,2,Layer 2-3 lateral
+cell_3607,10,Layer 3-4
+cell_5934,1,Layer 4
+cell_1757,7,Layer 3-4
+cell_618,7,Layer 4
+cell_7054,1,Layer 4
+cell_4978,1,Layer 4
+cell_4692,10,Layer 2-3 medial
+cell_628,3,Layer 4
+cell_3753,1,Layer 4
+cell_455,7,Layer 4
+cell_1746,7,Layer 3-4
+cell_3645,1,Layer 4
+cell_3529,10,Layer 2-3 medial
+cell_392,7,Layer 4
+cell_5945,1,Layer 4
+cell_5056,1,Layer 4
+cell_5050,1,Layer 4
+cell_2097,1,Layer 4
+cell_1771,7,Layer 4
+cell_2081,7,Layer 4
+cell_476,7,Layer 4
+cell_4901,1,Layer 4
+cell_477,7,Layer 4
+cell_1932,7,Layer 4
+cell_3644,1,Layer 4
+cell_6036,1,Layer 4
+cell_666,7,Layer 4
+cell_568,7,Layer 4
+cell_3703,1,Layer 4
+cell_532,7,Layer 4
+cell_4813,1,Layer 4
+cell_426,7,Layer 4
+cell_102,2,Layer 2-3 lateral
+cell_5864,1,Layer 4
+cell_3630,10,Layer 3-4
+cell_7065,1,Layer 4
+cell_548,7,Layer 4
+cell_1699,7,Layer 3-4
+cell_1848,10,Layer 3-4
+cell_1773,7,Layer 4
+cell_6755,1,Layer 2-3 medial
+cell_93,2,Layer 3-4
+cell_4722,1,Layer 4
+cell_126,2,Layer 3-4
+cell_434,7,Layer 4
+cell_1905,10,Layer 3-4
+cell_1980,7,Layer 4
+cell_5707,10,Layer 2-3 medial
+cell_517,7,Layer 4
+cell_5831,10,Layer 2-3 medial
+cell_4837,1,Layer 4
+cell_1865,7,Layer 3-4
+cell_5915,1,Layer 4
+cell_6191,6,Layer 6
+cell_3623,10,Layer 3-4
+cell_3571,1,Layer 3-4
+cell_1968,7,Layer 4
+cell_1727,7,Layer 3-4
+cell_1880,1,Layer 3-4
+cell_385,2,Layer 4
+cell_4844,1,Layer 4
+cell_3555,10,Layer 3-4
+cell_3638,10,Layer 3-4
+cell_456,2,Layer 4
+cell_1830,7,Layer 3-4
+cell_338,7,Layer 3-4
+cell_6043,10,Layer 2-3 medial
+cell_1822,7,Layer 3-4
+cell_1780,7,Layer 3-4
+cell_3667,1,Layer 4
+cell_6758,10,Layer 2-3 medial
+cell_6079,1,Layer 4
+cell_1725,7,Layer 3-4
+cell_1735,7,Layer 3-4
+cell_479,7,Layer 4
+cell_1854,7,Layer 3-4
+cell_4864,10,Layer 2-3 medial
+cell_1826,7,Layer 4
+cell_404,2,Layer 2-3 lateral
+cell_3687,1,Layer 4
+cell_6018,1,Layer 4
+cell_1718,7,Layer 3-4
+cell_3595,10,Layer 3-4
+cell_5924,1,Layer 4
+cell_4959,1,Layer 4
+cell_1839,7,Layer 3-4
+cell_5770,1,Layer 2-3 medial
+cell_3443,10,Layer 2-3 medial
+cell_3444,10,Layer 2-3 medial
+cell_1754,7,Layer 3-4
+cell_1872,7,Layer 3-4
+cell_1889,1,Layer 4
+cell_1766,7,Layer 3-4
+cell_5903,1,Layer 4
+cell_291,2,Layer 2-3 lateral
+cell_1812,7,Layer 3-4
+cell_507,7,Layer 4
+cell_466,7,Layer 4
+cell_335,7,Layer 3-4
+cell_409,7,Layer 4
+cell_3617,10,Layer 3-4
+cell_1686,7,Layer 3-4
+cell_361,7,Layer 4
+cell_3748,1,Layer 4
+cell_3573,1,Layer 3-4
+cell_4762,1,Layer 4
+cell_1857,10,Layer 2-3 medial
+cell_351,2,Layer 3-4
+cell_1869,10,Layer 3-4
+cell_5925,1,Layer 4
+cell_441,2,Layer 2-3 lateral
+cell_4829,1,Layer 4
+cell_347,2,Layer 3-4
+cell_535,7,Layer 3-4
+cell_3548,1,Layer 3-4
+cell_1851,7,Layer 3-4
+cell_90,7,Layer 4
+cell_1809,7,Layer 3-4
+cell_4810,10,Layer 2-3 medial
+cell_538,7,Layer 4
+cell_3460,10,Layer 2-3 medial
+cell_5913,1,Layer 4
+cell_5835,10,Layer 2-3 medial
+cell_1792,7,Layer 3-4
+cell_3603,1,Layer 3-4
+cell_3614,10,Layer 3-4
+cell_642,7,Layer 4
+cell_1929,7,Layer 4
+cell_1794,7,Layer 4
+cell_4791,1,Layer 4
+cell_5816,1,Layer 4
+cell_412,2,Layer 4
+cell_4761,1,Layer 4
+cell_7050,1,Layer 4
+cell_1702,7,Layer 3-4
+cell_516,7,Layer 3-4
+cell_4753,10,Layer 4
+cell_1704,7,Layer 3-4
+cell_3598,1,Layer 4
+cell_5203,6,Layer 6
+cell_4896,1,Layer 4
+cell_5906,1,Layer 4
+cell_4856,10,Layer 2-3 medial
+cell_3631,10,Layer 3-4
+cell_565,7,Layer 4
+cell_1913,7,Layer 4
+cell_502,7,Layer 4
+cell_1736,7,Layer 3-4
+cell_322,7,Layer 3-4
+cell_3715,10,Layer 4
+cell_1833,7,Layer 3-4
+cell_391,7,Layer 4
+cell_4698,1,Layer 4
+cell_1758,7,Layer 3-4
+cell_5880,1,Layer 4
+cell_7044,1,Layer 4
+cell_461,2,Layer 2-3 lateral
+cell_1887,10,Layer 3-4
+cell_122,2,Layer 3-4
+cell_4860,10,Layer 2-3 medial
+cell_3557,1,Layer 4
+cell_6032,1,Layer 4
+cell_4777,1,Layer 4
+cell_292,2,Layer 3-4
+cell_320,7,Layer 4
+cell_5918,1,Layer 4
+cell_5693,10,Layer 2-3 medial
+cell_6026,1,Layer 4
+cell_1903,1,Layer 3-4
+cell_1810,7,Layer 3-4
+cell_5936,1,Layer 4
+cell_4804,1,Layer 4
+cell_7036,1,Layer 4
+cell_6014,1,Layer 4
+cell_4877,1,Layer 4
+cell_1819,10,Layer 2-3 lateral
+cell_4851,1,Layer 4
+cell_1737,7,Layer 3-4
+cell_5826,1,Layer 4
+cell_6119,3,Layer 5
+cell_64,2,Layer 4
+cell_5957,1,Layer 4
+cell_136,7,Layer 4
+cell_3442,10,Layer 2-3 medial
+cell_4715,1,Layer 4
+cell_4742,1,Layer 4
+cell_77,7,Layer 4
+cell_518,2,Layer 3-4
+cell_3710,1,Layer 4
+cell_4958,1,Layer 4
+cell_2058,3,Layer 4
+cell_563,7,Layer 4
+cell_377,7,Layer 4
+cell_3549,10,Layer 2-3 medial
+cell_3636,1,Layer 4
+cell_530,7,Layer 4
+cell_2114,1,Layer 4
+cell_651,3,Layer 4
+cell_437,7,Layer 4
+cell_386,7,Layer 4
+cell_5971,1,Layer 4
+cell_639,7,Layer 4
+cell_2064,7,Layer 4
+cell_571,7,Layer 4
+cell_3411,10,Layer 2-3 medial
+cell_1950,7,Layer 4
+cell_5991,1,Layer 4
+cell_3633,1,Layer 4
+cell_5956,1,Layer 4
+cell_641,7,Layer 4
+cell_709,7,Layer 4
+cell_111,7,Layer 4
+cell_2062,7,Layer 4
+cell_537,7,Layer 4
+cell_680,7,Layer 4
+cell_3616,1,Layer 4
+cell_390,7,Layer 4
+cell_5871,1,Layer 4
+cell_549,7,Layer 4
+cell_2024,7,Layer 4
+cell_6031,1,Layer 4
+cell_536,7,Layer 4
+cell_1775,7,Layer 3-4
+cell_3619,1,Layer 4
+cell_531,7,Layer 4
+cell_4802,1,Layer 4
+cell_539,7,Layer 4
+cell_2020,7,Layer 4
+cell_1967,7,Layer 4
+cell_4721,1,Layer 4
+cell_1948,7,Layer 4
+cell_528,7,Layer 4
+cell_1933,7,Layer 4
+cell_616,7,Layer 4
+cell_1755,7,Layer 4
+cell_3968,3,Layer 6
+cell_2077,3,Layer 4
+cell_2082,7,Layer 4
+cell_5855,1,Layer 4
+cell_2075,7,Layer 4
+cell_3739,1,Layer 4
+cell_397,7,Layer 4
+cell_635,7,Layer 4
+cell_4729,10,Layer 2-3 medial
+cell_5978,1,Layer 4
+cell_1939,7,Layer 4
+cell_1966,7,Layer 4
+cell_648,7,Layer 4
+cell_383,7,Layer 4
+cell_5058,1,Layer 4
+cell_609,7,Layer 4
+cell_7063,1,Layer 4
+cell_1955,7,Layer 4
+cell_3591,1,Layer 4
+cell_4795,1,Layer 4
+cell_3594,1,Layer 4
+cell_4935,1,Layer 4
+cell_4815,1,Layer 4
+cell_2021,7,Layer 4
+cell_1781,7,Layer 4
+cell_417,7,Layer 4
+cell_2211,6,Layer 6
+cell_1798,7,Layer 4
+cell_416,7,Layer 4
+cell_597,7,Layer 4
+cell_148,7,Layer 4
+cell_2023,7,Layer 4
+cell_2088,7,Layer 4
+cell_2025,7,Layer 4
+cell_2162,3,Layer 5
+cell_4716,1,Layer 4
+cell_372,7,Layer 4
+cell_1825,7,Layer 4
+cell_5942,1,Layer 4
+cell_2044,7,Layer 4
+cell_3656,1,Layer 4
+cell_2160,3,Layer 5
+cell_1953,7,Layer 4
+cell_3628,10,Layer 3-4
+cell_5881,1,Layer 4
+cell_1837,7,Layer 4
+cell_486,7,Layer 4
+cell_5993,1,Layer 4
+cell_104,2,Layer 3-4
+cell_2019,7,Layer 4
+cell_463,7,Layer 4
+cell_569,7,Layer 4
+cell_658,7,Layer 4
+cell_414,7,Layer 4
+cell_515,7,Layer 4
+cell_3601,1,Layer 4
+cell_602,7,Layer 4
+cell_7057,1,Layer 4
+cell_4975,1,Layer 4
+cell_67,7,Layer 4
+cell_2099,1,Layer 4
+cell_1749,7,Layer 3-4
+cell_1945,7,Layer 4
+cell_5979,1,Layer 4
+cell_1954,7,Layer 4
+cell_588,7,Layer 4
+cell_3786,1,Layer 4
+cell_4775,1,Layer 4
+cell_3602,1,Layer 4
+cell_584,7,Layer 4
+cell_7092,1,Layer 4
+cell_121,7,Layer 4
+cell_653,3,Layer 4
+cell_5834,1,Layer 4
+cell_410,2,Layer 4
+cell_4952,1,Layer 4
+cell_7055,1,Layer 4
+cell_367,7,Layer 4
+cell_649,7,Layer 4
+cell_523,7,Layer 4
+cell_620,7,Layer 4
+cell_5972,1,Layer 4
+cell_711,7,Layer 4
+cell_2007,7,Layer 4
+cell_1961,7,Layer 4
+cell_2117,3,Layer 4
+cell_2008,7,Layer 4
+cell_5941,1,Layer 4
+cell_605,7,Layer 4
+cell_5902,1,Layer 4
+cell_2029,7,Layer 4
+cell_2102,1,Layer 4
+cell_1814,7,Layer 3-4
+cell_625,7,Layer 4
+cell_509,7,Layer 4
+cell_1912,7,Layer 4
+cell_5919,1,Layer 4
+cell_4962,1,Layer 4
+cell_1991,7,Layer 4
+cell_2275,3,Layer 6
+cell_3493,10,Layer 2-3 medial
+cell_1777,7,Layer 4
+cell_6073,1,Layer 4
+cell_3793,3,Layer 4
+cell_713,3,Layer 4
+cell_1712,7,Layer 3-4
+cell_5882,1,Layer 4
+cell_7081,1,Layer 4
+cell_3575,1,Layer 4
+cell_393,7,Layer 4
+cell_3804,3,Layer 4
+cell_1936,7,Layer 4
+cell_5987,1,Layer 4
+cell_2014,7,Layer 4
+cell_2091,7,Layer 4
+cell_3654,1,Layer 4
+cell_3566,1,Layer 4
+cell_1999,7,Layer 4
+cell_501,7,Layer 4
+cell_657,7,Layer 4
+cell_4996,1,Layer 4
+cell_5969,1,Layer 4
+cell_1902,1,Layer 4
+cell_3558,1,Layer 4
+cell_4717,10,Layer 4
+cell_1947,7,Layer 4
+cell_145,7,Layer 4
+cell_748,3,Layer 4
+cell_7079,1,Layer 4
+cell_5002,1,Layer 4
+cell_1982,7,Layer 4
+cell_395,7,Layer 4
+cell_3714,1,Layer 4
+cell_489,7,Layer 4
+cell_4951,3,Layer 4
+cell_3584,1,Layer 4
+cell_567,7,Layer 4
+cell_7086,1,Layer 4
+cell_5894,1,Layer 4
+cell_5140,3,Layer 6
+cell_2013,7,Layer 4
+cell_4789,1,Layer 4
+cell_2072,1,Layer 4
+cell_4880,1,Layer 4
+cell_2115,1,Layer 4
+cell_3698,1,Layer 4
+cell_6045,1,Layer 4
+cell_3730,1,Layer 4
+cell_2251,3,Layer 6
+cell_607,7,Layer 4
+cell_346,7,Layer 4
+cell_4968,1,Layer 4
+cell_582,7,Layer 4
+cell_360,7,Layer 4
+cell_1817,7,Layer 4
+cell_424,7,Layer 4
+cell_1907,1,Layer 4
+cell_5868,1,Layer 4
+cell_428,7,Layer 4
+cell_5967,1,Layer 4
+cell_2070,7,Layer 4
+cell_1740,7,Layer 4
+cell_5847,1,Layer 4
+cell_3719,1,Layer 4
+cell_499,7,Layer 4
+cell_7069,1,Layer 4
+cell_1849,7,Layer 4
+cell_7056,1,Layer 4
+cell_5896,1,Layer 4
+cell_3678,1,Layer 4
+cell_492,7,Layer 4
+cell_6001,1,Layer 4
+cell_691,7,Layer 4
+cell_696,7,Layer 4
+cell_86,7,Layer 4
+cell_1992,7,Layer 4
+cell_2036,7,Layer 4
+cell_5998,1,Layer 4
+cell_3682,1,Layer 4
+cell_1768,7,Layer 4
+cell_4832,1,Layer 4
+cell_405,7,Layer 4
+cell_1927,7,Layer 4
+cell_527,7,Layer 4
+cell_6039,1,Layer 4
+cell_5859,1,Layer 2-3 medial
+cell_566,7,Layer 4
+cell_3671,1,Layer 4
+cell_2116,1,Layer 4
+cell_561,7,Layer 4
+cell_1934,7,Layer 4
+cell_4850,1,Layer 4
+cell_1788,7,Layer 4
+cell_2049,7,Layer 4
+cell_4894,1,Layer 4
+cell_2002,7,Layer 4
+cell_3778,3,Layer 4
+cell_6028,1,Layer 4
+cell_573,7,Layer 4
+cell_4974,1,Layer 4
+cell_4848,1,Layer 4
+cell_5873,1,Layer 4
+cell_6037,1,Layer 4
+cell_430,2,Layer 4
+cell_425,7,Layer 4
+cell_686,7,Layer 4
+cell_2031,7,Layer 4
+cell_135,7,Layer 4
+cell_570,7,Layer 4
+cell_594,7,Layer 4
+cell_5874,1,Layer 4
+cell_1898,1,Layer 4
+cell_5866,1,Layer 4
+cell_5869,1,Layer 4
+cell_5939,1,Layer 4
+cell_1951,7,Layer 4
+cell_3585,1,Layer 4
+cell_3717,1,Layer 4
+cell_547,7,Layer 4
+cell_2085,7,Layer 4
+cell_3705,1,Layer 4
+cell_1874,7,Layer 4
+cell_2004,7,Layer 4
+cell_1975,7,Layer 4
+cell_1944,7,Layer 4
+cell_3663,1,Layer 4
+cell_3637,1,Layer 4
+cell_5863,1,Layer 4
+cell_579,7,Layer 4
+cell_473,7,Layer 4
+cell_512,7,Layer 4
+cell_1789,7,Layer 4
+cell_5766,10,Layer 2-3 medial
+cell_508,7,Layer 4
+cell_3767,1,Layer 4
+cell_2079,7,Layer 4
+cell_4706,1,Layer 4
+cell_636,7,Layer 4
+cell_5862,1,Layer 4
+cell_2111,1,Layer 4
+cell_519,7,Layer 4
+cell_1917,7,Layer 4
+cell_830,6,Layer 6
+cell_533,7,Layer 4
+cell_2032,7,Layer 4
+cell_3775,1,Layer 4
+cell_376,7,Layer 4
+cell_575,7,Layer 4
+cell_3681,1,Layer 4
+cell_1922,7,Layer 4
+cell_652,7,Layer 4
+cell_6002,1,Layer 4
+cell_1873,1,Layer 4
+cell_4730,10,Layer 2-3 medial
+cell_4970,1,Layer 4
+cell_3711,1,Layer 4
+cell_467,7,Layer 4
+cell_464,7,Layer 4
+cell_2086,3,Layer 4
+cell_4841,1,Layer 4
+cell_540,7,Layer 4
+cell_557,7,Layer 4
+cell_6035,1,Layer 4
+cell_381,7,Layer 4
+cell_677,7,Layer 4
+cell_1761,7,Layer 4
+cell_68,7,Layer 4
+cell_3746,1,Layer 4
+cell_654,7,Layer 4
+cell_1994,7,Layer 4
+cell_147,7,Layer 4
+cell_3592,1,Layer 4
+cell_587,7,Layer 4
+cell_5889,1,Layer 4
+cell_4879,1,Layer 4
+cell_3777,1,Layer 4
+cell_7085,1,Layer 4
+cell_3718,1,Layer 4
+cell_2199,3,Layer 5
+cell_494,7,Layer 4
+cell_3732,1,Layer 4
+cell_4797,1,Layer 4
+cell_785,3,Layer 4
+cell_4918,1,Layer 4
+cell_3542,7,Layer 4
+cell_2037,7,Layer 4
+cell_5914,1,Layer 4
+cell_1894,1,Layer 4
+cell_5953,1,Layer 4
+cell_2035,7,Layer 4
+cell_273,2,Layer 3-4
+cell_5858,1,Layer 4
+cell_504,7,Layer 4
+cell_7070,1,Layer 4
+cell_5930,1,Layer 4
+cell_1959,7,Layer 4
+cell_1935,7,Layer 4
+cell_447,7,Layer 4
+cell_3613,1,Layer 3-4
+cell_4872,1,Layer 4
+cell_3791,1,Layer 4
+cell_448,7,Layer 4
+cell_1733,7,Layer 4
+cell_5955,1,Layer 4
+cell_5974,1,Layer 4
+cell_484,7,Layer 4
+cell_6072,1,Layer 4
+cell_2205,3,Layer 5
+cell_1957,7,Layer 4
+cell_500,7,Layer 4
+cell_2127,3,Layer 4
+cell_2042,7,Layer 4
+cell_1799,7,Layer 4
+cell_757,6,Layer 6
+cell_5984,1,Layer 4
+cell_4887,1,Layer 4
+cell_5952,1,Layer 4
+cell_3789,3,Layer 4
+cell_2059,7,Layer 4
+cell_624,7,Layer 4
+cell_4993,1,Layer 4
+cell_4840,1,Layer 4
+cell_4846,1,Layer 4
+cell_1925,7,Layer 4
+cell_524,7,Layer 4
+cell_3958,3,Layer 6
+cell_2092,7,Layer 4
+cell_5854,1,Layer 4
+cell_1871,7,Layer 3-4
+cell_2034,7,Layer 4
+cell_3708,1,Layer 4
+cell_1836,7,Layer 4
+cell_7053,1,Layer 4
+cell_4835,1,Layer 4
+cell_1881,10,Layer 2-3 medial
+cell_5011,1,Layer 4
+cell_1958,7,Layer 4
+cell_4966,1,Layer 4
+cell_4936,1,Layer 4
+cell_3760,1,Layer 4
+cell_2106,1,Layer 4
+cell_2065,7,Layer 4
+cell_2331,6,Layer 6
+cell_5895,1,Layer 4
+cell_5775,1,Layer 2-3 medial
+cell_3723,1,Layer 4
+cell_485,7,Layer 4
+cell_1779,7,Layer 4
+cell_496,2,Layer 3-4
+cell_1786,7,Layer 4
+cell_5890,1,Layer 4
+cell_4798,1,Layer 4
+cell_5900,1,Layer 4
+cell_2055,7,Layer 4
+cell_1890,1,Layer 4
+cell_1723,7,Layer 3-4
+cell_4816,1,Layer 4
+cell_369,7,Layer 4
+cell_110,7,Layer 4
+cell_3712,3,Layer 4
+cell_5004,1,Layer 4
+cell_626,7,Layer 4
+cell_3722,1,Layer 4
+cell_144,7,Layer 4
+cell_676,7,Layer 4
+cell_471,7,Layer 4
+cell_446,7,Layer 4
+cell_1952,7,Layer 4
+cell_562,7,Layer 4
+cell_1985,7,Layer 4
+cell_1787,7,Layer 4
+cell_5887,1,Layer 4
+cell_3647,1,Layer 3-4
+cell_522,7,Layer 4
+cell_7047,1,Layer 4
+cell_6038,1,Layer 4
+cell_544,7,Layer 4
+cell_1997,7,Layer 4
+cell_2307,3,Layer 6
+cell_1965,7,Layer 4
+cell_4834,1,Layer 4
+cell_612,7,Layer 4
+cell_3655,1,Layer 4
+cell_3551,1,Layer 4
+cell_2087,7,Layer 4
+cell_118,7,Layer 4
+cell_4767,1,Layer 4
+cell_583,7,Layer 4
+cell_738,3,Layer 4
+cell_4714,1,Layer 4
+cell_2120,1,Layer 4
+cell_2000,7,Layer 4
+cell_418,7,Layer 4
+cell_1763,7,Layer 4
+cell_682,7,Layer 4
+cell_600,7,Layer 4
+cell_1995,7,Layer 4
+cell_5825,1,Layer 4
+cell_3563,1,Layer 4
+cell_1770,7,Layer 4
+cell_3815,3,Layer 4
+cell_5828,1,Layer 4
+cell_2067,7,Layer 4
+cell_472,7,Layer 4
+cell_3582,1,Layer 4
+cell_1943,7,Layer 4
+cell_142,7,Layer 4
+cell_435,7,Layer 4
+cell_1983,7,Layer 4
+cell_640,7,Layer 4
+cell_615,7,Layer 4
+cell_4781,1,Layer 4
+cell_4992,1,Layer 4
+cell_1978,7,Layer 4
+cell_4732,1,Layer 4
+cell_4941,1,Layer 4
+cell_1960,7,Layer 4
+cell_506,7,Layer 4
+cell_710,3,Layer 4
+cell_633,7,Layer 4
+cell_2045,7,Layer 4
+cell_541,7,Layer 4
+cell_481,7,Layer 4
+cell_4776,1,Layer 4
+cell_667,7,Layer 4
+cell_4867,1,Layer 4
+cell_490,7,Layer 4
+cell_631,7,Layer 4
+cell_3562,1,Layer 4
+cell_610,7,Layer 4
+cell_3763,1,Layer 4
+cell_2053,7,Layer 4
+cell_1801,7,Layer 4
+cell_613,7,Layer 4
+cell_445,7,Layer 4
+cell_2193,3,Layer 6
+cell_2056,7,Layer 4
+cell_1824,7,Layer 4
+cell_5912,1,Layer 4
+cell_514,7,Layer 4
+cell_5842,1,Layer 4
+cell_2274,3,Layer 6
+cell_5995,1,Layer 4
+cell_4953,1,Layer 4
+cell_681,7,Layer 4
+cell_4778,1,Layer 4
+cell_495,7,Layer 4
+cell_4927,1,Layer 4
+cell_552,7,Layer 4
+cell_453,7,Layer 4
+cell_4779,1,Layer 4
+cell_5003,1,Layer 4
+cell_1784,7,Layer 4
+cell_5921,1,Layer 4
+cell_7046,1,Layer 4
+cell_3798,3,Layer 5
+cell_6029,1,Layer 4
+cell_598,7,Layer 4
+cell_388,7,Layer 4
+cell_1989,7,Layer 4
+cell_3686,1,Layer 4
+cell_2094,1,Layer 4
+cell_451,7,Layer 4
+cell_593,7,Layer 4
+cell_3704,1,Layer 4
+cell_3646,1,Layer 4
+cell_4902,1,Layer 4
+cell_1728,7,Layer 3-4
+cell_5949,1,Layer 4
+cell_2043,7,Layer 4
+cell_669,7,Layer 4
+cell_745,3,Layer 4
+cell_1986,7,Layer 4
+cell_2069,7,Layer 4
+cell_526,7,Layer 4
+cell_659,7,Layer 4
+cell_7049,1,Layer 4
+cell_5014,1,Layer 4
+cell_1762,7,Layer 4
+cell_6265,6,Layer 6
+cell_2155,6,Layer 6
+cell_820,6,Layer 6
+cell_5017,1,Layer 4
+cell_6145,6,Layer 6
+cell_6144,3,Layer 4
+cell_5273,6,Layer 6
+cell_3588,1,Layer 4
+cell_6057,3,Layer 5
+cell_5087,3,Layer 5
+cell_5235,6,Layer 6
+cell_2387,6,Layer 6
+cell_5009,1,Layer 4
+cell_3980,6,Layer 6
+cell_2256,6,Layer 6
+cell_6276,6,Layer 6
+cell_2134,3,Layer 5
+cell_5049,3,Layer 6
+cell_5066,6,Layer 6
+cell_3811,3,Layer 4
+cell_7335,3,Layer 5
+cell_6269,3,Layer 6
+cell_5225,6,Layer 6
+cell_6277,6,Layer 6
+cell_2321,6,Layer 6
+cell_3953,6,Layer 6
+cell_3871,3,Layer 6
+cell_7652,6,Layer 6
+cell_6359,6,Layer 6
+cell_5254,6,Layer 6
+cell_6423,6,Layer 6
+cell_4964,3,Layer 4
+cell_2090,3,Layer 5
+cell_7072,1,Layer 4
+cell_5041,3,Layer 6
+cell_5229,6,Layer 6
+cell_810,6,Layer 6
+cell_3812,3,Layer 5
+cell_6215,3,Layer 5
+cell_6074,3,Layer 5
+cell_6115,3,Layer 5
+cell_7633,6,Layer 6
+cell_2234,6,Layer 6
+cell_2231,6,Layer 6
+cell_3701,3,Layer 5
+cell_5125,6,Layer 6
+cell_673,3,Layer 4
+cell_4079,6,Layer 6
+cell_6089,3,Layer 5
+cell_5517,0,Hippocampus
+cell_5409,6,Layer 6
+cell_2190,6,Layer 6
+cell_4128,6,Layer 6
+cell_3813,3,Layer 4
+cell_6149,3,Layer 5
+cell_2405,6,Layer 6
+cell_1823,7,Layer 3-4
+cell_894,6,Layer 6
+cell_6152,6,Layer 6
+cell_2498,6,Layer 6
+cell_6447,4,White matter
+cell_5210,6,Layer 6
+cell_6335,6,Layer 6
+cell_5242,6,Layer 6
+cell_6052,3,Layer 4
+cell_6062,3,Layer 5
+cell_2501,6,Layer 6
+cell_5509,0,Hippocampus
+cell_3850,3,Layer 5
+cell_5149,3,Layer 6
+cell_6243,6,Layer 6
+cell_4994,3,Layer 5
+cell_5052,3,Layer 5
+cell_3818,3,Layer 4
+cell_3709,3,Layer 5
+cell_6121,3,Layer 6
+cell_7034,1,Layer 4
+cell_3983,6,Layer 6
+cell_3756,3,Layer 5
+cell_6194,3,Layer 5
+cell_6297,3,Layer 6
+cell_4924,3,Layer 5
+cell_7359,3,Layer 5
+cell_4116,6,Layer 6
+cell_3917,6,Layer 6
+cell_2239,6,Layer 6
+cell_7333,3,Layer 5
+cell_3861,3,Layer 5
+cell_720,3,Layer 5
+cell_956,6,Layer 6
+cell_7347,3,Layer 5
+cell_5474,0,Hippocampus
+cell_4353,0,Hippocampus
+cell_5883,3,Layer 4
+cell_3900,3,Layer 5
+cell_4114,6,Layer 6
+cell_5435,4,White matter
+cell_7369,6,Layer 6
+cell_5192,3,Layer 6
+cell_6114,3,Layer 5
+cell_4820,10,Layer 2-3 medial
+cell_5207,6,Layer 6
+cell_5117,3,Layer 5
+cell_6173,3,Layer 4
+cell_5042,3,Layer 4
+cell_4272,0,Hippocampus
+cell_4105,6,Layer 6
+cell_3884,3,Layer 6
+cell_3889,6,Layer 6
+cell_5008,3,Layer 5
+cell_3845,3,Layer 6
+cell_4905,3,Layer 5
+cell_6358,6,Layer 6
+cell_3939,6,Layer 6
+cell_2287,6,Layer 6
+cell_6192,6,Layer 6
+cell_6178,6,Layer 6
+cell_6203,3,Layer 5
+cell_6163,3,Layer 5
+cell_3879,3,Layer 5
+cell_4077,6,Layer 6
+cell_4000,6,Layer 6
+cell_2322,6,Layer 6
+cell_6281,3,Layer 6
+cell_786,3,Layer 4
+cell_3894,3,Layer 5
+cell_6123,3,Layer 5
+cell_5183,6,Layer 6
+cell_6155,3,Layer 5
+cell_5088,6,Layer 6
+cell_6061,3,Layer 4
+cell_6291,3,Layer 6
+cell_6095,3,Layer 4
+cell_6137,3,Layer 5
+cell_5022,1,Layer 4
+cell_3892,3,Layer 6
+cell_2151,6,Layer 6
+cell_4019,6,Layer 6
+cell_6093,3,Layer 5
+cell_5160,3,Layer 6
+cell_3855,3,Layer 5
+cell_7344,6,Layer 6
+cell_5116,6,Layer 6
+cell_5568,0,Hippocampus
+cell_3846,3,Layer 5
+cell_5347,6,Layer 6
+cell_3938,3,Layer 5
+cell_5114,6,Layer 6
+cell_2192,6,Layer 6
+cell_2265,3,Layer 6
+cell_2271,6,Layer 6
+cell_3841,3,Layer 5
+cell_6016,1,Layer 4
+cell_864,6,Layer 6
+cell_6201,3,Layer 5
+cell_4420,9,White matter
+cell_5051,3,Layer 4
+cell_3852,6,Layer 6
+cell_6025,3,Layer 4
+cell_3837,6,Layer 6
+cell_3833,3,Layer 4
+cell_7354,3,Layer 6
+cell_7375,3,Layer 5
+cell_5209,6,Layer 6
+cell_3840,3,Layer 6
+cell_6112,3,Layer 5
+cell_3832,6,Layer 6
+cell_6278,6,Layer 6
+cell_3930,6,Layer 6
+cell_821,6,Layer 6
+cell_5162,6,Layer 6
+cell_2325,6,Layer 6
+cell_2400,6,Layer 6
+cell_2573,6,Layer 6
+cell_4008,6,Layer 6
+cell_4028,6,Layer 6
+cell_7381,6,Layer 6
+cell_2367,6,Layer 6
+cell_5188,6,Layer 6
+cell_6239,6,Layer 6
+cell_4112,6,Layer 6
+cell_4154,6,Layer 6
+cell_4090,6,Layer 6
+cell_3985,6,Layer 6
+cell_6417,6,Layer 6
+cell_2429,6,Layer 6
+cell_2583,6,Layer 6
+cell_6271,6,Layer 6
+cell_120,2,Layer 3-4
+cell_6292,6,Layer 6
+cell_2301,6,Layer 6
+cell_4169,6,Layer 6
+cell_2446,6,Layer 6
+cell_4130,6,Layer 6
+cell_898,6,Layer 6
+cell_5245,6,Layer 6
+cell_6316,6,Layer 6
+cell_2572,4,Layer 6
+cell_4097,6,Layer 6
+cell_911,6,Layer 6
+cell_3994,6,Layer 6
+cell_849,2,Layer 6
+cell_4106,6,Layer 6
+cell_5170,6,Layer 6
+cell_2346,6,Layer 6
+cell_4015,6,Layer 6
+cell_2401,6,Layer 6
+cell_7362,6,Layer 6
+cell_4091,6,Layer 6
+cell_6246,6,Layer 6
+cell_928,6,Layer 6
+cell_6319,6,Layer 6
+cell_4141,6,Layer 6
+cell_886,6,Layer 6
+cell_4145,6,Layer 6
+cell_7654,6,Layer 6
+cell_2194,6,Layer 6
+cell_5226,6,Layer 6
+cell_3984,6,Layer 6
+cell_6280,6,Layer 6
+cell_2576,6,Layer 6
+cell_6416,6,White matter
+cell_6341,6,Layer 6
+cell_2326,6,Layer 6
+cell_792,6,Layer 6
+cell_4175,6,Layer 6
+cell_5405,6,Layer 6
+cell_6414,6,Layer 6
+cell_4103,6,Layer 6
+cell_5194,6,Layer 6
+cell_4195,6,Layer 6
+cell_798,6,Layer 6
+cell_6355,6,Layer 6
+cell_6329,6,Layer 6
+cell_6238,6,Layer 6
+cell_4026,6,Layer 6
+cell_991,6,Layer 6
+cell_2499,6,Layer 6
+cell_2412,6,Layer 6
+cell_5195,6,Layer 6
+cell_6360,6,Layer 6
+cell_2398,6,Layer 6
+cell_2416,6,Layer 6
+cell_2476,6,Layer 6
+cell_3977,6,Layer 6
+cell_7666,6,Layer 6
+cell_5180,6,Layer 6
+cell_6385,6,Layer 6
+cell_2449,6,Layer 6
+cell_981,2,Layer 6
+cell_4082,6,Layer 6
+cell_6285,6,Layer 6
+cell_6318,6,Layer 6
+cell_4004,6,Layer 6
+cell_6221,6,Layer 6
+cell_5344,6,Layer 6
+cell_2491,4,Layer 6
+cell_6284,6,Layer 6
+cell_5286,6,Layer 6
+cell_6169,6,Layer 6
+cell_2368,6,Layer 6
+cell_2585,4,Layer 6
+cell_5329,6,Layer 6
+cell_5283,6,Layer 6
+cell_4111,6,Layer 6
+cell_4174,6,Layer 6
+cell_7671,6,Layer 6
+cell_5330,6,Layer 6
+cell_825,6,Layer 6
+cell_7639,6,Layer 6
+cell_5339,6,Layer 6
+cell_5236,6,Layer 6
+cell_6336,6,Layer 6
+cell_2296,6,Layer 6
+cell_2396,6,Layer 6
+cell_3856,3,Layer 6
+cell_5173,6,Layer 6
+cell_2360,6,Layer 6
+cell_6295,6,Layer 6
+cell_4117,6,Layer 6
+cell_7642,6,Layer 6
+cell_905,6,Layer 6
+cell_2606,6,Layer 6
+cell_2214,6,Layer 6
+cell_2179,6,Layer 6
+cell_1010,2,Layer 6
+cell_2247,6,Layer 6
+cell_4030,6,Layer 6
+cell_4119,6,Layer 6
+cell_6298,6,Layer 6
+cell_5349,6,Layer 6
+cell_5193,6,Layer 6
+cell_3437,10,Layer 2-3 medial
+cell_6391,6,Layer 6
+cell_6397,6,Layer 6
+cell_7669,6,Layer 6
+cell_5287,6,Layer 6
+cell_5342,6,Layer 6
+cell_5315,6,Layer 6
+cell_6235,6,Layer 6
+cell_6264,6,Layer 6
+cell_2610,6,Layer 6
+cell_3935,6,Layer 6
+cell_4073,6,Layer 6
+cell_4017,6,Layer 6
+cell_5337,6,Layer 6
+cell_883,6,Layer 6
+cell_7380,6,Layer 6
+cell_2361,6,Layer 6
+cell_5265,6,Layer 6
+cell_2459,6,Layer 6
+cell_2272,6,Layer 6
+cell_5167,6,Layer 6
+cell_2336,6,Layer 6
+cell_2374,6,Layer 6
+cell_5385,6,Layer 6
+cell_876,6,Layer 6
+cell_6421,6,Layer 6
+cell_5276,6,Layer 6
+cell_4190,6,Layer 6
+cell_5084,6,Layer 6
+cell_5322,6,Layer 6
+cell_6256,6,Layer 6
+cell_6272,6,Layer 6
+cell_2254,6,Layer 6
+cell_6334,6,Layer 6
+cell_6379,6,Layer 6
+cell_872,6,Layer 6
+cell_7378,6,Layer 6
+cell_7365,6,Layer 6
+cell_2341,6,Layer 6
+cell_6352,6,Layer 6
+cell_4161,6,Layer 6
+cell_5224,6,Layer 6
+cell_5154,6,Layer 6
+cell_823,6,Layer 6
+cell_6253,6,Layer 6
+cell_3921,6,Layer 6
+cell_4013,6,Layer 6
+cell_5291,6,Layer 6
+cell_2384,6,Layer 6
+cell_5100,6,Layer 6
+cell_2240,6,Layer 6
+cell_5220,6,Layer 6
+cell_2428,6,Layer 6
+cell_908,6,Layer 6
+cell_6395,6,Layer 6
+cell_6259,6,Layer 6
+cell_5253,6,Layer 6
+cell_900,6,Layer 6
+cell_7658,6,Layer 6
+cell_833,6,Layer 6
+cell_2438,6,Layer 6
+cell_3870,6,Layer 6
+cell_3962,6,Layer 6
+cell_7634,6,Layer 6
+cell_6363,6,Layer 6
+cell_5182,6,Layer 6
+cell_5211,6,Layer 6
+cell_6378,6,Layer 6
+cell_6348,6,Layer 6
+cell_2458,6,Layer 6
+cell_6404,6,Layer 6
+cell_7646,6,Layer 6
+cell_5141,6,Layer 6
+cell_760,6,Layer 6
+cell_6309,6,Layer 6
+cell_6311,6,Layer 6
+cell_771,6,Layer 6
+cell_4101,6,Layer 6
+cell_6424,6,Layer 6
+cell_2318,6,Layer 6
+cell_2456,6,Layer 6
+cell_6287,6,Layer 6
+cell_4043,6,Layer 6
+cell_2277,6,Layer 6
+cell_882,6,Layer 6
+cell_4034,6,Layer 6
+cell_7332,6,Layer 6
+cell_2362,6,Layer 6
+cell_865,6,Layer 6
+cell_5218,6,Layer 6
+cell_784,6,Layer 6
+cell_5372,6,Layer 6
+cell_2436,6,Layer 6
+cell_859,2,Layer 6
+cell_3998,6,Layer 6
+cell_5191,6,Layer 6
+cell_4153,6,Layer 6
+cell_5377,6,Layer 6
+cell_6310,6,Layer 6
+cell_2496,6,Layer 6
+cell_2337,6,Layer 6
+cell_4158,6,Layer 6
+cell_6273,6,Layer 6
+cell_2266,6,Layer 6
+cell_780,6,Layer 6
+cell_2442,6,Layer 6
+cell_6374,6,Layer 6
+cell_6328,6,Layer 6
+cell_6343,6,Layer 6
+cell_6301,6,Layer 6
+cell_5174,6,Layer 6
+cell_878,6,Layer 6
+cell_6261,6,Layer 6
+cell_3920,6,Layer 6
+cell_2548,6,Layer 6
+cell_5298,6,Layer 6
+cell_6321,6,Layer 6
+cell_5179,6,Layer 6
+cell_5325,6,Layer 6
+cell_7660,6,Layer 6
+cell_5227,6,Layer 6
+cell_2335,6,Layer 6
+cell_5129,6,Layer 6
+cell_6425,6,Layer 6
+cell_6436,6,Layer 6
+cell_2184,6,Layer 6
+cell_6429,6,Layer 6
+cell_6386,6,Layer 6
+cell_5223,6,Layer 6
+cell_6304,6,Layer 6
+cell_6223,6,Layer 6
+cell_4059,6,Layer 6
+cell_2363,6,Layer 6
+cell_7364,6,Layer 6
+cell_2525,6,Layer 6
+cell_2393,6,Layer 6
+cell_6393,6,Layer 6
+cell_6407,6,Layer 6
+cell_923,6,Layer 6
+cell_4099,6,Layer 6
+cell_4229,4,Layer 6
+cell_862,2,Layer 6
+cell_2353,6,Layer 6
+cell_6293,6,Layer 6
+cell_6362,6,Layer 6
+cell_6208,6,Layer 6
+cell_4152,6,Layer 6
+cell_5266,6,Layer 6
+cell_835,6,Layer 6
+cell_5378,6,Layer 6
+cell_2248,6,Layer 6
+cell_5139,6,Layer 6
+cell_5241,6,Layer 6
+cell_2516,6,Layer 6
+cell_945,6,Layer 6
+cell_5158,6,Layer 6
+cell_4056,6,Layer 6
+cell_4149,6,Layer 6
+cell_3944,6,Layer 6
+cell_7377,6,Layer 6
+cell_2372,6,Layer 6
+cell_6296,6,Layer 6
+cell_6338,6,Layer 6
+cell_6387,6,Layer 6
+cell_5166,6,Layer 6
+cell_6333,6,Layer 6
+cell_5164,6,Layer 6
+cell_2376,6,Layer 6
+cell_5244,6,Layer 6
+cell_2298,6,Layer 6
+cell_5104,6,Layer 6
+cell_6320,6,Layer 6
+cell_2455,6,Layer 6
+cell_6236,6,Layer 6
+cell_2375,6,Layer 6
+cell_824,6,Layer 6
+cell_2543,6,Layer 6
+cell_5269,6,Layer 6
+cell_2324,6,Layer 6
+cell_6283,6,Layer 6
+cell_2574,6,Layer 6
+cell_7662,6,Layer 6
+cell_4038,6,Layer 6
+cell_5441,6,Layer 6
+cell_6156,6,Layer 6
+cell_5304,6,Layer 6
+cell_2223,6,Layer 6
+cell_7626,6,White matter
+cell_4159,6,Layer 6
+cell_2334,6,Layer 6
+cell_7635,6,Layer 6
+cell_5256,6,Layer 6
+cell_5202,6,Layer 6
+cell_5176,6,Layer 6
+cell_5197,6,Layer 6
+cell_3996,6,Layer 6
+cell_5243,6,Layer 6
+cell_6405,6,Layer 6
+cell_5305,6,Layer 6
+cell_2418,6,Layer 6
+cell_2492,6,Layer 6
+cell_4186,6,Layer 6
+cell_970,6,Layer 6
+cell_776,6,Layer 6
+cell_4113,6,Layer 6
+cell_4080,6,Layer 6
+cell_2484,6,Layer 6
+cell_891,6,Layer 6
+cell_4016,6,Layer 6
+cell_2566,6,Layer 6
+cell_990,6,Layer 6
+cell_2250,6,Layer 6
+cell_799,6,Layer 6
+cell_6357,6,Layer 6
+cell_840,2,Layer 6
+cell_998,6,Layer 6
+cell_2273,6,Layer 6
+cell_4005,6,Layer 6
+cell_5222,6,Layer 6
+cell_2267,6,Layer 6
+cell_2198,6,Layer 6
+cell_916,6,Layer 6
+cell_5367,6,Layer 6
+cell_5120,6,Layer 6
+cell_895,6,Layer 6
+cell_4184,6,Layer 6
+cell_2305,6,Layer 6
+cell_656,7,Layer 4
+cell_3905,6,Layer 6
+cell_7356,6,Layer 6
+cell_4058,6,Layer 6
+cell_4104,6,Layer 6
+cell_3971,6,Layer 6
+cell_3976,6,Layer 6
+cell_2424,6,Layer 6
+cell_7631,6,Layer 6
+cell_2454,6,Layer 6
+cell_6748,10,Layer 2-3 medial
+cell_946,6,Layer 6
+cell_5299,6,Layer 6
+cell_6313,6,Layer 6
+cell_6373,6,Layer 6
+cell_2451,6,Layer 6
+cell_6401,6,Layer 6
+cell_3995,6,Layer 6
+cell_6432,6,Layer 6
+cell_2255,6,Layer 6
+cell_910,6,Layer 6
+cell_2434,6,Layer 6
+cell_5271,6,Layer 6
+cell_3189,4,White matter
+cell_6200,6,Layer 6
+cell_2188,6,Layer 6
+cell_2344,6,Layer 6
+cell_6361,6,Layer 6
+cell_6340,6,Layer 6
+cell_5309,6,Layer 6
+cell_2470,6,Layer 6
+cell_817,6,Layer 6
+cell_5172,6,Layer 6
+cell_5268,6,Layer 6
+cell_4052,6,Layer 6
+cell_6262,6,Layer 6
+cell_7661,6,Layer 6
+cell_6241,6,Layer 6
+cell_6312,6,Layer 6
+cell_6350,6,Layer 6
+cell_987,6,Layer 6
+cell_7623,6,Layer 6
+cell_3964,6,Layer 6
+cell_5240,6,Layer 6
+cell_6286,6,Layer 6
+cell_6349,6,Layer 6
+cell_3989,6,Layer 6
+cell_4230,6,Layer 6
+cell_6413,6,Layer 6
+cell_2440,6,Layer 6
+cell_2486,6,Layer 6
+cell_5251,6,Layer 6
+cell_2370,6,Layer 6
+cell_4044,6,Layer 6
+cell_834,6,Layer 6
+cell_2378,6,Layer 6
+cell_6186,6,Layer 6
+cell_2252,6,Layer 6
+cell_7360,3,Layer 6
+cell_896,6,Layer 6
+cell_5383,6,Layer 6
+cell_5247,6,Layer 6
+cell_2452,6,Layer 6
+cell_5138,6,Layer 6
+cell_7624,6,Layer 6
+cell_2475,6,Layer 6
+cell_6365,6,Layer 6
+cell_4118,6,Layer 6
+cell_5168,6,Layer 6
+cell_3912,6,Layer 6
+cell_2343,6,Layer 6
+cell_7676,6,Layer 6
+cell_2395,6,Layer 6
+cell_938,6,Layer 6
+cell_2281,6,Layer 6
+cell_4137,6,Layer 6
+cell_2391,6,Layer 6
+cell_3906,6,Layer 6
+cell_6370,6,Layer 6
+cell_5196,6,Layer 6
+cell_5295,6,Layer 6
+cell_6356,6,Layer 6
+cell_5390,6,Layer 6
+cell_6268,6,Layer 6
+cell_5313,6,Layer 6
+cell_869,6,Layer 6
+cell_2524,6,Layer 6
+cell_5332,6,Layer 6
+cell_2578,6,Layer 6
+cell_4040,6,Layer 6
+cell_808,6,Layer 6
+cell_4284,0,Hippocampus
+cell_4356,0,Hippocampus
+cell_5475,0,Hippocampus
+cell_2761,0,Hippocampus
+cell_4362,0,Hippocampus
+cell_4398,0,Hippocampus
+cell_4349,0,Hippocampus
+cell_4406,0,Hippocampus
+cell_6507,0,Hippocampus
+cell_5505,0,Hippocampus
+cell_5965,1,Layer 4
+cell_2230,6,Layer 6
+cell_4338,0,Hippocampus
+cell_4400,0,Hippocampus
+cell_5512,0,Hippocampus
+cell_4404,0,Hippocampus
+cell_4361,0,Hippocampus
+cell_4399,0,Hippocampus
+cell_4403,0,Hippocampus
+cell_746,3,Layer 4
+cell_5492,0,Hippocampus
+cell_4325,0,Hippocampus
+cell_5536,0,Hippocampus
+cell_4308,0,Hippocampus
+cell_4328,0,Hippocampus
+cell_5502,0,Hippocampus
+cell_5486,0,Hippocampus
+cell_2772,0,Hippocampus
+cell_5495,0,Hippocampus
+cell_4345,0,Hippocampus
+cell_5465,0,Hippocampus
+cell_5472,0,Hippocampus
+cell_4366,0,Hippocampus
+cell_2783,0,Hippocampus
+cell_6502,0,Hippocampus
+cell_4250,0,Hippocampus
+cell_5543,0,Hippocampus
+cell_4334,0,Hippocampus
+cell_2785,0,Hippocampus
+cell_4042,6,Layer 6
+cell_5520,0,Hippocampus
+cell_6500,0,Hippocampus
+cell_4321,0,Hippocampus
+cell_2778,0,Hippocampus
+cell_2781,0,Hippocampus
+cell_4385,0,Hippocampus
+cell_2793,0,Hippocampus
+cell_4390,0,Hippocampus
+cell_4384,0,Hippocampus
+cell_4307,0,Hippocampus
+cell_5489,0,Hippocampus
+cell_2765,0,Hippocampus
+cell_5482,0,Hippocampus
+cell_5541,0,Hippocampus
+cell_4401,0,Hippocampus
+cell_5548,9,Hippocampus
+cell_4336,0,Hippocampus
+cell_4413,0,Hippocampus
+cell_5515,0,Hippocampus
+cell_4330,0,Hippocampus
+cell_5468,0,Hippocampus
+cell_4327,0,Hippocampus
+cell_2677,0,Hippocampus
+cell_5481,0,Hippocampus
+cell_5557,0,Hippocampus
+cell_4322,0,Hippocampus
+cell_4342,0,Hippocampus
+cell_7366,6,Layer 6
+cell_6495,0,Hippocampus
+cell_4408,0,Hippocampus
+cell_5516,0,Hippocampus
+cell_6528,0,Hippocampus
+cell_4352,0,Hippocampus
+cell_5511,0,Hippocampus
+cell_6512,0,Hippocampus
+cell_4344,0,Hippocampus
+cell_2385,6,Layer 6
+cell_2764,0,Hippocampus
+cell_5510,0,Hippocampus
+cell_2770,0,Hippocampus
+cell_2780,0,Hippocampus
+cell_5514,0,Hippocampus
+cell_5485,0,Hippocampus
+cell_4354,0,Hippocampus
+cell_4320,0,Hippocampus
+cell_5552,0,Hippocampus
+cell_4380,0,Hippocampus
+cell_6489,0,Hippocampus
+cell_4416,0,Hippocampus
+cell_6530,0,Hippocampus
+cell_2762,0,Hippocampus
+cell_5490,0,Hippocampus
+cell_6534,0,Hippocampus
+cell_5461,0,Hippocampus
+cell_5476,0,Hippocampus
+cell_2790,0,Hippocampus
+cell_4368,0,Hippocampus
+cell_4318,0,Hippocampus
+cell_4395,0,Hippocampus
+cell_4335,0,Hippocampus
+cell_5560,0,Hippocampus
+cell_803,6,Layer 6
+cell_4333,0,Hippocampus
+cell_6179,6,Layer 6
+cell_6533,0,Hippocampus
+cell_5519,0,Hippocampus
+cell_4372,0,Hippocampus
+cell_6510,0,Hippocampus
+cell_5522,0,Hippocampus
+cell_5498,0,Hippocampus
+cell_2786,0,Hippocampus
+cell_5487,0,Hippocampus
+cell_4315,0,Hippocampus
+cell_6505,0,Hippocampus
+cell_5469,0,Hippocampus
+cell_4341,0,Hippocampus
+cell_6467,0,Hippocampus
+cell_5530,0,Hippocampus
+cell_777,6,Layer 6
+cell_5504,0,Hippocampus
+cell_5446,0,Hippocampus
+cell_2777,0,Hippocampus
+cell_4409,0,Hippocampus
+cell_5518,0,Hippocampus
+cell_4367,0,Hippocampus
+cell_4317,0,Hippocampus
+cell_787,3,Layer 4
+cell_789,3,Layer 4
+cell_6520,0,Hippocampus
+cell_4363,0,Hippocampus
+cell_6514,0,Hippocampus
+cell_4326,0,Hippocampus
+cell_4332,0,Hippocampus
+cell_5500,0,Hippocampus
+cell_3640,1,Layer 3-4
+cell_5470,0,Hippocampus
+cell_4310,0,Hippocampus
+cell_5570,0,Hippocampus
+cell_4305,0,Hippocampus
+cell_2776,0,Hippocampus
+cell_4826,1,Layer 4
+cell_4955,3,Layer 5
+cell_6504,0,Hippocampus
+cell_2775,0,Hippocampus
+cell_6523,0,Hippocampus
+cell_4339,0,Hippocampus
+cell_5483,0,Hippocampus
+cell_5471,0,Hippocampus
+cell_1124,4,White matter
+cell_2980,4,White matter
+cell_4558,9,Pia Layer 1
+cell_173,9,Pia Layer 1
+cell_2961,4,White matter
+cell_1119,4,White matter
+cell_163,9,Pia Layer 1
+cell_2935,4,White matter
+cell_5369,4,White matter
+cell_1145,4,White matter
+cell_5611,9,Pia Layer 1
+cell_1573,9,Pia Layer 1
+cell_171,9,Pia Layer 1
+cell_1535,4,White matter
+cell_4549,9,Pia Layer 1
+cell_166,9,Pia Layer 1
+cell_2977,4,White matter
+cell_931,4,White matter
+cell_12,9,Pia Layer 1
+cell_5594,9,Pia Layer 1
+cell_5610,9,Pia Layer 1
+cell_8,9,Pia Layer 1
+cell_3306,9,Pia Layer 1
+cell_3058,4,White matter
+cell_3314,9,Pia Layer 1
+cell_2619,4,White matter
+cell_2948,4,White matter
+cell_9,9,Pia Layer 1
+cell_3279,4,White matter
+cell_1541,9,Pia Layer 1
+cell_2879,4,Ventricle
+cell_182,9,Pia Layer 1
+cell_3264,4,White matter
+cell_1561,9,Pia Layer 1
+cell_1565,9,Pia Layer 1
+cell_1559,9,Pia Layer 1
+cell_161,9,Pia Layer 1
+cell_5582,9,Pia Layer 1
+cell_13,9,Pia Layer 1
+cell_5674,9,Pia Layer 1
+cell_1625,9,Pia Layer 1
+cell_159,9,Pia Layer 1
+cell_3321,9,Pia Layer 1
+cell_3320,9,Pia Layer 1
+cell_2850,4,White matter
+cell_1592,9,Pia Layer 1
+cell_2983,4,White matter
+cell_2953,4,White matter
+cell_4604,9,Pia Layer 1
+cell_4624,9,Layer 2-3 medial
+cell_1585,9,Pia Layer 1
+cell_1439,4,White matter
+cell_5614,9,Pia Layer 1
+cell_1587,9,Pia Layer 1
+cell_1542,9,Pia Layer 1
+cell_2918,4,White matter
+cell_5605,9,Pia Layer 1
+cell_1544,9,Pia Layer 1
+cell_3068,4,White matter
+cell_4563,9,Pia Layer 1
+cell_5379,4,White matter
+cell_4489,4,White matter
+cell_1364,8,Ventricle
+cell_1580,9,Pia Layer 1
+cell_2,9,Pia Layer 1
+cell_4451,4,White matter
+cell_3,9,Pia Layer 1
+cell_1072,4,White matter
+cell_3300,9,Pia Layer 1
+cell_1208,4,White matter
+cell_997,4,White matter
+cell_5617,9,Pia Layer 1
+cell_2987,4,White matter
+cell_208,9,Pia Layer 1
+cell_4461,4,White matter
+cell_3311,9,Pia Layer 1
+cell_3097,4,White matter
+cell_1583,9,Pia Layer 1
+cell_3319,9,Pia Layer 1
+cell_4471,4,White matter
+cell_1579,9,Pia Layer 1
+cell_3329,9,Pia Layer 1
+cell_169,9,Pia Layer 1
+cell_3041,4,White matter
+cell_7,9,Pia Layer 1
+cell_2885,4,Ventricle
+cell_1555,9,Pia Layer 1
+cell_429,7,Layer 4
+cell_6550,9,Hippocampus
+cell_5964,1,Layer 4
+cell_1292,8,Internal Capsule Caudoputamen
+cell_246,2,Layer 2-3 lateral
+cell_5631,9,Pia Layer 1
+cell_6597,9,Pia Layer 1
+cell_4125,6,Layer 6
+cell_4057,6,Layer 6
+cell_1609,2,Layer 2-3 lateral
+cell_6166,6,Layer 6
+cell_6220,3,Layer 5
+cell_1603,9,Pia Layer 1
+cell_1407,8,White matter
+cell_5312,6,Layer 6
+cell_4923,3,Layer 4
+cell_3162,4,White matter
+cell_4845,1,Layer 4
+cell_1532,5,Ventricle
+cell_2827,4,White matter
+cell_5935,1,Layer 4
+cell_4727,1,Layer 4
+cell_2659,4,White matter
+cell_6596,9,Pia Layer 1
+cell_267,2,Layer 3-4
+cell_2860,9,White matter
+cell_804,3,Layer 4
+cell_4995,1,Layer 4
+cell_6099,3,Layer 4
+cell_3949,6,Layer 6
+cell_1187,5,White matter
+cell_5600,9,Pia Layer 1
+cell_2285,6,Layer 6
+cell_6455,4,White matter
+cell_4889,1,Layer 4
+cell_5632,9,Pia Layer 1
+cell_6364,6,Layer 6
+cell_3093,5,Ventricle
+cell_6551,9,Hippocampus
+cell_4621,10,Layer 2-3 medial
+cell_663,7,Layer 4
+cell_2845,4,White matter
+cell_4566,10,Layer 2-3 medial
+cell_1888,1,Layer 4
+cell_5765,10,Layer 2-3 medial
+cell_5985,1,Layer 4
+cell_2846,4,White matter
+cell_6300,6,Layer 6
+cell_6570,9,Hippocampus
+cell_3844,6,Layer 6
+cell_5612,9,Pia Layer 1
+cell_5198,6,Layer 6
+cell_3741,1,Layer 4
+cell_2068,7,Layer 4
+cell_4806,1,Layer 4
+cell_1977,7,Layer 4
+cell_4946,3,Layer 4
+cell_7352,3,Layer 5
+cell_4494,4,White matter
+cell_2095,1,Layer 4
+cell_2017,7,Layer 4
+cell_4726,10,Layer 2-3 medial
+cell_5983,1,Layer 4
+cell_5333,4,White matter
+cell_4943,1,Layer 4
+cell_125,7,Layer 4
+cell_4418,9,White matter
+cell_4982,1,Layer 4
+cell_7813,0,Hippocampus
+cell_3284,4,White matter
+cell_5443,4,White matter
+cell_7045,1,Layer 4
+cell_4214,4,White matter
+cell_534,2,Layer 3-4
+cell_3000,4,White matter
+cell_6569,9,Hippocampus
+cell_1976,7,Layer 4
+cell_2729,4,White matter
+cell_5976,1,Layer 4
+cell_793,6,Layer 6
+cell_2283,6,Layer 6
+cell_465,7,Layer 4
+cell_6332,6,Layer 6
+cell_2614,4,White matter
+cell_529,7,Layer 4
+cell_2887,4,Ventricle
+cell_357,7,Layer 4
+cell_132,7,Layer 4
+cell_1325,8,Internal Capsule Caudoputamen
+cell_7814,0,Hippocampus
+cell_1075,4,White matter
+cell_6559,9,Hippocampus
+cell_6601,9,Pia Layer 1
+cell_1910,7,Layer 4
+cell_4429,9,White matter
+cell_2634,4,White matter
+cell_6180,6,Layer 6
+cell_6317,6,Layer 6
+cell_7838,0,Hippocampus
+cell_2692,4,White matter
+cell_3504,10,Layer 2-3 medial
+cell_6377,6,Layer 6
+cell_6167,1,Layer 4
+cell_1600,9,Pia Layer 1
+cell_1774,2,Layer 2-3 lateral
+cell_2466,6,Layer 6
+cell_1108,8,White matter
+cell_6474,4,White matter
+cell_4705,1,Layer 4
+cell_1171,4,White matter
+cell_4423,9,White matter
+cell_3668,1,Layer 4
+cell_2531,6,Layer 6
+cell_2176,3,Layer 5
+cell_7817,0,Hippocampus
+cell_6568,9,Hippocampus
+cell_7826,0,Hippocampus
+cell_7818,4,White matter
+cell_5328,4,White matter
+cell_5599,9,Pia Layer 1
+cell_542,7,Layer 4
+cell_703,7,Layer 4
+cell_5320,6,Layer 6
+cell_7829,4,White matter
+cell_5388,4,White matter
+cell_420,7,Layer 4
+cell_3951,6,Layer 6
+cell_2464,6,Layer 6
+cell_263,2,Layer 2-3 lateral
+cell_1847,10,Layer 3-4
+cell_2575,6,Layer 6
+cell_330,2,Layer 2-3 lateral
+cell_7820,0,Hippocampus
+cell_5872,1,Layer 2-3 medial
+cell_595,7,Layer 4
+cell_45,2,Layer 2-3 lateral
+cell_2340,6,Layer 6
+cell_5496,0,Hippocampus
+cell_1624,10,Layer 2-3 medial
+cell_2837,4,White matter
+cell_3051,4,White matter
+cell_2422,6,Layer 6
+cell_4436,4,White matter
+cell_5021,3,Layer 5
+cell_4430,9,White matter
+cell_796,6,Layer 6
+cell_4963,1,Layer 4
+cell_5499,0,Hippocampus
+cell_4590,9,Pia Layer 1
+cell_6600,9,Pia Layer 1
+cell_223,2,Layer 2-3 lateral
+cell_6481,4,White matter
+cell_2995,4,White matter
+cell_207,2,Layer 2-3 lateral
+cell_3027,4,White matter
+cell_4542,9,Pia Layer 1
+cell_2830,4,White matter
+cell_378,2,Layer 2-3 lateral
+cell_4631,10,Layer 2-3 medial
+cell_1000,2,Layer 6
+cell_4220,4,White matter
+cell_4738,10,Layer 4
+cell_1564,9,Pia Layer 1
+cell_4454,4,White matter
+cell_4245,4,White matter
+cell_4547,9,Pia Layer 1
+cell_282,2,Layer 2-3 lateral
+cell_7830,0,Hippocampus
+cell_4255,0,Hippocampus
+cell_6176,6,Layer 6
+cell_353,7,Layer 4
+cell_3033,4,White matter
+cell_5060,3,Layer 5
+cell_3689,1,Layer 4
+cell_3070,4,White matter
+cell_4967,3,Layer 4
+cell_2477,6,Layer 6
+cell_3675,10,Layer 4
+cell_2495,6,Layer 6
+cell_7925,9,Hippocampus
+cell_5999,1,Layer 4
+cell_839,6,Layer 6
+cell_4288,0,Hippocampus
+cell_2047,7,Layer 4
+cell_6205,3,Layer 5
+cell_4554,9,Layer 2-3 medial
+cell_1694,2,Layer 2-3 lateral
+cell_1051,4,White matter
+cell_4462,4,White matter
+cell_5264,3,Layer 5
+cell_4555,9,Layer 2-3 medial
+cell_1578,9,Pia Layer 1
+cell_3074,4,White matter
+cell_1628,10,Layer 2-3 lateral
+cell_2381,6,Layer 6
+cell_3248,4,White matter
+cell_4774,10,Layer 2-3 medial
+cell_4473,4,White matter
+cell_4938,1,Layer 4
+cell_2752,0,Hippocampus
+cell_1760,2,Layer 2-3 lateral
+cell_2150,3,Layer 5
+cell_4544,9,Pia Layer 1
+cell_5709,10,Layer 2-3 medial
+cell_3052,4,White matter
+cell_698,3,Layer 5
+cell_7059,1,Layer 4
+cell_1420,8,Internal Capsule Caudoputamen
+cell_5876,1,Layer 4
+cell_4940,1,Layer 4
+cell_1558,9,Pia Layer 1
+cell_6450,4,Layer 6
+cell_190,2,Layer 2-3 lateral
+cell_3030,4,White matter
+cell_1008,4,White matter
+cell_590,7,Layer 4
+cell_6589,9,Pia Layer 1
+cell_5316,4,White matter
+cell_7337,3,Layer 5
+cell_3206,4,White matter
+cell_917,6,Layer 6
+cell_5205,6,Layer 6
+cell_128,7,Layer 4
+cell_3744,3,Layer 5
+cell_6532,0,Hippocampus
+cell_24,2,Layer 2-3 lateral
+cell_3059,4,White matter
+cell_6070,3,Layer 5
+cell_5153,6,Layer 6
+cell_2721,4,White matter
+cell_6128,3,Layer 4
+cell_2974,4,White matter
+cell_3974,6,Layer 6
+cell_1221,4,White matter
+cell_433,7,Layer 4
+cell_6154,3,Layer 4
+cell_4455,4,White matter
+cell_1714,2,Layer 2-3 lateral
+cell_3993,6,Layer 6
+cell_2849,4,White matter
+cell_1513,4,White matter
+cell_5248,6,Layer 6
+cell_2308,6,Layer 6
+cell_7833,0,Hippocampus
+cell_6224,6,Layer 6
+cell_2345,6,Layer 6
+cell_2377,6,Layer 6
+cell_2185,7,Layer 4
+cell_2415,6,Layer 6
+cell_5076,3,Layer 5
+cell_6141,3,Layer 5
+cell_6587,9,Hippocampus
+cell_231,2,Layer 2-3 lateral
+cell_5145,6,Layer 6
+cell_6041,1,Layer 4
+cell_2865,9,White matter
+cell_2222,3,Layer 5
+cell_3621,1,Layer 4
+cell_2861,9,White matter
+cell_2872,4,Ventricle
+cell_2913,4,White matter
+cell_2955,4,White matter
+cell_3247,4,White matter
+cell_4147,4,White matter
+cell_5772,10,Layer 2-3 medial
+cell_1367,8,Ventricle
+cell_1520,4,White matter
+cell_1098,8,Internal Capsule Caudoputamen
+cell_168,9,Pia Layer 1
+cell_4135,6,Layer 6
+cell_1215,4,White matter
+cell_261,2,Layer 2-3 lateral
+cell_1492,8,White matter
+cell_3955,3,Layer 6
+cell_11,9,Pia Layer 1
+cell_551,7,Layer 4
+cell_4014,6,Layer 6
+cell_2933,4,White matter
+cell_5856,1,Layer 2-3 medial
+cell_6593,9,Pia Layer 1
+cell_4150,4,White matter
+cell_1467,4,White matter
+cell_3081,4,White matter
+cell_1287,8,Internal Capsule Caudoputamen
+cell_5297,4,White matter
+cell_4164,4,White matter
+cell_2803,4,White matter
+cell_1088,4,White matter
+cell_5534,0,Hippocampus
+cell_4171,4,Layer 6
+cell_2937,4,White matter
+cell_2178,3,Layer 5
+cell_6030,1,Layer 4
+cell_7048,1,Layer 4
+cell_439,7,Layer 4
+cell_4297,4,White matter
+cell_5627,9,Pia Layer 1
+cell_2835,4,White matter
+cell_2521,4,Layer 6
+cell_1368,4,Ventricle
+cell_4616,9,Layer 2-3 medial
+cell_2595,4,Layer 6
+cell_2873,4,Ventricle
+cell_2981,4,White matter
+cell_5065,6,Layer 6
+cell_3015,4,White matter
+cell_165,9,Pia Layer 1
+cell_941,6,Layer 6
+cell_5217,3,Layer 6
+cell_2939,4,White matter
+cell_1741,2,Layer 2-3 lateral
+cell_2968,4,White matter
+cell_1503,4,White matter
+cell_5215,6,Layer 6
+cell_1216,4,White matter
+cell_5596,9,Pia Layer 1
+cell_115,2,Layer 2-3 lateral
+cell_5131,6,Layer 6
+cell_2929,4,White matter
+cell_2607,4,White matter
+cell_2869,4,Ventricle
+cell_6482,0,Hippocampus
+cell_4969,3,Layer 5
+cell_2562,6,Layer 6
+cell_6022,1,Layer 4
+cell_2998,4,White matter
+cell_7040,1,Layer 4
+cell_4842,1,Layer 2-3 medial
+cell_2640,4,White matter
+cell_1214,4,White matter
+cell_3233,5,Ventricle
+cell_2177,3,Layer 5
+cell_4200,4,White matter
+cell_1129,4,White matter
+cell_2800,4,White matter
+cell_942,6,Layer 6
+cell_3256,4,White matter
+cell_6307,3,Layer 6
+cell_2009,7,Layer 4
+cell_4947,3,Layer 5
+cell_1378,4,Ventricle
+cell_1556,9,Pia Layer 1
+cell_1916,7,Layer 4
+cell_1183,5,White matter
+cell_3260,4,White matter
+cell_6375,6,Layer 6
+cell_2870,4,Ventricle
+cell_1557,9,Pia Layer 1
+cell_1417,8,Internal Capsule Caudoputamen
+cell_2892,4,White matter
+cell_2915,4,White matter
+cell_1052,4,White matter
+cell_327,7,Layer 3-4
+cell_3239,4,White matter
+cell_637,7,Layer 4
+cell_5105,3,Layer 5
+cell_2680,4,White matter
+cell_1582,2,Layer 2-3 lateral
+cell_5326,6,Layer 6
+cell_2931,4,White matter
+cell_2690,4,White matter
+cell_1038,4,White matter
+cell_6240,6,Layer 6
+cell_6563,9,Hippocampus
+cell_5270,6,Layer 6
+cell_3193,4,White matter
+cell_7038,1,Layer 4
+cell_2926,4,White matter
+cell_6020,1,Layer 4
+cell_3916,6,Layer 6
+cell_1692,7,Layer 3-4
+cell_2990,4,White matter
+cell_912,4,White matter
+cell_3474,10,Layer 2-3 medial
+cell_2992,4,White matter
+cell_2514,4,White matter
+cell_1412,8,Internal Capsule Caudoputamen
+cell_6485,0,Hippocampus
+cell_2954,4,White matter
+cell_3040,4,White matter
+cell_3301,9,Pia Layer 1
+cell_2617,4,White matter
+cell_866,6,Layer 6
+cell_2817,4,White matter
+cell_1482,4,White matter
+cell_2802,4,White matter
+cell_4374,0,Hippocampus
+cell_328,7,Layer 3-4
+cell_1521,4,White matter
+cell_2911,4,White matter
+cell_6415,4,White matter
+cell_10,9,Pia Layer 1
+cell_4608,9,Layer 2-3 medial
+cell_1483,4,White matter
+cell_1691,7,Layer 3-4
+cell_2804,4,White matter
+cell_5296,4,White matter
+cell_5293,4,White matter
+cell_5380,4,White matter
+cell_3003,4,White matter
+cell_7625,4,White matter
+cell_2568,4,White matter
+cell_1434,4,White matter
+cell_1073,4,White matter
+cell_3839,3,Layer 5
+cell_3029,4,White matter
+cell_7374,3,Layer 5
+cell_3261,4,White matter
+cell_3652,1,Layer 3-4
+cell_1218,4,White matter
+cell_2986,4,White matter
+cell_2608,4,White matter
+cell_2611,4,White matter
+cell_2871,4,Ventricle
+cell_5121,6,Layer 6
+cell_6389,4,White matter
+cell_4151,4,White matter
+cell_2705,4,White matter
+cell_1231,4,White matter
+cell_2289,3,Layer 6
+cell_2650,4,White matter
+cell_3082,4,White matter
+cell_2561,6,Layer 6
+cell_3019,4,White matter
+cell_2801,4,White matter
+cell_2441,6,Layer 6
+cell_3026,4,White matter
+cell_3317,9,Layer 2-3 medial
+cell_1135,4,White matter
+cell_1217,4,White matter
+cell_2673,4,White matter
+cell_5427,6,Layer 6
+cell_2706,4,White matter
+cell_3237,4,White matter
+cell_4293,4,White matter
+cell_2712,4,White matter
+cell_3232,4,White matter
+cell_5420,4,White matter
+cell_4485,4,White matter
+cell_2658,4,White matter
+cell_6006,1,Layer 4
+cell_1065,4,White matter
+cell_4488,4,White matter
+cell_2730,4,White matter
+cell_4440,4,White matter
+cell_3037,4,White matter
+cell_5416,4,White matter
+cell_3174,4,White matter
+cell_2676,4,White matter
+cell_5400,4,White matter
+cell_5609,9,Pia Layer 1
+cell_5619,9,Pia Layer 1
+cell_4129,6,Layer 6
+cell_675,7,Layer 4
+cell_1089,4,White matter
+cell_3227,5,Ventricle
+cell_6730,10,Layer 2-3 medial
+cell_3225,5,Ventricle
+cell_6604,9,Pia Layer 1
+cell_4225,4,Layer 6
+cell_3236,5,Ventricle
+cell_4922,3,Layer 4
+cell_6760,10,Pia Layer 1
+cell_5402,4,White matter
+cell_4192,4,White matter
+cell_2660,4,White matter
+cell_1067,4,White matter
+cell_4615,10,Layer 2-3 medial
+cell_6024,1,Layer 4
+cell_4290,4,White matter
+cell_3150,4,White matter
+cell_6747,10,Layer 2-3 medial
+cell_5621,9,Pia Layer 1
+cell_5418,4,White matter
+cell_3240,4,White matter
+cell_2684,4,White matter
+cell_4247,4,White matter
+cell_4475,4,White matter
+cell_1655,10,Layer 2-3 medial
+cell_2863,9,White matter
+cell_3278,4,White matter
+cell_1605,10,Layer 2-3 lateral
+cell_3032,4,White matter
+cell_6367,6,Layer 6
+cell_5394,4,White matter
+cell_3925,6,Layer 6
+cell_4292,4,White matter
+cell_3231,5,Ventricle
+cell_6494,4,White matter
+cell_3494,10,Layer 2-3 medial
+cell_2661,4,White matter
+cell_2639,4,White matter
+cell_5777,10,Layer 2-3 medial
+cell_2631,4,White matter
+cell_2675,4,White matter
+cell_3016,4,White matter
+cell_3761,3,Layer 4
+cell_3007,4,White matter
+cell_2685,4,White matter
+cell_3228,5,Ventricle
+cell_3265,4,White matter
+cell_3212,5,Ventricle
+cell_3275,4,White matter
+cell_5814,10,Layer 2-3 medial
+cell_5411,4,White matter
+cell_7042,1,Layer 4
+cell_6368,6,Layer 6
+cell_6493,4,White matter
+cell_2590,4,Layer 6
+cell_2096,3,Layer 4
+cell_2825,4,White matter
+cell_3185,5,Ventricle
+cell_5618,9,Pia Layer 1
+cell_1808,7,Layer 4
+cell_5415,4,White matter
+cell_5424,4,White matter
+cell_5407,4,White matter
+cell_4234,4,White matter
+cell_4269,4,White matter
+cell_1212,4,White matter
+cell_7672,4,White matter
+cell_3290,4,White matter
+cell_3067,4,White matter
+cell_6418,6,Layer 6
+cell_1053,4,White matter
+cell_3084,4,White matter
+cell_2978,4,White matter
+cell_5529,0,Hippocampus
+cell_1371,8,Ventricle
+cell_6260,6,Layer 6
+cell_5360,6,Layer 6
+cell_2744,4,White matter
+cell_1525,4,White matter
+cell_3213,4,White matter
+cell_3090,4,White matter
+cell_2971,4,White matter
+cell_3785,1,Layer 4
+cell_1469,8,White matter
+cell_3086,4,White matter
+cell_1453,4,White matter
+cell_5425,4,White matter
+cell_1523,4,White matter
+cell_831,6,Layer 6
+cell_1193,5,White matter
+cell_1066,4,White matter
+cell_7650,4,White matter
+cell_3089,4,White matter
+cell_2279,3,Layer 6
+cell_3902,3,Layer 6
+cell_2124,1,Layer 4
+cell_1747,7,Layer 4
+cell_4483,4,White matter
+cell_1169,8,Internal Capsule Caudoputamen
+cell_4479,4,White matter
+cell_4459,4,White matter
+cell_3056,4,White matter
+cell_3255,4,White matter
+cell_1175,4,White matter
+cell_3277,4,White matter
+cell_1528,4,White matter
+cell_1239,8,Internal Capsule Caudoputamen
+cell_1103,4,White matter
+cell_3222,5,Ventricle
+cell_4502,4,White matter
+cell_3234,5,White matter
+cell_4470,4,White matter
+cell_2831,4,White matter
+cell_1224,4,White matter
+cell_3004,4,White matter
+cell_2682,4,White matter
+cell_3113,4,White matter
+cell_5527,0,Hippocampus
+cell_2795,4,White matter
+cell_4460,4,White matter
+cell_2332,6,Layer 6
+cell_4487,4,White matter
+cell_7816,4,White matter
+cell_2749,0,Hippocampus
+cell_1529,4,White matter
+cell_2829,4,White matter
+cell_2909,4,White matter
+cell_3021,4,White matter
+cell_345,7,Layer 4
+cell_1210,4,White matter
+cell_2644,4,White matter
+cell_3269,4,White matter
+cell_756,3,Layer 4
+cell_7673,4,White matter
+cell_3272,4,White matter
+cell_7628,6,Layer 6
+cell_3292,4,White matter
+cell_4772,10,Layer 2-3 medial
+cell_2810,4,White matter
+cell_4126,4,White matter
+cell_2579,6,Layer 6
+cell_4500,4,White matter
+cell_2669,4,White matter
+cell_5447,4,White matter
+cell_3809,3,Layer 4
+cell_5343,4,White matter
+cell_2144,3,Layer 5
+cell_2709,4,White matter
+cell_1366,8,Ventricle
+cell_2718,4,White matter
+cell_1114,4,White matter
+cell_2742,4,White matter
+cell_3125,4,White matter
+cell_3065,4,White matter
+cell_3868,3,Layer 5
+cell_2626,4,White matter
+cell_2743,4,White matter
+cell_3165,4,White matter
+cell_3149,5,Ventricle
+cell_3273,4,White matter
+cell_415,7,Layer 4
+cell_1203,4,White matter
+cell_3843,3,Layer 6
+cell_4286,4,White matter
+cell_4468,4,White matter
+cell_2149,3,Layer 5
+cell_1266,8,Internal Capsule Caudoputamen
+cell_5350,4,White matter
+cell_117,7,Layer 4
+cell_5359,6,Layer 6
+cell_2798,4,White matter
+cell_1526,4,White matter
+cell_3226,4,White matter
+cell_3224,5,Ventricle
+cell_1166,4,White matter
+cell_2333,6,Layer 6
+cell_4482,4,White matter
+cell_1499,4,White matter
+cell_1374,4,Ventricle
+cell_6491,4,White matter
+cell_4417,4,White matter
+cell_3087,4,White matter
+cell_1092,4,White matter
+cell_832,6,Layer 6
+cell_1149,4,White matter
+cell_994,6,Layer 6
+cell_5434,4,White matter
+cell_3230,5,Ventricle
+cell_2288,3,Layer 6
+cell_4495,4,White matter
+cell_2630,4,White matter
+cell_5396,4,White matter
+cell_3064,4,White matter
+cell_3969,6,Layer 6
+cell_6465,4,Layer 6
+cell_1100,4,White matter
+cell_2582,4,White matter
+cell_2213,3,Layer 6
+cell_3020,4,White matter
+cell_3100,4,White matter
+cell_2726,4,White matter
+cell_1122,4,White matter
+cell_2662,4,White matter
+cell_2811,4,White matter
+cell_4197,4,White matter
+cell_7629,4,White matter
+cell_4486,4,White matter
+cell_6175,3,Layer 5
+cell_3274,4,White matter
+cell_4208,4,White matter
+cell_1369,8,White matter
+cell_1419,8,White matter
+cell_1059,4,White matter
+cell_2747,4,White matter
+cell_2487,4,White matter
+cell_2584,4,White matter
+cell_2665,4,White matter
+cell_2947,4,White matter
+cell_2960,4,White matter
+cell_3128,4,White matter
+cell_2529,4,White matter
+cell_4492,4,White matter
+cell_1362,8,White matter
+cell_6390,4,White matter
+cell_2838,4,White matter
+cell_744,3,Layer 4
+cell_1225,4,White matter
+cell_1401,8,Internal Capsule Caudoputamen
+cell_1070,4,White matter
+cell_1158,4,White matter
+cell_2957,4,White matter
+cell_2945,4,White matter
+cell_2812,4,White matter
+cell_2715,4,White matter
+cell_4237,4,White matter
+cell_6406,4,White matter
+cell_1346,8,Internal Capsule Caudoputamen
+cell_1131,4,White matter
+cell_2951,4,White matter
+cell_1123,4,White matter
+cell_4456,4,White matter
+cell_6323,6,Layer 6
+cell_2636,4,White matter
+cell_1023,4,White matter
+cell_5103,6,Layer 6
+cell_1050,4,White matter
+cell_1204,4,White matter
+cell_4438,4,White matter
+cell_811,6,Layer 6
+cell_1359,8,Internal Capsule Caudoputamen
+cell_3238,5,Ventricle
+cell_3245,4,White matter
+cell_1511,4,White matter
+cell_6403,4,White matter
+cell_1460,8,White matter
+cell_3246,4,White matter
+cell_4124,4,White matter
+cell_4493,4,White matter
+cell_4232,4,White matter
+cell_3157,4,White matter
+cell_3270,4,White matter
+cell_3280,4,White matter
+cell_4226,4,White matter
+cell_3215,5,Ventricle
+cell_4505,4,White matter
+cell_6419,4,White matter
+cell_4228,4,White matter
+cell_2725,4,White matter
+cell_3022,4,White matter
+cell_5358,4,Layer 6
+cell_3899,3,Layer 5
+cell_668,7,Layer 4
+cell_4254,4,White matter
+cell_1516,8,White matter
+cell_3263,4,White matter
+cell_1956,7,Layer 4
+cell_1230,4,White matter
+cell_1086,4,White matter
+cell_5401,4,White matter
+cell_5414,4,Layer 6
+cell_4076,6,Layer 6
+cell_5356,4,White matter
+cell_2941,4,White matter
+cell_2627,4,White matter
+cell_4469,4,White matter
+cell_3295,4,White matter
+cell_1146,4,White matter
+cell_2840,4,White matter
+cell_6400,6,Layer 6
+cell_3254,4,White matter
+cell_1396,8,White matter
+cell_6410,4,White matter
+cell_1538,4,White matter
+cell_2380,6,Layer 6
+cell_2506,4,Layer 6
+cell_3028,4,White matter
+cell_2564,4,White matter
+cell_2645,4,White matter
+cell_1170,4,White matter
+cell_3286,4,White matter
+cell_2967,4,White matter
+cell_2508,4,Layer 6
+cell_2649,4,White matter
+cell_2988,4,White matter
+cell_5336,4,White matter
+cell_989,2,Layer 6
+cell_2969,4,White matter
+cell_2286,3,Layer 6
+cell_2815,4,White matter
+cell_3077,8,White matter
+cell_727,3,Layer 5
+cell_3006,4,White matter
+cell_4447,4,White matter
+cell_975,4,White matter
+cell_1041,4,White matter
+cell_5410,4,White matter
+cell_3024,4,White matter
+cell_5432,4,White matter
+cell_1508,8,White matter
+cell_2200,6,Layer 6
+cell_7655,6,Layer 6
+cell_2799,4,White matter
+cell_4427,9,White matter
+cell_3080,8,White matter
+cell_2666,4,White matter
+cell_1021,2,White matter
+cell_3283,4,White matter
+cell_2542,6,Layer 6
+cell_1132,4,White matter
+cell_3291,4,White matter
+cell_3095,4,White matter
+cell_4496,4,White matter
+cell_1502,4,White matter
+cell_2813,4,White matter
+cell_4061,6,Layer 6
+cell_1370,4,Ventricle
+cell_1207,4,White matter
+cell_4238,4,White matter
+cell_5353,6,Layer 6
+cell_2719,4,White matter
+cell_755,3,Layer 4
+cell_1127,4,White matter
+cell_1071,4,White matter
+cell_2172,6,Layer 6
+cell_3091,8,Ventricle
+cell_7076,1,Layer 4
+cell_4240,0,Hippocampus
+cell_3266,4,White matter
+cell_2678,4,White matter
+cell_3072,4,White matter
+cell_443,7,Layer 4
+cell_6250,6,Layer 6
+cell_6305,6,Layer 6
+cell_4100,4,White matter
+cell_1461,8,White matter
+cell_1138,4,White matter
+cell_7668,4,White matter
+cell_5426,4,White matter
+cell_1058,4,White matter
+cell_1142,4,White matter
+cell_2818,4,White matter
+cell_3053,4,White matter
+cell_1001,4,White matter
+cell_4219,4,White matter
+cell_2820,4,White matter
+cell_2528,4,White matter
+cell_5355,4,Layer 6
+cell_4121,4,White matter
+cell_2593,4,Layer 6
+cell_1510,4,White matter
+cell_2962,4,White matter
+cell_4160,4,White matter
+cell_4188,4,White matter
+cell_3952,3,Layer 6
+cell_979,4,Layer 6
+cell_4199,4,White matter
+cell_2741,4,White matter
+cell_2483,6,Layer 6
+cell_922,6,Layer 6
+cell_1304,8,Internal Capsule Caudoputamen
+cell_1177,4,White matter
+cell_1097,4,White matter
+cell_5478,0,Hippocampus
+cell_4474,4,White matter
+cell_2609,4,Layer 6
+cell_2527,4,White matter
+cell_1102,4,White matter
+cell_5334,6,Layer 6
+cell_2664,4,White matter
+cell_2303,6,Layer 6
+cell_2672,4,White matter
+cell_2916,4,White matter
+cell_4236,4,White matter
+cell_2949,4,White matter
+cell_4127,4,White matter
+cell_1013,4,White matter
+cell_4110,6,Layer 6
+cell_2959,4,White matter
+cell_1423,8,Internal Capsule Caudoputamen
+cell_1068,4,White matter
+cell_6518,0,Hippocampus
+cell_1125,8,White matter
+cell_1162,4,White matter
+cell_1133,4,White matter
+cell_5382,4,White matter
+cell_2688,4,White matter
+cell_6409,4,White matter
+cell_2703,4,White matter
+cell_6460,4,White matter
+cell_6412,4,White matter
+cell_3035,4,White matter
+cell_4450,4,White matter
+cell_2734,4,White matter
+cell_3287,4,White matter
+cell_3258,4,White matter
+cell_1115,4,White matter
+cell_3042,4,White matter
+cell_5319,4,White matter
+cell_3154,4,White matter
+cell_3244,4,White matter
+cell_1030,4,White matter
+cell_1477,8,White matter
+cell_1496,8,White matter
+cell_2814,4,White matter
+cell_2173,3,Layer 5
+cell_5208,6,Layer 6
+cell_2599,4,White matter
+cell_5285,4,White matter
+cell_1209,4,White matter
+cell_5393,4,White matter
+cell_1486,8,White matter
+cell_6257,4,Layer 6
+cell_4133,4,White matter
+cell_4142,4,White matter
+cell_6438,4,White matter
+cell_5391,4,White matter
+cell_2839,4,White matter
+cell_2567,4,White matter
+cell_2473,6,Layer 6
+cell_4064,6,Layer 6
+cell_4448,4,White matter
+cell_3038,4,White matter
+cell_1236,4,White matter
+cell_3276,4,White matter
+cell_4233,4,White matter
+cell_2996,4,White matter
+cell_3008,4,White matter
+cell_1471,8,White matter
+cell_1509,4,White matter
+cell_4179,4,White matter
+cell_2141,3,Layer 5
+cell_6428,4,White matter
+cell_4227,4,White matter
+cell_1156,4,White matter
+cell_1530,8,Ventricle
+cell_3055,4,White matter
+cell_1507,8,White matter
+cell_2727,4,White matter
+cell_1358,8,Internal Capsule Caudoputamen
+cell_2794,4,White matter
+cell_4281,4,White matter
+cell_1276,8,Internal Capsule Caudoputamen
+cell_1229,4,White matter
+cell_5317,6,Layer 6
+cell_5404,4,White matter
+cell_1061,4,White matter
+cell_4956,3,Layer 5
+cell_4490,4,White matter
+cell_7644,4,White matter
+cell_6501,4,White matter
+cell_1022,4,White matter
+cell_1227,4,White matter
+cell_4053,6,Layer 6
+cell_596,7,Layer 4
+cell_2632,4,White matter
+cell_6376,6,Layer 6
+cell_3045,4,White matter
+cell_4503,4,White matter
+cell_1116,8,White matter
+cell_1213,4,White matter
+cell_5574,0,Hippocampus
+cell_984,2,Layer 6
+cell_3282,4,White matter
+cell_6444,4,White matter
+cell_7638,4,White matter
+cell_3066,4,White matter
+cell_2816,4,White matter
+cell_1222,4,White matter
+cell_4441,4,White matter
+cell_2687,4,White matter
+cell_1386,8,White matter
+cell_982,4,White matter
+cell_5306,4,White matter
+cell_1096,8,White matter
+cell_2910,4,White matter
+cell_1040,4,White matter
+cell_5365,6,Layer 6
+cell_6258,4,Layer 6
+cell_4176,4,White matter
+cell_4476,4,White matter
+cell_3267,4,White matter
+cell_4497,4,White matter
+cell_1487,8,White matter
+cell_6371,4,White matter
+cell_5374,4,White matter
+cell_3296,4,White matter
+cell_3049,4,White matter
+cell_4187,6,Layer 6
+cell_1036,4,White matter
+cell_4198,4,White matter
+cell_4452,4,White matter
+cell_2623,4,White matter
+cell_4178,4,White matter
+cell_4295,4,White matter
+cell_1155,4,White matter
+cell_4467,4,White matter
+cell_1475,4,White matter
+cell_1034,4,White matter
+cell_3293,4,White matter
+cell_6331,4,Layer 6
+cell_788,3,Layer 4
+cell_944,4,White matter
+cell_3250,4,White matter
+cell_1039,2,Layer 6
+cell_1163,4,White matter
+cell_858,2,Layer 6
+cell_4241,4,White matter
+cell_1478,4,White matter
+cell_3163,4,White matter
+cell_1349,8,Internal Capsule Caudoputamen
+cell_2822,4,White matter
+cell_4120,4,White matter
+cell_1043,4,White matter
+cell_1488,8,White matter
+cell_966,4,White matter
+cell_2435,6,Layer 6
+cell_1037,4,White matter
+cell_1427,8,Internal Capsule Caudoputamen
+cell_4472,4,White matter
+cell_1019,4,White matter
+cell_1002,2,Layer 6
+cell_4506,4,White matter
+cell_930,4,White matter
+cell_5143,3,Layer 6
+cell_1150,4,White matter
+cell_1056,4,White matter
+cell_1463,8,White matter
+cell_4480,4,White matter
+cell_1099,4,White matter
+cell_2964,4,White matter
+cell_4501,4,White matter
+cell_2628,4,White matter
+cell_6434,4,White matter
+cell_3262,4,White matter
+cell_3223,4,White matter
+cell_2657,4,White matter
+cell_4445,4,White matter
+cell_1440,8,White matter
+cell_1180,5,White matter
+cell_1501,8,White matter
+cell_1137,4,White matter
+cell_7831,0,Hippocampus
+cell_2930,4,White matter
+cell_3192,4,White matter
+cell_1514,4,White matter
+cell_4484,4,White matter
+cell_1106,4,White matter
+cell_2999,4,White matter
+cell_2925,4,White matter
+cell_3069,4,White matter
+cell_3047,4,White matter
+cell_2206,3,Layer 5
+cell_4477,4,White matter
+cell_4102,4,White matter
+cell_2493,6,Layer 6
+cell_980,2,Layer 6
+cell_4239,4,White matter
+cell_947,4,White matter
+cell_6380,4,White matter
+cell_4139,4,White matter
+cell_1082,4,White matter
+cell_2605,4,White matter
+cell_5280,6,Layer 6
+cell_1159,4,White matter
+cell_1485,4,White matter
+cell_5357,4,Layer 6
+cell_130,2,Layer 2-3 lateral
+cell_4458,4,White matter
+cell_2586,6,Layer 6
+cell_4177,4,White matter
+cell_2824,4,White matter
+cell_3249,4,White matter
+cell_2647,4,White matter
+cell_2737,4,White matter
+cell_2841,4,White matter
+cell_5323,4,White matter
+cell_3229,5,Ventricle
+cell_1168,4,White matter
+cell_1057,4,White matter
+cell_2699,4,White matter
+cell_1121,4,White matter
+cell_2482,6,Layer 6
+cell_2912,4,White matter
+cell_1490,8,White matter
+cell_6399,6,Layer 6
+cell_2717,4,White matter
+cell_4196,4,White matter
+cell_1232,4,White matter
+cell_1481,8,White matter
+cell_4224,4,White matter
+cell_1004,4,White matter
+cell_1519,8,White matter
+cell_6446,4,White matter
+cell_1226,4,White matter
+cell_5288,4,White matter
+cell_1474,8,White matter
+cell_2603,4,Layer 6
+cell_355,2,Layer 2-3 lateral
+cell_1505,8,White matter
+cell_4217,4,White matter
+cell_1449,4,White matter
+cell_2598,4,Layer 6
+cell_2724,4,White matter
+cell_3044,4,White matter
+cell_3288,4,White matter
+cell_3285,4,White matter
+cell_3075,4,White matter
+cell_2314,6,Layer 6
+cell_1101,8,White matter
+cell_2808,4,White matter
+cell_3251,4,White matter
+cell_2757,0,Hippocampus
+cell_1228,4,White matter
+cell_1234,4,White matter
+cell_4433,9,White matter
+cell_3012,4,White matter
+cell_7041,1,Layer 4
+cell_1524,5,Ventricle
+cell_4790,10,Layer 2-3 medial
+cell_3025,4,White matter
+cell_3085,5,Ventricle
+cell_5713,10,Layer 2-3 medial
+cell_1979,7,Layer 4
+cell_5,9,Pia Layer 1
+cell_3691,3,Layer 5
+cell_2973,4,White matter
+cell_4312,0,Hippocampus
+cell_7084,1,Layer 4
+cell_5544,9,Hippocampus
+cell_4439,4,White matter
+cell_1803,10,Layer 3-4
+cell_5661,10,Layer 2-3 medial
+cell_4513,9,Pia Layer 1
+cell_2956,4,White matter
+cell_6426,4,White matter
+cell_5616,9,Pia Layer 1
+cell_4807,10,Layer 2-3 medial
+cell_7367,3,Layer 5
+cell_5671,10,Layer 2-3 medial
+cell_5587,9,Pia Layer 1
+cell_5796,10,Layer 2-3 medial
+cell_5815,10,Layer 2-3 medial
+cell_4360,0,Hippocampus
+cell_3011,4,White matter
+cell_3684,1,Layer 4
+cell_3466,10,Layer 2-3 medial
+cell_4720,10,Layer 2-3 medial
+cell_3622,1,Layer 4
+cell_5742,10,Layer 2-3 medial
+cell_5528,0,Hippocampus
+cell_5055,3,Layer 5
+cell_5352,6,Layer 6
+cell_6148,3,Layer 5
+cell_4817,10,Layer 2-3 medial
+cell_5888,1,Layer 4
+cell_6712,10,Layer 2-3 medial
+cell_5943,3,Layer 4
+cell_3424,10,Layer 2-3 lateral
+cell_2655,4,White matter
+cell_5791,10,Layer 2-3 medial
+cell_5931,1,Layer 4
+cell_5593,9,Pia Layer 1
+cell_3544,10,Layer 2-3 medial
+cell_4822,10,Layer 2-3 medial
+cell_4954,1,Layer 4
+cell_6731,10,Layer 2-3 medial
+cell_2952,4,White matter
+cell_6749,10,Layer 2-3 medial
+cell_7636,4,White matter
+cell_3609,10,Layer 2-3 medial
+cell_1876,10,Layer 2-3 medial
+cell_7339,6,Layer 6
+cell_5606,9,Pia Layer 1
+cell_4914,3,Layer 4
+cell_4565,10,Layer 2-3 medial
+cell_2944,4,White matter
+cell_6573,9,Hippocampus
+cell_6065,3,Layer 5
+cell_6746,10,Layer 2-3 medial
+cell_619,7,Layer 4
+cell_4564,10,Layer 2-3 medial
+cell_6583,9,Hippocampus
+cell_1641,10,Layer 2-3 medial
+cell_4426,9,White matter
+cell_458,2,Layer 2-3 lateral
+cell_4510,9,Pia Layer 1
+cell_2842,3,White matter
+cell_5711,10,Layer 2-3 medial
+cell_6553,9,Hippocampus
+cell_4977,3,Layer 5
+cell_6282,6,Layer 6
+cell_5642,10,Layer 2-3 medial
+cell_1560,9,Pia Layer 1
+cell_3716,1,Layer 4
+cell_762,6,Layer 6
+cell_1546,9,Pia Layer 1
+cell_3891,6,Layer 6
+cell_423,2,Layer 4
+cell_2600,4,White matter
+cell_2046,7,Layer 4
+cell_3372,10,Layer 2-3 medial
+cell_5581,9,Pia Layer 1
+cell_3865,3,Layer 6
+cell_5970,1,Layer 4
+cell_1795,2,Layer 2-3 lateral
+cell_324,2,Layer 2-3 lateral
+cell_1688,2,Layer 2-3 lateral
+cell_5178,6,Layer 6
+cell_3720,1,Layer 4
+cell_5124,3,Layer 5
+cell_1647,10,Layer 2-3 medial
+cell_6111,3,Layer 4
+cell_1305,8,Internal Capsule Caudoputamen
+cell_3982,6,Layer 6
+cell_4737,10,Layer 2-3 medial
+cell_4258,0,Hippocampus
+cell_7828,0,Hippocampus
+cell_5860,1,Layer 2-3 medial
+cell_774,3,Layer 4
+cell_5523,0,Hippocampus
+cell_1047,4,White matter
+cell_2202,6,Layer 6
+cell_622,7,Layer 4
+cell_5679,10,Layer 2-3 medial
+cell_6751,10,Layer 2-3 medial
+cell_775,3,Layer 4
+cell_5756,10,Layer 2-3 medial
+cell_7372,3,Layer 5
+cell_1651,10,Layer 2-3 medial
+cell_2748,0,Hippocampus
+cell_124,7,Layer 4
+cell_278,2,Layer 3-4
+cell_1821,7,Layer 3-4
+cell_4773,1,Layer 4
+cell_3243,4,White matter
+cell_449,7,Layer 4
+cell_591,7,Layer 4
+cell_2844,3,White matter
+cell_4656,10,Layer 2-3 medial
+cell_2060,7,Layer 4
+cell_2204,3,Layer 5
+cell_3792,3,Layer 4
+cell_3156,5,Ventricle
+cell_3177,5,Ventricle
+cell_1743,2,Layer 2-3 lateral
+cell_4771,10,Layer 2-3 medial
+cell_1701,2,Layer 2-3 lateral
+cell_3381,10,Layer 2-3 medial
+cell_3141,5,Ventricle
+cell_5749,10,Layer 2-3 medial
+cell_2241,3,Layer 6
+cell_2792,0,Hippocampus
+cell_3155,5,Ventricle
+cell_97,2,Layer 3-4
+cell_6580,9,Hippocampus
+cell_113,7,Layer 4
+cell_3731,1,Layer 4
+cell_3169,5,Ventricle
+cell_1601,2,Layer 2-3 lateral
+cell_5187,3,Layer 6
+cell_906,6,Layer 6
+cell_2782,0,Hippocampus
+cell_3143,5,Ventricle
+cell_1613,10,Layer 2-3 lateral
+cell_4746,10,Layer 2-3 medial
+cell_5657,10,Layer 2-3 medial
+cell_334,2,Layer 2-3 lateral
+cell_1843,10,Layer 2-3 medial
+cell_614,7,Layer 4
+cell_5583,9,Pia Layer 1
+cell_229,2,Layer 2-3 lateral
+cell_3797,3,Layer 6
+cell_1800,7,Layer 4
+cell_4530,10,Layer 2-3 medial
+cell_4415,0,Hippocampus
+cell_972,6,Layer 6
+cell_2365,6,Layer 6
+cell_3625,10,Layer 2-3 medial
+cell_4405,0,Hippocampus
+cell_337,2,Layer 2-3 lateral
+cell_54,2,Layer 2-3 lateral
+cell_1742,2,Layer 2-3 lateral
+cell_3423,10,Layer 2-3 lateral
+cell_3172,5,Ventricle
+cell_1698,2,Layer 2-3 lateral
+cell_7825,0,Hippocampus
+cell_1716,2,Layer 2-3 lateral
+cell_3186,5,Ventricle
+cell_6586,9,Hippocampus
+cell_5152,6,Layer 6
+cell_2966,4,White matter
+cell_3159,5,Ventricle
+cell_290,2,Layer 3-4
+cell_6541,9,Hippocampus
+cell_2316,6,Layer 6
+cell_3184,5,Ventricle
+cell_3146,5,Ventricle
+cell_2707,4,White matter
+cell_1201,5,White matter
+cell_3107,5,Ventricle
+cell_1087,4,White matter
+cell_3129,5,Ventricle
+cell_1181,5,White matter
+cell_1191,4,White matter
+cell_5366,4,White matter
+cell_3126,5,Ventricle
+cell_3182,5,Ventricle
+cell_3151,5,Ventricle
+cell_4411,0,Hippocampus
+cell_1182,5,White matter
+cell_1179,5,White matter
+cell_3198,5,Ventricle
+cell_3218,5,Ventricle
+cell_2604,4,White matter
+cell_1383,4,White matter
+cell_3115,5,Ventricle
+cell_2788,0,Hippocampus
+cell_1189,5,White matter
+cell_2704,4,White matter
+cell_2896,4,Ventricle
+cell_2901,4,White matter
+cell_3140,5,Ventricle
+cell_2663,4,White matter
+cell_5371,4,White matter
+cell_3122,5,Ventricle
+cell_3138,5,Ventricle
+cell_3210,5,Ventricle
+cell_2713,4,White matter
+cell_1202,5,White matter
+cell_4277,0,Hippocampus
+cell_3176,5,Ventricle
+cell_4185,4,White matter
+cell_1194,5,White matter
+cell_5455,0,Hippocampus
+cell_3167,5,Ventricle
+cell_1192,5,White matter
+cell_3104,5,Ventricle
+cell_3201,5,Ventricle
+cell_3188,5,Ventricle
+cell_3171,5,Ventricle
+cell_2902,5,Ventricle
+cell_2928,4,White matter
+cell_3127,5,Ventricle
+cell_3202,5,Ventricle
+cell_3205,5,Ventricle
+cell_5630,9,Pia Layer 1
+cell_3112,5,Ventricle
+cell_3137,5,Ventricle
+cell_3183,5,Ventricle
+cell_3211,5,Ventricle
+cell_1498,4,White matter
+cell_3217,5,Ventricle
+cell_1200,5,White matter
+cell_1186,5,White matter
+cell_3135,5,Ventricle
+cell_3161,5,Ventricle
+cell_3175,5,Ventricle
+cell_7067,1,Layer 4
+cell_2924,4,White matter
+cell_3118,5,Ventricle
+cell_1184,5,White matter
+cell_3130,5,Ventricle
+cell_3134,5,Ventricle
+cell_3121,5,Ventricle
+cell_2722,4,White matter
+cell_2899,4,Ventricle
+cell_2654,4,White matter
+cell_2720,4,White matter
+cell_3105,5,Ventricle
+cell_3136,5,Ventricle
+cell_4262,4,White matter
+cell_3133,5,Ventricle
+cell_1190,5,White matter
+cell_1185,4,White matter
+cell_4266,4,White matter
+cell_2652,4,White matter
+cell_6595,9,Pia Layer 1
+cell_3124,5,Ventricle
+cell_3204,5,Ventricle
+cell_3132,5,Ventricle
+cell_1196,5,White matter
+cell_3148,5,Ventricle
+cell_2716,4,White matter
+cell_1195,5,White matter
+cell_3152,5,Ventricle
+cell_3199,5,Ventricle
+cell_3200,5,Ventricle
+cell_3123,5,Ventricle
+cell_3147,5,Ventricle
+cell_2965,4,White matter
+cell_3187,5,Ventricle
+cell_3120,5,Ventricle
+cell_3180,5,Ventricle
+cell_3131,5,Ventricle
+cell_3220,5,Ventricle
+cell_1090,4,White matter
+cell_3179,5,Ventricle
+cell_3209,5,Ventricle
+cell_3178,5,Ventricle
+cell_5398,4,White matter
+cell_5408,4,White matter
+cell_2648,4,White matter
+cell_4256,4,White matter
+cell_3197,5,Ventricle
+cell_1382,4,White matter
+cell_5397,4,White matter
+cell_1381,4,Ventricle
+cell_5126,6,Layer 6
+cell_1554,9,Pia Layer 1
+cell_3672,1,Layer 4
+cell_3680,3,Layer 4
+cell_1748,7,Layer 4
+cell_4434,9,White matter
+cell_3882,6,Layer 6
+cell_3757,3,Layer 4
+cell_576,7,Layer 4
+cell_47,2,Layer 2-3 lateral
+cell_6076,3,Layer 4
+cell_2420,6,Layer 6
+cell_192,2,Layer 2-3 lateral
+cell_5467,0,Hippocampus
+cell_592,7,Layer 4
+cell_874,6,Layer 6
+cell_1014,2,Layer 6
+cell_1567,9,Pia Layer 1
+cell_175,9,Pia Layer 1
+cell_6047,1,Layer 4
+cell_4132,6,Layer 6
+cell_2773,0,Hippocampus
+cell_4906,3,Layer 4
+cell_3361,10,Layer 2-3 medial
+cell_2217,3,Layer 5
+cell_288,2,Layer 2-3 lateral
+cell_4396,0,Hippocampus
+cell_6168,3,Layer 5
+cell_3333,10,Layer 2-3 medial
+cell_5669,10,Layer 2-3 medial
+cell_1767,7,Layer 4
+cell_4302,0,Hippocampus
+cell_6487,0,Hippocampus
+cell_4313,0,Hippocampus
+cell_197,2,Layer 2-3 lateral
+cell_4828,10,Layer 2-3 medial
+cell_176,9,Pia Layer 1
+cell_103,7,Layer 4
+cell_6466,4,White matter
+cell_382,7,Layer 4
+cell_6327,6,Layer 6
+cell_52,2,Layer 2-3 lateral
+cell_1604,2,Layer 2-3 medial
+cell_907,6,Layer 6
+cell_3626,1,Layer 4
+cell_1752,7,Layer 4
+cell_6009,1,Layer 4
+cell_4557,9,Pia Layer 1
+cell_851,2,Layer 6
+cell_3376,10,Layer 2-3 medial
+cell_855,2,Layer 6
+cell_1928,7,Layer 4
+cell_6564,9,Hippocampus
+cell_564,7,Layer 4
+cell_5484,0,Hippocampus
+cell_4921,1,Layer 4
+cell_4747,10,Layer 2-3 medial
+cell_344,2,Layer 3-4
+cell_5027,3,Layer 5
+cell_3342,10,Layer 2-3 medial
+cell_879,6,Layer 6
+cell_6546,9,Hippocampus
+cell_3733,1,Layer 4
+cell_5555,0,Hippocampus
+cell_2170,3,Layer 5
+cell_5538,9,Hippocampus
+cell_5457,0,Hippocampus
+cell_114,7,Layer 4
+cell_3629,1,Layer 4
+cell_5904,1,Layer 4
+cell_6469,4,White matter
+cell_4383,0,Hippocampus
+cell_98,2,Layer 3-4
+cell_371,2,Layer 4
+cell_4881,1,Layer 4
+cell_105,2,Layer 2-3 lateral
+cell_1661,10,Layer 2-3 medial
+cell_5037,1,Layer 4
+cell_3724,1,Layer 4
+cell_380,2,Layer 4
+cell_2216,6,Layer 6
+cell_6578,9,Hippocampus
+cell_2615,6,Layer 6
+cell_2142,7,Layer 4
+cell_4278,0,Hippocampus
+cell_5034,1,Layer 4
+cell_1940,7,Layer 4
+cell_3673,1,Layer 4
+cell_4246,0,Hippocampus
+cell_6756,10,Layer 2-3 medial
+cell_3690,1,Layer 4
+cell_4550,9,Layer 2-3 medial
+cell_4066,6,Layer 6
+cell_6,9,Pia Layer 1
+cell_6147,3,Layer 5
+cell_6150,3,Layer 5
+cell_520,7,Layer 4
+cell_302,2,Layer 2-3 lateral
+cell_877,6,Layer 6
+cell_599,3,Layer 4
+cell_7080,1,Layer 4
+cell_2225,6,Layer 6
+cell_4526,10,Layer 2-3 medial
+cell_1676,10,Layer 2-3 medial
+cell_3310,9,Pia Layer 1
+cell_660,3,Layer 4
+cell_3394,10,Layer 2-3 lateral
+cell_1734,2,Layer 2-3 lateral
+cell_6575,9,Hippocampus
+cell_5302,6,Layer 6
+cell_5161,3,Layer 6
+cell_4337,0,Hippocampus
+cell_6346,4,White matter
+cell_3648,1,Layer 3-4
+cell_5917,1,Layer 4
+cell_1590,2,Layer 2-3 medial
+cell_4108,4,White matter
+cell_2638,4,White matter
+cell_2668,4,White matter
+cell_66,2,Layer 2-3 lateral
+cell_4156,6,Layer 6
+cell_6560,9,Hippocampus
+cell_3826,3,Layer 5
+cell_5537,9,Hippocampus
+cell_1553,9,Pia Layer 1
+cell_5237,3,Layer 6
+cell_3036,4,White matter
+cell_6574,9,Hippocampus
+cell_432,2,Layer 2-3 lateral
+cell_5089,3,Layer 5
+cell_913,6,Layer 6
+cell_3736,1,Layer 4
+cell_4191,6,Layer 6
+cell_3942,6,Layer 6
+cell_3303,9,Pia Layer 1
+cell_1413,8,Internal Capsule Caudoputamen
+cell_2356,6,Layer 6
+cell_586,3,Layer 4
+cell_5144,3,Layer 5
+cell_4878,1,Layer 4
+cell_4155,4,White matter
+cell_1254,8,Internal Capsule Caudoputamen
+cell_4858,1,Layer 4
+cell_3297,9,Pia Layer 1
+cell_4709,10,Layer 2-3 medial
+cell_2635,4,White matter
+cell_5525,9,Hippocampus
+cell_2546,6,Layer 6
+cell_216,2,Layer 2-3 lateral
+cell_6561,9,Hippocampus
+cell_265,2,Layer 2-3 lateral
+cell_5142,6,Layer 6
+cell_236,2,Layer 2-3 lateral
+cell_739,3,Layer 4
+cell_2653,4,White matter
+cell_317,2,Layer 2-3 lateral
+cell_754,3,Layer 4
+cell_2756,0,Hippocampus
+cell_6592,9,Pia Layer 1
+cell_740,3,Layer 4
+cell_5636,10,Layer 2-3 medial
+cell_3327,10,Layer 2-3 medial
+cell_6556,9,Hippocampus
+cell_1552,9,Pia Layer 1
+cell_40,2,Layer 2-3 lateral
+cell_4548,10,Layer 2-3 medial
+cell_3345,9,Layer 2-3 medial
+cell_333,2,Layer 2-3 lateral
+cell_3001,4,White matter
+cell_623,7,Layer 4
+cell_358,7,Layer 4
+cell_4087,6,Layer 6
+cell_3139,5,Ventricle
+cell_4650,10,Layer 2-3 medial
+cell_5159,6,Layer 6
+cell_3349,9,Pia Layer 1
+cell_1566,9,Pia Layer 1
+cell_4194,6,Layer 6
+cell_5951,1,Layer 4
+cell_5535,9,Hippocampus
+cell_3002,4,White matter
+cell_6565,9,Hippocampus
+cell_3450,10,Layer 2-3 medial
+cell_5561,0,Hippocampus
+cell_396,2,Layer 4
+cell_4515,9,Pia Layer 1
+cell_3344,9,Layer 2-3 medial
+cell_3634,10,Layer 3-4
+cell_407,7,Layer 4
+cell_700,3,Layer 5
+cell_19,9,Pia Layer 1
+cell_25,9,Pia Layer 1
+cell_3511,10,Layer 2-3 medial
+cell_1681,2,Layer 2-3 lateral
+cell_783,3,Layer 4
+cell_5865,1,Layer 4
+cell_5922,3,Layer 4
+cell_6535,0,Hippocampus
+cell_5959,1,Layer 4
+cell_3825,3,Layer 4
+cell_6326,6,Layer 6
+cell_1372,8,Ventricle
+cell_779,6,Layer 6
+cell_5147,6,Layer 6
+cell_4535,9,Pia Layer 1
+cell_6294,6,Layer 6
+cell_3606,1,Layer 4
+cell_4814,10,Layer 2-3 medial
+cell_2182,6,Layer 6
+cell_2621,4,White matter
+cell_3383,9,Pia Layer 1
+cell_419,7,Layer 4
+cell_867,6,Layer 6
+cell_3991,6,Layer 6
+cell_2507,6,Layer 6
+cell_4422,9,White matter
+cell_1032,4,White matter
+cell_5833,1,Layer 4
+cell_6571,9,Hippocampus
+cell_3330,9,Layer 2-3 medial
+cell_6545,9,Hippocampus
+cell_106,7,Layer 4
+cell_2189,3,Layer 5
+cell_3407,10,Layer 2-3 lateral
+cell_2465,6,Layer 6
+cell_406,7,Layer 4
+cell_2984,4,White matter
+cell_3641,1,Layer 4
+cell_4172,6,Layer 6
+cell_7370,3,Layer 5
+cell_3252,4,White matter
+cell_2197,3,Layer 5
+cell_3479,10,Layer 2-3 medial
+cell_4556,9,Layer 2-3 medial
+cell_1322,8,Internal Capsule Caudoputamen
+cell_627,7,Layer 4
+cell_1759,7,Layer 3-4
+cell_1697,2,Layer 2-3 lateral
+cell_1844,10,Layer 2-3 medial
+cell_3305,9,Pia Layer 1
+cell_3010,4,White matter
+cell_3259,4,White matter
+cell_3160,5,Ventricle
+cell_289,2,Layer 2-3 lateral
+cell_3940,3,Layer 5
+cell_158,9,Pia Layer 1
+cell_2755,0,Hippocampus
+cell_5592,9,Pia Layer 1
+cell_2637,4,White matter
+cell_4529,9,Layer 2-3 medial
+cell_5301,4,White matter
+cell_211,2,Layer 2-3 lateral
+cell_4209,6,Layer 6
+cell_4551,9,Layer 2-3 medial
+cell_5184,3,Layer 6
+cell_3685,1,Layer 4
+cell_2738,4,White matter
+cell_1776,2,Layer 2-3 lateral
+cell_936,4,White matter
+cell_2754,0,Hippocampus
+cell_4509,9,Pia Layer 1
+cell_2588,4,Layer 6
+cell_3693,1,Layer 4
+cell_6584,9,Hippocampus
+cell_5091,6,Layer 6
+cell_3895,3,Layer 5
+cell_5937,1,Layer 4
+cell_210,2,Layer 2-3 lateral
+cell_5526,9,Hippocampus
+cell_6139,3,Layer 5
+cell_116,7,Layer 4
+cell_1964,7,Layer 4
+cell_4540,9,Pia Layer 1
+cell_7839,0,Hippocampus
+cell_3173,5,Ventricle
+cell_6577,9,Hippocampus
+cell_4973,3,Layer 5
+cell_1459,4,White matter
+cell_349,7,Layer 4
+cell_5891,3,Layer 4
+cell_220,2,Layer 2-3 lateral
+cell_4041,6,Layer 6
+cell_6585,9,Hippocampus
+cell_4189,6,Layer 6
+cell_1563,9,Pia Layer 1
+cell_6576,9,Hippocampus
+cell_4465,9,White matter
+cell_6562,9,Hippocampus
+cell_2048,3,Layer 5
+cell_5025,3,Layer 5
+cell_172,2,Layer 2-3 lateral
+cell_4311,0,Hippocampus
+cell_411,7,Layer 4
+cell_926,6,Layer 6
+cell_1400,8,White matter
+cell_2651,4,White matter
+cell_2054,7,Layer 4
+cell_6745,10,Layer 2-3 medial
+cell_3356,9,Pia Layer 1
+cell_4745,10,Layer 2-3 medial
+cell_2864,9,White matter
+cell_4517,9,Pia Layer 1
+cell_2591,4,Layer 6
+cell_280,2,Layer 2-3 lateral
+cell_5625,9,Pia Layer 1
+cell_2667,4,White matter
+cell_4591,9,Layer 2-3 medial
+cell_761,6,Layer 6
+cell_2740,4,White matter
+cell_2963,4,White matter
+cell_3666,10,Layer 2-3 medial
+cell_2066,7,Layer 4
+cell_1599,2,Layer 2-3 lateral
+cell_1398,8,White matter
+cell_1721,2,Layer 2-3 lateral
+cell_6579,9,Hippocampus
+cell_4109,4,White matter
+cell_1550,9,Pia Layer 1
+cell_3304,9,Pia Layer 1
+cell_3203,4,White matter
+cell_4201,4,White matter
+cell_1551,9,Pia Layer 1
+cell_4285,4,White matter
+cell_28,2,Layer 2-3 lateral
+cell_2357,6,Layer 6
+cell_2389,6,Layer 6
+cell_3331,9,Layer 2-3 medial
+cell_4011,6,Layer 6
+cell_712,7,Layer 4
+cell_15,2,Layer 2-3 lateral
+cell_2394,6,Layer 6
+cell_3729,1,Layer 4
+cell_294,2,Layer 3-4
+cell_1365,8,White matter
+cell_1938,7,Layer 4
+cell_6582,9,Hippocampus
+cell_4674,10,Layer 2-3 medial
+cell_5108,3,Layer 5
+cell_4533,9,Pia Layer 1
+cell_6558,9,Hippocampus
+cell_3153,5,Ventricle
+cell_133,7,Layer 4
+cell_630,7,Layer 4
+cell_4424,9,White matter
+cell_75,7,Layer 4
+cell_21,9,Pia Layer 1
+cell_3298,9,Pia Layer 1
+cell_1987,7,Layer 4
+cell_5096,3,Layer 5
+cell_737,3,Layer 4
+cell_1562,9,Pia Layer 1
+cell_4528,9,Layer 2-3 medial
+cell_3448,10,Layer 2-3 medial
+cell_782,3,Layer 4
+cell_6572,9,Hippocampus
+cell_3869,6,Layer 6
+cell_1339,8,Internal Capsule Caudoputamen
+cell_6581,9,Hippocampus
+cell_241,2,Layer 2-3 lateral
+cell_2878,4,Ventricle
+cell_1354,8,Internal Capsule Caudoputamen
+cell_240,2,Layer 2-3 lateral
+cell_2985,4,White matter
+cell_1646,10,Layer 2-3 medial
+cell_1805,2,Layer 2-3 lateral
+cell_848,2,Layer 6
+cell_2490,6,Layer 6
+cell_1444,8,White matter
+cell_2758,0,Hippocampus
+cell_1294,8,Internal Capsule Caudoputamen
+cell_889,6,Layer 6
+cell_5133,6,Layer 6
+cell_6142,3,Layer 4
+cell_5580,9,Pia Layer 1
+cell_951,6,Layer 6
+cell_1441,8,White matter
+cell_1658,10,Layer 2-3 medial
+cell_4162,6,Layer 6
+cell_1251,8,Internal Capsule Caudoputamen
+cell_153,6,Layer 6
+cell_1093,8,Internal Capsule Caudoputamen
+cell_1223,4,White matter
+cell_1389,8,White matter
+cell_3096,5,Ventricle
+cell_402,7,Layer 4
+cell_1340,8,Internal Capsule Caudoputamen
+cell_187,2,Layer 2-3 lateral
+cell_51,2,Pia Layer 1
+cell_2643,4,White matter
+cell_1248,8,Internal Capsule Caudoputamen
+cell_3864,6,Layer 6
+cell_904,4,White matter
+cell_316,2,Layer 2-3 lateral
+cell_5361,6,Layer 6
+cell_1428,8,Internal Capsule Caudoputamen
+cell_4425,9,White matter
+cell_7823,0,Hippocampus
+cell_1643,10,Layer 2-3 medial
+cell_4823,10,Layer 2-3 medial
+cell_88,7,Layer 4
+cell_1631,2,Layer 2-3 lateral
+cell_4329,0,Hippocampus
+cell_954,6,Layer 6
+cell_843,2,Layer 6
+cell_2290,2,Layer 6
+cell_22,2,Layer 2-3 lateral
+cell_4364,0,Hippocampus
+cell_4522,9,Layer 2-3 medial
+cell_953,6,Layer 6
+cell_5346,6,Layer 6
+cell_2922,4,White matter
+cell_961,6,Layer 6
+cell_196,2,Pia Layer 1
+cell_1238,8,Internal Capsule Caudoputamen
+cell_1283,8,Internal Capsule Caudoputamen
+cell_2886,4,Ventricle
+cell_1515,8,White matter
+cell_42,2,Layer 2-3 lateral
+cell_1344,8,Internal Capsule Caudoputamen
+cell_14,2,Layer 2-3 lateral
+cell_1547,9,Pia Layer 1
+cell_2809,4,White matter
+cell_6306,3,Layer 6
+cell_1635,9,Pia Layer 1
+cell_401,2,Layer 2-3 lateral
+cell_3338,9,Layer 2-3 medial
+cell_4207,4,White matter
+cell_233,2,Layer 2-3 lateral
+cell_902,6,Layer 6
+cell_2423,6,Layer 6
+cell_4731,10,Layer 2-3 medial
+cell_3358,10,Layer 2-3 medial
+cell_1385,8,Internal Capsule Caudoputamen
+cell_2104,3,Layer 5
+cell_119,2,Layer 3-4
+cell_2164,3,Layer 5
+cell_5308,6,Layer 6
+cell_1113,4,White matter
+cell_3956,2,Layer 6
+cell_155,6,Layer 6
+cell_4511,9,Pia Layer 1
+cell_1244,8,Internal Capsule Caudoputamen
+cell_4069,6,Layer 6
+cell_1534,5,Ventricle
+cell_152,2,Layer 6
+cell_2228,3,Layer 6
+cell_1479,8,White matter
+cell_861,2,Layer 6
+cell_3076,8,White matter
+cell_92,2,Layer 2-3 lateral
+cell_4036,6,Layer 6
+cell_1623,10,Layer 2-3 lateral
+cell_3419,10,Layer 2-3 lateral
+cell_950,2,Layer 6
+cell_844,2,Layer 6
+cell_297,2,Layer 2-3 lateral
+cell_2186,6,Layer 6
+cell_884,6,Layer 6
+cell_5905,1,Layer 4
+cell_4098,4,White matter
+cell_1568,2,Layer 2-3 lateral
+cell_4512,9,Pia Layer 1
+cell_2768,0,Hippocampus
+cell_3043,4,White matter
+cell_4521,9,Pia Layer 1
+cell_5341,6,Layer 6
+cell_2832,4,White matter
+cell_3268,4,White matter
+cell_650,3,Layer 4
+cell_3034,4,White matter
+cell_4212,4,Layer 6
+cell_343,2,Layer 2-3 lateral
+cell_85,2,Layer 2-3 lateral
+cell_4520,9,Pia Layer 1
+cell_1313,8,Internal Capsule Caudoputamen
+cell_1045,4,White matter
+cell_6486,0,Hippocampus
+cell_2883,4,Ventricle
+cell_3608,10,Layer 2-3 medial
+cell_3863,3,Layer 5
+cell_3031,4,White matter
+cell_2868,8,Ventricle
+cell_1707,2,Layer 2-3 lateral
+cell_7641,6,Layer 6
+cell_4478,4,White matter
+cell_3337,9,Pia Layer 1
+cell_4437,4,White matter
+cell_1790,7,Layer 4
+cell_4265,0,Hippocampus
+cell_1064,4,White matter
+cell_2877,4,Ventricle
+cell_2602,4,Layer 6
+cell_2940,4,White matter
+cell_3635,10,Layer 3-4
+cell_3336,9,Pia Layer 1
+cell_6462,6,Layer 6
+cell_260,2,Layer 2-3 lateral
+cell_4446,4,White matter
+cell_6431,6,Layer 6
+cell_5462,0,Hippocampus

@@ -1,0 +1,17 @@
+{
+  "action": "loaded_existing_weight",
+  "device": "cuda",
+  "epoch": 500,
+  "checkpoint": "final",
+  "metrics": {
+    "ARI": 0.42621585633969783,
+    "NMI": 0.6000986365642978
+  },
+  "comparison_with_archived_final": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_final_ARI": 0.42621585633969783
+  },
+  "weight": "weights/DLPFC/151669/paper/seed_2.pt",
+  "weight_sha256": "8686835d1011ea79c14cb1b48667caeb48b47d3fb290e8a0a45ad9cc36ea6eea"
+}

@@ -1,0 +1,14 @@
+{
+  "peak": 0.6891585444160617,
+  "final": 0.6042059939192894,
+  "peak_epoch": 488,
+  "final_epoch": 500,
+  "origin": "copied_historical_result",
+  "peak_selection": "maximum ARI over epochs, reference-label-assisted; not a held-out test",
+  "source_directory": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/osmfish_SpaSRD_seed42_9b34d287ff",
+  "files": {
+    "history.csv": "f3313ccd96cc401d3e9a13e6c8f1c5100a703ccd4ecaad5509d82b82ff8e439b",
+    "peak.npz": "7625dc43451495b30e90835853382b2b0e987ad55d0c0e0e8f216d2c1274838d",
+    "final.npz": "325504f8186868239c2f096f59e55d7cc2eddbfe9dde0a88f2743cecb9cfdc54"
+  }
+}

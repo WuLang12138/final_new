@@ -1,0 +1,190 @@
+{
+  "source": "C:\\Users\\吴浪\\Desktop\\SpaSRD_ESGR_anti-ai.docx",
+  "target": "C:\\Users\\吴浪\\Desktop\\ST\\sidmgf_final\\results\\manuscript\\SpaSRD_ESGR_双路径主线修订版.docx",
+  "source_sha256": "69c1fdd48849c52b9ddf6dfc77a9322a797ab0bb45e50e773037197acf63d7a3",
+  "changes": [
+    {
+      "paragraph": 2,
+      "before": "Spatial domain identification requires integrating regional expression context while preserving differences between adjacent tissue compartments. The relative importance of these requirements varies with tissue organization and spatial sampling. We present SpaSRD, a reconstruction-based framework that combines controllable diffusion with common–differential representation decomposition. The diffusion path separates feature transformation from restarted propagation to control how regional context is integrated. The separation path uses a common representation for adjacency reconstruction and controls local variation through gated differential features and selective regularization. An Expression–Spatial Guided Routing (ESGR) module selects a path before training based on expression responses to diagnostic diffusion and neighborhood geometry. Under KNN8 graphs and donor-shared settings, SpaSRD achieved a median section-wise mean peak adjusted Rand index (ARI) of 0.6283 across twelve dorsolateral prefrontal cortex sections. Mean peak ARIs on STARmap and osmFISH were 0.6498 and 0.6992, respectively. In breast cancer, combined regularization increased mean peak ARI from 0.6959 to 0.7105 and reduced within-region fragmentation. ESGR was developed on 43 objects and frozen before evaluation on four new external datasets. On each dataset, it selected the path with the higher five-seed mean peak ARI. ESGR matched fixed diffusion on three histology-annotated datasets. With an atlas-reference brain dataset included, the equally weighted mean gains across the four datasets were 0.0055 over fixed diffusion and 0.0209 over fixed separation. SpaSRD uses measurable expression and sampling properties to guide spatial representation configuration for spatial domain identification.",
+      "after": "Spatial transcriptomics links molecular variation to tissue organization, but identifying spatial domains requires both regional coherence and discrimination between neighboring compartments. Neighborhood aggregation can strengthen weak regional signals while attenuating local differences, and the balance between these effects varies with tissue architecture and sampling. We present SpaSRD, a spatial domain identification framework that addresses these competing demands through two complementary representation paths. The diffusion path regulates the spatial extent of information integration independently of feature transformation, allowing regional context to supplement individual observations. The separation path assigns shared tissue context and local variation to distinct representation components, supporting adjacency reconstruction without imposing the same direct spatial constraint on all features. Expression–Spatial Guided Routing (ESGR) uses expression responses to spatial integration and neighborhood geometry to select a path before model training. In comparisons across DLPFC, STARmap, osmFISH and human breast cancer data, SpaSRD achieved the highest aggregate adjusted Rand index (ARI) among the evaluated methods under the study protocol. The diffusion path supported cortical domain recovery, whereas the separation path improved regional coherence and boundary recovery in breast cancer tissue. After its decision rule was frozen, ESGR selected the path with higher mean ARI on each of four new external datasets. These results support coordinating propagation scale and representation decomposition to recover spatial domains across different tissue organizations and measurement conditions."
+    },
+    {
+      "paragraph": 5,
+      "before": "空间域识别需要整合区域表达背景，同时保留相邻组织区室之间的差异。这两项需求的相对重要性随组织结构和空间采样而变化。本文提出重建式框架 SpaSRD，将可控扩散与共同—差异表示分解相结合。扩散路径将特征变换与重启传播分离，以控制区域背景的整合方式。分离路径使用共同表示进行邻接重建，并通过门控差异特征和选择性正则化控制局部变化。表达—空间引导选路（Expression–Spatial Guided Routing，ESGR）模块根据表达对诊断扩散的响应及邻域几何，在训练前选择路径。在 KNN8 图和供体共享设置下，SpaSRD 在十二张背外侧前额叶皮层切片上的逐片平均峰值调整兰德指数（ARI）中位数为 0.6283。在 STARmap 和 osmFISH 上，平均峰值 ARI 分别为 0.6498 和 0.6992。在乳腺癌数据中，组合正则化将平均峰值 ARI 从 0.6959 提高至 0.7105，并减少了域内碎片化。ESGR 在 43 个对象上完成开发，并在四个新的外部数据集上评估前冻结。在每个数据集上，ESGR 均选择了五个随机种子下平均峰值 ARI 较高的路径。在三个组织学标注数据集上，ESGR 的表现与固定扩散路径相同。纳入一个脑图谱参考数据集后，四个数据集上的等权平均增益相较固定扩散路径和固定分离路径分别为 0.0055 和 0.0209。SpaSRD 利用可测量的表达与采样特征，指导空间域识别中的空间表示配置。",
+      "after": "空间转录组学将分子差异与组织结构联系起来，但空间域识别既要恢复区域内部的共同表达背景，又要区分相邻组织区室。邻域聚合能够增强较弱的区域信号，也可能削弱局部差异；两者之间的平衡随组织结构与空间采样而变化。针对这一问题，本文提出空间域识别框架SpaSRD，通过两条互补的表示路径协调区域整合与局部区分。可控扩散路径独立调节信息传播范围，使区域背景补充单点观测；表示分离路径将共享组织背景与局部变化分配到不同表示成分，使邻接重建不再对全部特征施加相同的直接空间约束。表达—空间引导选路（Expression–Spatial Guided Routing，ESGR）依据表达对空间整合的响应及邻域几何，在训练前确定表示路径。在DLPFC、STARmap、osmFISH和人乳腺癌数据的比较中，SpaSRD在本研究评价协议下取得了所比较方法中最高的汇总调整兰德指数（ARI）。扩散路径支持皮层区域恢复，分离路径改善乳腺癌组织的区域一致性与边界恢复。选路规则冻结后，ESGR在四个新外部数据集上均选择了平均ARI较高的路径。这些结果支持将传播尺度与表示分工共同纳入空间域建模，以适应不同组织结构和测量条件下的分区需求。"
+    },
+    {
+      "paragraph": 10,
+      "before": "空间转录组学将基因表达定位于完整组织中，为研究皮层层次、肿瘤亚区和组织交界提供了分子依据。空间域由局部表达与组织环境共同界定：不同细胞类型可以属于同一组织区室，而同一细胞类型也可分布于多个区域[1,2]。因此，空间域识别需要整合区域内部共享的表达背景，同时保留相邻区域之间的分子差异。邻域整合能够增强共享背景，但也可能削弱这些差异。空间表示学习需要协调这两项需求。",
+      "after": "空间转录组学在组织原位测量基因表达，使皮层层次、肿瘤亚区及组织交界的分子组成能够与其空间位置对应。空间域识别旨在从这些局部观测中恢复具有共同组织背景的区域。空间域并不等同于细胞类型：不同细胞类型可以属于同一组织区室，同一细胞类型也可分布于多个区域[1,2]。因此，分区模型既需要识别邻近观测共享的表达背景，也需要保留区分相邻组织区域的分子变化。如何在同一空间图上协调这两类信息，是空间域表示学习的核心问题。"
+    },
+    {
+      "paragraph": 11,
+      "before": "基于表达特征的K-means、Louvain和Leiden等聚类方法能够识别转录相似性。然而，在缺少显式空间约束时，所得簇未必形成连续的组织区域。BayesSpace利用空间先验改善区域一致性，SpatialPCA则在降维过程中建模空间相关性[3,4]。BANKSY联合建模各观测的自身表达及其邻域表达背景，并允许调节邻域信息的贡献[2]。这些方法关注空间信息如何进入表示学习，这一建模选择并不限于聚类算法本身。",
+      "after": "直接对表达特征应用K-means、Louvain或Leiden等聚类方法，可以识别转录相似的观测，却未必形成空间连续的组织区域。空间感知方法将邻域关系纳入这一过程：BayesSpace以空间先验改善区域一致性，SpatialPCA在降维中建模空间相关性[3,4]，BANKSY则联合建模观测自身的表达及其邻域背景，并调节邻域信息的贡献[2]。这些工作说明，空间信息参与表示构建的方式，会直接影响组织区域的恢复。"
+    },
+    {
+      "paragraph": 12,
+      "before": "图神经网络将空间邻接纳入表示学习。SpaGCN结合表达、空间坐标和组织学信息；STAGATE利用图注意力调整邻居贡献；GraphST通过自监督学习改善空间表示[5–7]。SpatialDG和SiDMGF还利用表达图或信号图捕捉互补关系[8,9]。这些方法分别调整关系来源、邻居权重或训练目标。本文研究两个与之互补的问题：空间背景应通过多少阶邻域进行整合，以及空间邻接重建应约束潜在表示的哪一部分？在常规GCN重建框架中，增加网络深度会同时改变可训练特征变换与传播范围。从完整嵌入重建邻接，还要求同一表示同时支持空间接近关系和表达重建。组织交界两侧的观测即使空间接近，也未必应具有相同的空间域识别表示。",
+      "after": "图神经网络进一步将空间邻接与特征学习相结合。SpaGCN整合表达、空间坐标和组织学信息，STAGATE通过图注意力调整邻居贡献，GraphST利用自监督学习优化空间表示[5–7]。SpatialDG和SiDMGF分别引入表达图或信号图，提供互补的关系信息[8,9]。在基于图重建的表示学习中，仍需处理两个相互关联的问题。其一，常规图卷积将特征变换与邻域传播逐层耦合，扩大信息覆盖范围往往伴随变换深度的增加。其二，从完整嵌入恢复空间邻接，会使同一表示同时承担空间接近关系与表达差异的建模任务。组织交界两侧的观测虽然相邻，其分区依据却可能来自需要保留的表达差异。"
+    },
+    {
+      "paragraph": 13,
+      "before": "多模态整合、集成学习和外部参考为空间域识别提供了更多信息来源。SMART和GATCL利用多模态关联或对比学习，SpatialESD整合多个基础划分，GraphScrDom引入参考数据及弱监督标注[10–13]。这些方法可利用的信息随实验平台而变化。对于仅有转录表达与空间坐标的样本，空间域恢复仍需依赖这两类直接观测。在这一输入条件下，本文关注空间信息的整合尺度，以及重建任务在表示内部的分工。",
+      "after": "多模态整合、集成学习和外部参考为这一任务提供了其他信息来源。SMART和GATCL利用多模态关联或对比学习，SpatialESD整合多个基础划分，GraphScrDom引入参考数据及弱监督标注[10–13]。这些方法扩展了空间域识别可利用的证据，但可获得的组织学、组学和参考信息随平台与样本而变化。对于仅以转录表达和空间坐标为输入的模型，如何整合区域背景、如何在表示内部保留局部差异，仍是需要直接解决的建模问题。"
+    },
+    {
+      "paragraph": 14,
+      "before": "这两项建模需求的相对重要性随组织结构而变化。层状皮层具有沿组织区域延伸的共享表达背景。然而，多细胞spot的组成变化、细胞分辨率观测中的局部变异，以及靶向面板有限的基因覆盖，都可能削弱单个节点的区域信号[1,14,15]。在更大的邻域内整合信息，可能为这些局部观测补充组织背景。乳腺癌切片包含共享微环境、肿瘤边缘和不同病变亚区，因此需要分别表示相邻观测之间的区域共性与局部差异。这些组织特征提出了两项互补的建模需求：控制背景信息的传播范围，以及确定共享信息和局部变化在潜在表示中的分配方式。",
+      "after": "组织结构与测量条件使上述问题具有不同侧重。层状皮层的表达背景沿组织区域延伸，但多细胞spot的组成变化、细胞尺度的局部变异及靶向面板有限的基因覆盖，均可能削弱单点观测的区域信号[1,14,15]。这类数据需要利用邻域补充组织背景，同时控制传播跨越区域边界的程度。乳腺癌切片则同时包含健康组织、肿瘤边缘和不同病变亚区，相邻观测可能共享部分微环境，又保留区分亚区的表达变化。此时，仅增强局部一致性不足以处理区域共性与差异的并存，还需要在潜在表示中为两者设置不同的表达空间与重建职责。"
+    },
+    {
+      "paragraph": 15,
+      "before": "本文提出SpaSRD（Spatial Scale Regulation and Representation Decomposition），以协调空间背景整合与局部差异保留。SpaSRD-D采用带重启的传播算子[16]，将空间整合范围与可训练特征变换的深度解耦。SpaSRD-S将表示分解为共同与差异两个部分，通过门控、重建输入分配和选择性正则化协调域内一致性与局部变化，其多通道计算以ACM为技术基础[17]。为针对不同输入选择路径，本文引入表达—空间引导选路（Expression–Spatial Guided Routing，ESGR），根据诊断扩散响应与邻域几何，在训练前确定路径。两条互补路径及其数据引导的选路过程共同构成SpaSRD。",
+      "after": "基于这些需求，本文提出SpaSRD（Spatial Scale Regulation and Representation Decomposition），将可控扩散与共同—差异表示分解组织为同一框架内的两条互补路径。SpaSRD-D采用带重启的传播算子[16]，使区域背景的整合范围独立于可训练特征变换的深度，并持续保留节点自身的学习表示。SpaSRD-S通过多通道表示计算[17]区分共享背景与局部变化，由共同表示承担空间邻接重建，使差异表示参与表达恢复和分区，而不直接承担同一图重建约束。表达—空间引导选路（Expression–Spatial Guided Routing，ESGR）进一步将这两种建模方式与样本特征联系起来，依据表达对空间整合的响应及邻域几何，在模型训练前确定路径。"
+    },
+    {
+      "paragraph": 16,
+      "before": "本文评估表示能力、架构组件的作用及跨样本配置。首先，采用统一的KNN8图构建方式，比较核心数据集上的空间域恢复表现。随后，通过结构消融检验表示分离、承担图重建的表示部分及选择性正则化的作用。在此基础上，利用两条路径之间的性能差异建立ESGR。冻结选路规则后，在新样本上检验训练前统计特征是否与路径性能优劣的方向相对应。",
+      "after": "本文在DLPFC、STARmap、osmFISH和人乳腺癌数据上检验这一设计。在统一空间构图条件下，SpaSRD取得了所比较方法中最高的汇总ARI；空间分区与结构消融进一步检验了传播范围、表示分离及重建职责对区域恢复的作用。对新外部数据的验证则将两条路径的内部配置与选路规则预先固定，考察ESGR能否从未参与规则开发的样本中识别更合适的表示路径。由此，本文将组织结构差异对应的建模需求、模型组件的作用及跨样本选路纳入同一验证过程。"
+    },
+    {
+      "paragraph": 28,
+      "before": "SpaSRD以表达矩阵和空间坐标为输入，在重建式表示学习前进行结构诊断（图1）。ESGR在对称化KNN8图上测量表达对固定扩散的响应及邻域几何特征，据此选择D或S路径。所选路径学习64维节点表示，再通过K-means聚类识别空间域。D路径控制整合区域信息的空间范围；S路径分配共同与差异通道的重建职责，并约束局部变化的幅度与一致性。两条路径均联合重建表达与空间邻接。",
+      "after": "SpaSRD以表达矩阵和空间坐标为输入，将训练前选路与重建式表示学习连接起来（图1）。ESGR在对称化KNN8图上测量表达对固定扩散的响应及邻域几何，据此确定采用D路径或S路径。D路径调节区域背景的空间整合范围；S路径将共享背景与局部变化分开表示，并为其分配不同的重建职责。两条路径均联合重建表达与空间邻接，所选路径产生64维节点表示，再通过K-means识别空间域。"
+    },
+    {
+      "paragraph": 29,
+      "before": "核心数据比较采用供体共享的D配置及用于HBC的组合S配置，以评价传播与表示设计的作用。ESGR外部验证采用在不同数据集上保持不变的路径内部配置：D路径设为K = 10、α = 0.05，S路径采用共同表示图重建及组合约束。验证阶段运行D和S两条路径，以量化训练前所选路径的相对收益。应用阶段则由ESGR先确定路径，仅训练所选路径，随后进行聚类。补充空间图对照见表S5。",
+      "after": "核心数据比较采用供体共享的SpaSRD-D配置和用于HBC的SpaSRD-S配置，以评价传播与表示设计的作用。ESGR外部验证采用跨数据固定的路径内部配置：D路径设为K = 10、α = 0.05，S路径采用共同表示图重建及下文定义的两项局部约束。验证阶段分别运行D和S，以量化训练前所选路径的相对收益；应用阶段由ESGR先确定路径，仅训练所选路径并进行聚类。补充空间图对照见表S5。"
+    },
+    {
+      "paragraph": 71,
+      "before": "为减少差异通道保留的域内波动，组合配置在表达—结构重建目标上加入两项互补约束。差异幅度惩罚作用于门控后差异表示的元素均方幅度；选择性一致性在KNN8范围内筛选表达相近的邻居，对单位化最终表示施加加权距离约束。前者控制差异贡献的幅度，后者增强具有相似表达背景的局部一致性。边筛选与权重在训练前由表达数据确定，空间图重建保持作用于共同表示。实现与系数见补充方法S6。",
+      "after": "SpaSRD-S在表示分工之外，对差异通道的贡献和局部一致性施加两项约束，以减少域内无关波动。差异幅度惩罚作用于门控后差异表示的元素均方幅度，限制差异成分的幅度；选择性一致性在KNN8范围内筛选表达相近的邻居，对单位化最终表示施加加权距离约束，增强这些邻居之间的一致性。边筛选与权重在训练前由表达数据确定，空间图重建仍仅作用于共同表示。本文将两项约束同时启用称为组合约束，它们属于SpaSRD-S的训练目标，作用由后文的四组消融分别检验。实现与系数见补充方法S6。"
+    },
+    {
+      "paragraph": 73,
+      "before": "所有核心空间图采用KNN8。深度模型训练500轮，使用五个随机种子和64维聚类表示；DLPFC在每名供体的四张切片间共享传播配置，STARmap与osmFISH共享同一扩散配置。HBC以共同表示重建图的组合约束方案作为主比较配置；表2在相同训练条件下交叉改变表示架构、图重建输入与新增约束，表3单独拆分两项约束。比较方法采用已记录的受控适配设置，各方法的配置及搜索范围见补充方法。冻结选路的外部验证使用相同KNN8、500轮和五seed预算，D与S的内部参数跨数据保持不变。",
+      "after": "所有核心空间图采用KNN8。深度模型训练500轮，使用五个随机种子和64维聚类表示；DLPFC在每名供体的四张切片间共享传播配置，STARmap与osmFISH共享同一扩散配置。HBC采用上述SpaSRD-S作为主比较配置。表2在相同训练条件下交叉改变表示架构、图重建输入与新增约束，表3分别检验S路径中的两项局部约束。比较方法采用已记录的受控适配设置，各方法的配置及搜索范围见补充方法。冻结选路的外部验证使用相同KNN8、500轮和五seed预算，D与S的内部参数跨数据保持不变。"
+    },
+    {
+      "paragraph": 74,
+      "before": "每次参数更新后固定模型参数、关闭随机正则化，提取表示并聚类。主结果取各随机种子训练过程中的最高ARI，其定义如下。",
+      "after": "每次参数更新后固定模型参数、关闭随机正则化，提取表示并聚类。对于神经网络，主评价取各随机种子在500轮内相对于参考区域标注取得的最高ARI，再对种子汇总，定义如下。下文结果中的ARI均遵循此评价规则；MNMST和经典聚类采用最终拟合结果。"
+    },
+    {
+      "paragraph": 76,
+      "before": "单张切片或单个数据集报告五个种子的峰值均值及样本标准差。DLPFC先计算各切片的五seed平均峰值，再汇总12个切片均值的中位数、算术均值及切片间样本标准差。经典聚类使用单次拟合指标，并按相同数据层级汇总。",
+      "after": "单张切片或单个数据集报告五个种子的所选ARI均值及样本标准差。DLPFC先计算各切片的五seed均值，再汇总12张切片的中位数、算术均值及切片间样本标准差。MNMST和经典聚类的最终拟合指标按相同数据层级汇总。"
+    },
+    {
+      "paragraph": 77,
+      "before": "参考区域用于聚类数设定、ARI计算，以及开发阶段的配置选择和峰值选轮；训练目标为表达与空间结构重建。主结果因此采用标签辅助的峰值评价，各模型保留逐轮记录和峰值预测，固定终点结果见补充材料。ESGR的选路一致性以预先决定是否对应五seed平均峰值ARI较高的D/S路径判定。外部主比较对三个组织学标注数据集等权平均，脑图谱参考数据单列，并报告四数据集的附加汇总。",
+      "after": "参考区域用于聚类数设定、ARI计算，以及开发阶段的配置选择和训练轮次选择；训练目标为表达与空间结构重建。因此，主结果采用参考标签辅助的选轮评价，各模型保留逐轮记录和所选检查点的预测，固定终点结果见补充材料。ESGR的选路一致性以训练前决定是否对应五seed平均ARI较高的D/S路径判定。外部主比较对三个组织学标注数据集等权平均，脑图谱参考数据单列，并报告四数据集的附加汇总。"
+    },
+    {
+      "paragraph": 87,
+      "before": "表1 统一KNN8空间图条件下的核心数据ARI比较。DLPFC为12张切片各自五seed平均峰值ARI的中位数±切片间样本标准差；其余数据为五seed均值±样本标准差。",
+      "after": "表1 统一KNN8空间图条件下的核心数据ARI比较。DLPFC为12张切片各自五seed平均ARI的中位数±切片间样本标准差；其余数据为五seed均值±样本标准差。指标选取规则见“实验设计与性能评价”。"
+    },
+    {
+      "paragraph": 88,
+      "before": "神经网络按已记录的主评价峰值汇总，MNMST与经典方法使用最终拟合结果。SpaGCN采用DEC输出，MNMST采用亲和矩阵上的Leiden，其余深度方法主表使用K-means。RNA后缀表示限定输入的适配版本，MNMST采用官方无图像方案。† HBC采用组合约束S配置，SiDMGF使用相应配对训练设置；其他比较方法未进行相同规模的优化搜索。DLPFC采用供体共享传播参数；固定内部参数的ESGR外部验证见表4。",
+      "after": "神经网络按主评价规则汇总，MNMST与经典方法使用最终拟合结果。SpaGCN采用DEC输出，MNMST采用亲和矩阵上的Leiden，其余深度方法主表使用K-means。RNA后缀表示限定输入的适配版本，MNMST采用官方无图像方案。† HBC采用SpaSRD-S，SiDMGF使用相应配对训练设置；其他比较方法未进行相同规模的优化搜索。DLPFC采用供体共享传播参数；固定内部参数的ESGR外部验证见表4。"
+    },
+    {
+      "paragraph": 100,
+      "before": "表2 HBC表示架构与图重建输入的消融。各项为五seed均值±样本标准差，指标取各seed峰值ARI对应的检查点。全部采用局部表达解码、KNN8和500轮；组合约束包含差异幅度惩罚与选择性一致性。非分离架构无差异通道，只能施加一致性约束。",
+      "after": "表2 HBC表示架构与图重建输入的消融。各项为五seed均值±样本标准差，检查点按“实验设计与性能评价”的规则选取，边界F1在同一检查点计算。全部采用局部表达解码、KNN8和500轮；组合约束包含差异幅度惩罚与选择性一致性。非分离架构无差异通道，只能施加一致性约束。"
+    },
+    {
+      "paragraph": 106,
+      "before": "表3 HBC共同表示图重建配置的约束消融。指标均取各seed峰值ARI对应的检查点，报告五seed均值±样本标准差。域内混杂率越低表示同一参考区域内部的预测分裂越少；其余指标越高越好。",
+      "after": "表3 HBC共同表示图重建配置的约束消融。检查点选取及汇总方式同表2。域内混杂率越低表示同一参考区域内部的预测分裂越少；其余指标越高越好。"
+    },
+    {
+      "paragraph": 135,
+      "before": "ESGR matched the better five-seed mean peak ARI path on four new datasets; it matched fixed diffusion on three histology-annotated datasets and gained on a separate atlas-reference brain dataset.",
+      "after": "After freezing the routing rule, ESGR selected the path with higher mean ARI on four new datasets, matching fixed diffusion on three histology-annotated datasets and improving on it in an atlas-reference brain dataset."
+    },
+    {
+      "paragraph": 208,
+      "before": "A，参考分区。B，各方法固定seed 0的保存预测，颜色按参考区域匹配。C，各方法重复实验ARI分布；DLPFC为12切片的五seed均值，其余为五seed结果。各方法的评价与聚类口径同表1。 SpaSRD-S使用组合约束配置，图中ARI为0.7071，五seed平均为0.7105±0.0201。 组织学图像仅作为可视化底图。",
+      "after": "A，参考分区。B，各方法固定seed 0的保存预测，颜色按参考区域匹配。C，各方法重复实验ARI分布；DLPFC为12切片的五seed均值，其余为五seed结果。各方法的评价与聚类口径同表1。SpaSRD-S的图中ARI为0.7071，五seed平均为0.7105±0.0201。组织学图像仅作为可视化底图。"
+    },
+    {
+      "paragraph": 39,
+      "before": "ESGR依据43个开发对象的D/S峰值ARI收益确定，并于2026年11月9日冻结。四个新验证样本的路径选择由表达和坐标计算，并在模型训练前记录；其区域标签用于后续性能评价。规则开发、训练前决定及外部验证的记录见补充方法S7。",
+      "after": "ESGR依据43个开发对象的D/SARI收益确定，并于2026年11月9日冻结。四个新验证样本的路径选择由表达和坐标计算，并在模型训练前记录；其区域标签用于后续性能评价。规则开发、训练前决定及外部验证的记录见补充方法S7。"
+    },
+    {
+      "paragraph": 91,
+      "before": "供体内共享配置下，DLPFC的12切片平均峰值ARI中位数为0.6283，切片间标准差为0.0660，算术均值为0.5936。表1中各比较方法的汇总中位数为0.3285—0.5559，说明该配置在本研究统一协议下取得最高的总体分区一致性。逐切片结果与配对结构参照见表S1；完整重复分布和代表切片的空间分区见图2—3。",
+      "after": "供体内共享配置下，DLPFC的12切片平均ARI中位数为0.6283，切片间标准差为0.0660，算术均值为0.5936。表1中各比较方法的汇总中位数为0.3285—0.5559，说明该配置在本研究统一协议下取得最高的总体分区一致性。逐切片结果与配对结构参照见表S1；完整重复分布和代表切片的空间分区见图2—3。"
+    },
+    {
+      "paragraph": 95,
+      "before": "STARmap与osmFISH采用相同的KNN8空间图协议和共享传播配置，SpaSRD-D的平均峰值ARI分别为0.6498±0.0244和0.6992±0.0149，均为表1本研究统一协议比较中的最高值。不同方法在两类成像数据上的相对表现并不一致，说明测量基因面板、采样密度和区域结构仍会影响表示方法的适配性。多方法空间分区、潜在表示及重复实验分布见图5—6。",
+      "after": "STARmap与osmFISH采用相同的KNN8空间图协议和共享传播配置，SpaSRD-D的平均ARI分别为0.6498±0.0244和0.6992±0.0149，均为表1本研究统一协议比较中的最高值。不同方法在两类成像数据上的相对表现并不一致，说明测量基因面板、采样密度和区域结构仍会影响表示方法的适配性。多方法空间分区、潜在表示及重复实验分布见图5—6。"
+    },
+    {
+      "paragraph": 98,
+      "before": "六组配对结构消融检验了表示分离与图重建输入的作用（表2，图8A—B）。在最终融合表示重建图、未加入两项正则的条件下，分离架构的平均峰值ARI为0.7163±0.0059，非分离ACM式结构为0.6936±0.0156。共同—差异分离及其门控、投影结构因此在相同重建入口下改善了区域一致性。",
+      "after": "六组配对结构消融检验了表示分离与图重建输入的作用（表2，图8A—B）。在最终融合表示重建图、未加入两项正则的条件下，分离架构的平均ARI为0.7163±0.0059，非分离ACM式结构为0.6936±0.0156。共同—差异分离及其门控、投影结构因此在相同重建入口下改善了区域一致性。"
+    },
+    {
+      "paragraph": 108,
+      "before": "仅加入差异幅度惩罚或选择性一致性时，平均峰值ARI分别为0.7036和0.7006；两者组合达到0.7105，高于基础配置的0.6959，并在五个seed中的四个取得提升。组合约束使域内混杂率从0.1155降至0.0942，边界F1从0.4271提高至0.4373。",
+      "after": "仅加入差异幅度惩罚或选择性一致性时，平均ARI分别为0.7036和0.7006；两者组合达到0.7105，高于基础配置的0.6959，并在五个seed中的四个取得提升。组合约束使域内混杂率从0.1155降至0.0942，边界F1从0.4271提高至0.4373。"
+    },
+    {
+      "paragraph": 115,
+      "before": "ESGR联合表达响应与采样几何，在开发集合中建立统计特征与路径收益的对应关系。43个开发对象中，41个对象的路径决定与D/S收益方向一致；按14组等权汇总，所选路径的平均峰值ARI为0.5090，固定D和固定S分别为0.4975和0.4661。开发集合包含全部用于规则修订的对象，独立验证在规则冻结后进行。",
+      "after": "ESGR联合表达响应与采样几何，在开发集合中建立统计特征与路径收益的对应关系。43个开发对象中，41个对象的路径决定与D/S收益方向一致；按14组等权汇总，所选路径的平均ARI为0.5090，固定D和固定S分别为0.4975和0.4661。开发集合包含全部用于规则修订的对象，独立验证在规则冻结后进行。"
+    },
+    {
+      "paragraph": 116,
+      "before": "四个新外部对象共完成60次运行。ESGR在训练前为结肠、小肠和左心室确定D路径，为成年小鼠脑02A确定S路径；四次决定均对应各数据集五seed平均峰值ARI较高的路径（表4，图9）。",
+      "after": "四个新外部对象共完成60次运行。ESGR在训练前为结肠、小肠和左心室确定D路径，为成年小鼠脑02A确定S路径；四次决定均对应各数据集五seed平均ARI较高的路径（表4，图9）。"
+    },
+    {
+      "paragraph": 118,
+      "before": "表4 冻结ESGR在四个新外部数据集上的路径选择与峰值ARI。D和S使用跨数据固定参数；各数值为五seed均值±样本标准差。",
+      "after": "表4 冻结ESGR在四个新外部数据集上的路径选择与ARI。D和S使用跨数据固定参数；各数值为五seed均值±样本标准差。"
+    },
+    {
+      "paragraph": 121,
+      "before": "三个组织学数据集上，ESGR的平均峰值ARI为0.3956，与固定D一致，固定S为0.3678。脑图谱参考样本02A上，S和D分别为0.6092和0.5872；ESGR识别出与前三类组织不同的路径收益方向。四数据集等权汇总时，ESGR为0.4490，固定D和固定S分别为0.4435和0.4282。",
+      "after": "三个组织学数据集上，ESGR的平均ARI为0.3956，与固定D一致，固定S为0.3678。脑图谱参考样本02A上，S和D分别为0.6092和0.5872；ESGR识别出与前三类组织不同的路径收益方向。四数据集等权汇总时，ESGR为0.4490，固定D和固定S分别为0.4435和0.4282。"
+    },
+    {
+      "paragraph": 128,
+      "before": "冻结验证在四个新对象上复现了D/S平均峰值收益方向：三个组织学样本保留固定D的表现，脑图谱样本由S获得增益。当前外部覆盖仍有限，后续应在保持规则冻结的条件下，扩展采样几何与表达分布，并结合不同判别区域检验跨组织适用性。传播参数的供体共享分析与固定内部参数的选路验证，共同构成从模型配置到样本适配的两层证据。",
+      "after": "冻结验证在四个新对象上复现了D/S平均ARI收益方向：三个组织学样本保留固定D的表现，脑图谱样本由S获得增益。当前外部覆盖仍有限，后续应在保持规则冻结的条件下，扩展采样几何与表达分布，并结合不同判别区域检验跨组织适用性。传播参数的供体共享分析与固定内部参数的选路验证，共同构成从模型配置到样本适配的两层证据。"
+    },
+    {
+      "paragraph": 180,
+      "before": "箱线表示中位数、四分位区间及1.5倍四分位距内的须，散点展示全部观测。DLPFC每点为一张切片的五seed平均峰值ARI，共12点；其余数据每方法五个seed。SiDMGF为保留通路图及融合结构的完整模型。",
+      "after": "箱线表示中位数、四分位区间及1.5倍四分位距内的须，散点展示全部观测。DLPFC每点为一张切片的五seed平均ARI，共12点；其余数据每方法五个seed。SiDMGF为保留通路图及融合结构的完整模型。"
+    },
+    {
+      "paragraph": 247,
+      "before": "A—B，六组架构及约束配置的峰值ARI、对应检查点边界F1。C，共同表示图重建配置下四组正则消融的域内混杂率。点及误差线为五seed均值和样本标准差，指标与表2—3一致。",
+      "after": "A—B，六组架构及约束配置的ARI、对应检查点边界F1。C，共同表示图重建配置下四组正则消融的域内混杂率。点及误差线为五seed均值和样本标准差，指标与表2—3一致。"
+    },
+    {
+      "paragraph": 250,
+      "before": "A，固定D、固定S和ESGR所选路径的五seed平均峰值ARI。B，S相对于D的平均收益及训练前决定。结肠、小肠和左心室为组织学标注主验证集，带星号的脑图谱对象单列分析。",
+      "after": "A，固定D、固定S和ESGR所选路径的五seed平均ARI。B，S相对于D的平均收益及训练前决定。结肠、小肠和左心室为组织学标注主验证集，带星号的脑图谱对象单列分析。"
+    }
+  ],
+  "duplicate_paragraph_removed": 24,
+  "preserved": "All media and non-document XML parts byte-identical; equations, references and table numbers unchanged.",
+  "terminology": {
+    "SpaSRD-D": "可控扩散路径",
+    "SpaSRD-S": "表示分离路径",
+    "ESGR": "表达—空间引导选路",
+    "ARI": "按方法部分定义的评价规则汇总"
+  }
+}

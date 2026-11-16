@@ -1,0 +1,17 @@
+{
+  "action": "loaded_existing_weight",
+  "device": "cuda",
+  "epoch": 500,
+  "checkpoint": "final",
+  "metrics": {
+    "ARI": 0.6376070060077879,
+    "NMI": 0.6650314160402696
+  },
+  "comparison_with_archived_final": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_final_ARI": 0.6376070060077879
+  },
+  "weight": "weights/HBC/human_breast_cancer/refined/seed_0.pt",
+  "weight_sha256": "7d30d3a9d9b8fff6146e6590fea487de8725f24802a5afabb66f6d11573d69b6"
+}

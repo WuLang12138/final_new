@@ -1,0 +1,14 @@
+{
+  "peak": 0.5640996087278529,
+  "final": 0.384997741928689,
+  "peak_epoch": 25,
+  "final_epoch": 500,
+  "origin": "copied_historical_result",
+  "peak_selection": "maximum ARI over epochs, reference-label-assisted; not a held-out test",
+  "source_directory": "results_propagation/spasrd_br8100_k4_alpha_20261017_v1/runs/151676_SpaSRD_seed3_da51c1c53b",
+  "files": {
+    "history.csv": "f7588e2003d19374c9fd257f8dd1cc3d772d34c616eb6009bb99383a227313f5",
+    "peak.npz": "cfb6e563b8c21ace2b7072fd695bb79231449f52b8ec3d6b5fe57df279a4b10c",
+    "final.npz": "533b2f7b80bd2a56f4b2176966e09c2029e1ae9a1a74b6e57b8dc36fd0dd461c"
+  }
+}

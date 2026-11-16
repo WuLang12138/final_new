@@ -1,0 +1,11 @@
+{
+  "predictions_verified": 1125,
+  "external_methods": 12,
+  "current_png_figures": 26,
+  "cache_reuse_verified": true,
+  "old_images_migrated_and_originals_removed": 67,
+  "training_executed": false,
+  "qa": "26-panel contact-sheet inspection; framework and distribution full-size review",
+  "hbc_main": "combined/common graph, mean peak ARI 0.710499",
+  "word_modified": false
+}

@@ -1,0 +1,3 @@
+profile,seed,arm,endpoint,epoch,ARI,NMI,source,sha256
+refined,0,control,best,349,0.6982309440774325,0.6818470059954167,results/hbc_combined/refined/control/seed_0/best.npz,68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9
+refined,0,combined,best,320,0.7070862177624297,0.692765862130648,results/hbc_combined/refined/combined/seed_0/best.npz,628eb689be619a07f34b0178dfe555524d9768d45e86047c166d223421ca45c7

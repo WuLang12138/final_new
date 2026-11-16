@@ -1,0 +1,17 @@
+[
+  {
+    "local": "results\\figures\\source_data\\hbc_structure.csv",
+    "original": "analysis\\manuscript_structure_20261106\\table2_structure.csv",
+    "sha256": "0da53f417f4491b67dd9d94f840d46be7493e4aa67bea4ac72e48a0c003a3968"
+  },
+  {
+    "local": "results\\figures\\source_data\\hbc_regularization.csv",
+    "original": "analysis\\manuscript_structure_20261106\\table3_regularization.csv",
+    "sha256": "8238bc75a7368818dd93a9392c280682fe0513c6491ef2785b532a126dbbda1b"
+  },
+  {
+    "local": "results\\figures\\source_data\\v5_validation.csv",
+    "original": "sidmgf_paper_support\\experiments\\route_rationale_validation\\results_external_v5_newdata\\paired_rule_validation.csv",
+    "sha256": "f127a5f417782e96f70727207f7492d483c284349747d0f88f24b94e0894c716"
+  }
+]

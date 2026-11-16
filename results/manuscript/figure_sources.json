@@ -1,0 +1,112 @@
+[
+  {
+    "figure": "图1 SpaSRD模型框架",
+    "path": "results\\figures\\publication\\SpaSRD_framework_preview.png",
+    "sha256": "d38eec61f1c2f228b1eb515c22bc8879d24d46358de99b4168aee8069b3e2924"
+  },
+  {
+    "figure": "图2 各方法在四类核心数据上的ARI分布",
+    "path": "results\\figures\\publication\\Fig2a_distributions.png",
+    "sha256": "ae74017426b22155449345b2e0d5d07043c7be112cd8e2574a5e848597c3e36e"
+  },
+  {
+    "figure": "图2续 各方法ARI分布的小提琴展示",
+    "path": "results\\figures\\publication\\Fig2b_violins.png",
+    "sha256": "36f9604492db7813fb1e505fae7cc3705c230515f38701142db1b0541ae457f2"
+  },
+  {
+    "figure": "图3 DLPFC代表切片151507多方法空间域恢复",
+    "path": "results\\figures\\publication\\151507_all_methods_spatial.png",
+    "sha256": "4b24807457246d819cc7efc665c9592f228ae315be395157f51affb053b86972"
+  },
+  {
+    "figure": "图3续 DLPFC代表切片151507各方法潜在表示 第1组",
+    "path": "results\\figures\\publication\\151507_all_methods_umap_1.png",
+    "sha256": "9e677178e6f57083c4a3356e1c06bec16310366e4c55830149283a43b67f5a99"
+  },
+  {
+    "figure": "图3续 DLPFC代表切片151507各方法潜在表示 第2组",
+    "path": "results\\figures\\publication\\151507_all_methods_umap_2.png",
+    "sha256": "1639f81e229c74bca9e613b6889e5376e6b7aaa87750203d87c306b812cb82b6"
+  },
+  {
+    "figure": "图3续 DLPFC代表切片151507各方法潜在表示 第3组",
+    "path": "results\\figures\\publication\\151507_all_methods_umap_3.png",
+    "sha256": "e90834af78ab36e1bdf65aa79916028d6fd3fbc822113e816d198c244d61bf45"
+  },
+  {
+    "figure": "图4 HBC多方法空间域恢复",
+    "path": "results\\figures\\publication\\human_breast_cancer_all_methods_spatial.png",
+    "sha256": "fd910eaebaa815e337b1ed32794212fd8e5daca033d00cc111a0cb58cca8ad8f"
+  },
+  {
+    "figure": "图4续 HBC各方法潜在表示 第1组",
+    "path": "results\\figures\\publication\\human_breast_cancer_all_methods_umap_1.png",
+    "sha256": "22f81e30632bce22c07214c87d7e5b94a905e700c3a8108ecc50ff22a0d7a54a"
+  },
+  {
+    "figure": "图4续 HBC各方法潜在表示 第2组",
+    "path": "results\\figures\\publication\\human_breast_cancer_all_methods_umap_2.png",
+    "sha256": "da83d9acef42bb55b78a82fb4f392e6bf27ef5d173d8b23373239c9dd6f62120"
+  },
+  {
+    "figure": "图4续 HBC各方法潜在表示 第3组",
+    "path": "results\\figures\\publication\\human_breast_cancer_all_methods_umap_3.png",
+    "sha256": "9e1315c463951e4da0563297a0dfb49c5bf92fbb9106feb5899463a2cf0a6c48"
+  },
+  {
+    "figure": "图5 STARmap多方法空间域恢复",
+    "path": "results\\figures\\publication\\starmap_all_methods_spatial.png",
+    "sha256": "1bb7b42e2a3603d13f9b94de3da2702e927d063ede7a0a259ef5966ee2d9ac25"
+  },
+  {
+    "figure": "图5续 STARmap各方法潜在表示 第1组",
+    "path": "results\\figures\\publication\\starmap_all_methods_umap_1.png",
+    "sha256": "20b97d1a72091fbd57f808018168bf0f9dbb4e94dac869da5e91f025f6a91453"
+  },
+  {
+    "figure": "图5续 STARmap各方法潜在表示 第2组",
+    "path": "results\\figures\\publication\\starmap_all_methods_umap_2.png",
+    "sha256": "433741b2d1a8714ba37b563319100759a0a74d8924e6c4e4ac94def806255532"
+  },
+  {
+    "figure": "图5续 STARmap各方法潜在表示 第3组",
+    "path": "results\\figures\\publication\\starmap_all_methods_umap_3.png",
+    "sha256": "9964e338998dfe8298474829d254c415657fdc4ade5ece4f1a680af984498d78"
+  },
+  {
+    "figure": "图6 osmFISH多方法空间域恢复",
+    "path": "results\\figures\\publication\\osmfish_all_methods_spatial.png",
+    "sha256": "2c8b6c933e31a205972357e05b40ebb5f4b3204a9823bb348062e654c8e145ef"
+  },
+  {
+    "figure": "图6续 osmFISH各方法潜在表示 第1组",
+    "path": "results\\figures\\publication\\osmfish_all_methods_umap_1.png",
+    "sha256": "b9e29420bbd7dac4fd0b06b3ed340b2fd4058ad08cedce13f92710bddbcecd00"
+  },
+  {
+    "figure": "图6续 osmFISH各方法潜在表示 第2组",
+    "path": "results\\figures\\publication\\osmfish_all_methods_umap_2.png",
+    "sha256": "b069f98026bd45e9e223420c41f9b3d3e3c535cebcf6c1d608ca33b6e4c6716d"
+  },
+  {
+    "figure": "图6续 osmFISH各方法潜在表示 第3组",
+    "path": "results\\figures\\publication\\osmfish_all_methods_umap_3.png",
+    "sha256": "289ded11ab05ff5f0f0cba660a6dd5524df9d0307c07ff2b37f3b5738f03bc0c"
+  },
+  {
+    "figure": "图7 供体结构与传播权重",
+    "path": "results\\figures\\publication\\Fig6_mechanism.png",
+    "sha256": "c8d0b7c57b3a4fb51caac8d14438e3a5454a21aae79b80f74b6ea94651f520bb"
+  },
+  {
+    "figure": "图8 HBC表示分离与组合约束的作用",
+    "path": "results\\figures\\publication\\Fig7_HBC_ablation.png",
+    "sha256": "4cf647fadfddefa3cb8be2f7612e808df0700fe43eaaae806ef62b324fdefae3"
+  },
+  {
+    "figure": "图9 冻结V5的外部选路验证",
+    "path": "results\\figures\\publication\\Fig8_V5_validation.png",
+    "sha256": "9a2ff6f246684875305f6b3a284649a4147b1c66efb731e49099c14789175963"
+  }
+]

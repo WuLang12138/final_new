@@ -1,0 +1,11 @@
+profile,seed,arm,endpoint,epoch,ARI,NMI,source,sha256
+refined,0,control,best,349,0.6982309440774325,0.6818470059954167,results/hbc_combined/refined/control/seed_0/best.npz,68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9
+refined,0,combined,best,320,0.7070862177624297,0.692765862130648,results/hbc_combined/refined/combined/seed_0/best.npz,628eb689be619a07f34b0178dfe555524d9768d45e86047c166d223421ca45c7
+refined,1,control,best,196,0.6864053167330815,0.6787498101822691,results/hbc_combined/refined/control/seed_1/best.npz,896a2180a7934bcefa075a584e1646dd3529b2d8dda3149654fb47dc7e17a5f5
+refined,1,combined,best,439,0.7055524547742346,0.7007147360598912,results/hbc_combined/refined/combined/seed_1/best.npz,974615e68b4a856d1b4d03254aabe1578b062cb9f59c74f4ee4525a810f8ba93
+refined,2,control,best,188,0.6957026079899449,0.6923594665629009,results/hbc_combined/refined/control/seed_2/best.npz,d5d7fdac8be04f1b484e476ec4b07d20149595615f63c7f0f56b6f9e1a75c02e
+refined,2,combined,best,354,0.6812971173090693,0.6887605881054951,results/hbc_combined/refined/combined/seed_2/best.npz,8fbf1edc9d974bb4e4619e3374fb9a15aa18802f42a96b37fecf17ea43a8e2af
+refined,3,control,best,187,0.6851232710858774,0.6846647903750136,results/hbc_combined/refined/control/seed_3/best.npz,aec857f43451210918e485fa71b591e7663be0a00ab59193f77a95a06ef76ea5
+refined,3,combined,best,435,0.7319554054466538,0.7159346134141995,results/hbc_combined/refined/combined/seed_3/best.npz,eb30401133d4438c23f814cd3374b55d94ea72539881c919f6a3dc1d74e13323
+refined,42,control,best,350,0.713797345345791,0.7091358485820616,results/hbc_combined/refined/control/seed_42/best.npz,c15933249bba0ce61b0dc4c1a4002e514b252b05a2a481db1192f9c3539b309f
+refined,42,combined,best,300,0.7266044882462185,0.7050441350488997,results/hbc_combined/refined/combined/seed_42/best.npz,7f4f3b6664da9be93949a07407943e5ab1ac548e38710b9dfaeadf653f62ffec

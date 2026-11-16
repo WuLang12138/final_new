@@ -1,0 +1,410 @@
+[
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig1_original.png",
+    "target": "results/figures/historical_manuscript/main/Fig1_original.png",
+    "sha256": "d8bb824fa92a14a9e9f9cef69d044e549098ccd5ce6b1b1b40467fd80b32b49e",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig2a_distributions.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig2a_distributions.pdf",
+    "sha256": "13b5c61dba1d5ea4a56167fd63c941a059f09d602ad7b28bd83be26176190165",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig2a_distributions.png",
+    "target": "results/figures/historical_manuscript/main/Fig2a_distributions.png",
+    "sha256": "77965cdbe39706e83ce38efcb4d9c3f5e76084075aae62d34327204acb060d84",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig2a_distributions.svg",
+    "target": "results/figures/historical_manuscript/main/Fig2a_distributions.svg",
+    "sha256": "378d4aa05fd6454819be7dab7127592247e411dab2fe0af23cce400e4cd298ad",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig2b_violins.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig2b_violins.pdf",
+    "sha256": "0d02b228002b9fcff572e3670a7618b0e35d6fb73409bc71109b7dd1caeba81a",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig2b_violins.png",
+    "target": "results/figures/historical_manuscript/main/Fig2b_violins.png",
+    "sha256": "fe933842d163b8e2000fb8e95cdc540e4fe5185967587c7764280d6e7dc0cec9",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig2b_violins.svg",
+    "target": "results/figures/historical_manuscript/main/Fig2b_violins.svg",
+    "sha256": "dd5b6fc0563c9efabd02d52ceca16ae57b1936ea4f3668ea624ade5254804b5e",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig3a_cortex_spatial.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig3a_cortex_spatial.pdf",
+    "sha256": "dbc03ea498029457ec387a2c83098b90602c4a83b060a4fde2011acaf54667be",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig3a_cortex_spatial.png",
+    "target": "results/figures/historical_manuscript/main/Fig3a_cortex_spatial.png",
+    "sha256": "0a1dc4c51a96e0e01c95f8a27cedb4ad9939c3d8c9bf6924cfde9b1da582c6b1",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig3a_cortex_spatial.svg",
+    "target": "results/figures/historical_manuscript/main/Fig3a_cortex_spatial.svg",
+    "sha256": "554628229f581fe00fe1a4d2feef0ff2b5af78cbf16ae76c92befb4ea790075b",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig3b_cortex_embedding.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig3b_cortex_embedding.pdf",
+    "sha256": "aecef8aa7b8f35a85d7313e2137ceea7235103c547f6cee9e7536d01dac3c6bc",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig3b_cortex_embedding.png",
+    "target": "results/figures/historical_manuscript/main/Fig3b_cortex_embedding.png",
+    "sha256": "a6b0a2d55fe6a5afea994a5d89dab8a812abf13a0085607a0cea23b2679ab61c",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig3b_cortex_embedding.svg",
+    "target": "results/figures/historical_manuscript/main/Fig3b_cortex_embedding.svg",
+    "sha256": "a928e096ec99b76407c2ea940c751bf4aaeb7d377dc6ce31a894b9837a8476d5",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4a_HBC_common.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig4a_HBC_common.pdf",
+    "sha256": "dde7910673ac04cc9145ecddf777295e70947de0f6e1aecc4d1e7a9eb825e63f",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4a_HBC_common.png",
+    "target": "results/figures/historical_manuscript/main/Fig4a_HBC_common.png",
+    "sha256": "cffae9bcdd8398a90459e7149abc636aa9c10f774c1519b19aa680b23386870b",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4a_HBC_common.svg",
+    "target": "results/figures/historical_manuscript/main/Fig4a_HBC_common.svg",
+    "sha256": "99c8f5077ece8a55f2c91f0923810ecb2b438dcf78039e277fd70e36bdb33cf5",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4b_HBC_common_embedding.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig4b_HBC_common_embedding.pdf",
+    "sha256": "0e76c3958955b3604d34195ed48eb6e271ea2b38586231d1aafe10d1a880086f",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4b_HBC_common_embedding.png",
+    "target": "results/figures/historical_manuscript/main/Fig4b_HBC_common_embedding.png",
+    "sha256": "6e82d645f938f6cbf31269ff0bad435cd39ba85a92cdd179bb71d05f4dad6f15",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4b_HBC_common_embedding.svg",
+    "target": "results/figures/historical_manuscript/main/Fig4b_HBC_common_embedding.svg",
+    "sha256": "017f930856e957eea7a9db79217864f181d51aacc9d2f6f60d6b23b545cf6596",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4c_HBC_refined.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig4c_HBC_refined.pdf",
+    "sha256": "88ede29191cc59f21e890dc4b81d968505ce35900b6111d9a573309deea4e80d",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4c_HBC_refined.png",
+    "target": "results/figures/historical_manuscript/main/Fig4c_HBC_refined.png",
+    "sha256": "4b3ec8cc02843940c0df2651abc96e16754d38f9d8a74c17dd37df6250dccad8",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig4c_HBC_refined.svg",
+    "target": "results/figures/historical_manuscript/main/Fig4c_HBC_refined.svg",
+    "sha256": "3181aada88a2d4b949a8d48bb3b5851741335e349a631d6fc0f660a9cb51a3db",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig5a_mouse_spatial.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig5a_mouse_spatial.pdf",
+    "sha256": "89af258190add141bb553adeff98c82b2bdb219ce760293f74c2737febef5424",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig5a_mouse_spatial.png",
+    "target": "results/figures/historical_manuscript/main/Fig5a_mouse_spatial.png",
+    "sha256": "a7d5554aaf0b18249aaae7e81417ba88eb9b12a05937c70252478e31cd65a522",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig5a_mouse_spatial.svg",
+    "target": "results/figures/historical_manuscript/main/Fig5a_mouse_spatial.svg",
+    "sha256": "8806bdc5d4ee61a74a26e7af78c10e761bb95da4c913aa163c09d167e4a2d614",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig5b_mouse_embedding.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig5b_mouse_embedding.pdf",
+    "sha256": "9a034fbf2dcb658e638bfbfd3e0bac84c1294d948849469a26e882a270ec91a0",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig5b_mouse_embedding.png",
+    "target": "results/figures/historical_manuscript/main/Fig5b_mouse_embedding.png",
+    "sha256": "9ae32bae070d208357bb67c24b6dc7cb9602dcb6bd2b32213e86b79f384892ac",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig5b_mouse_embedding.svg",
+    "target": "results/figures/historical_manuscript/main/Fig5b_mouse_embedding.svg",
+    "sha256": "1a36d4556b9714cc6449ec91b4c33c9ccfcb9e935a9d31ef4d2c1eb72f44d8ac",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig6_mechanism.pdf",
+    "target": "results/figures/historical_manuscript/main/Fig6_mechanism.pdf",
+    "sha256": "a0375a424b2898462eb15b5f9872a1211f84de356a21a1d649e14f64dc608b37",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig6_mechanism.png",
+    "target": "results/figures/historical_manuscript/main/Fig6_mechanism.png",
+    "sha256": "189465ed202c40a6fb7f136b1df73a31a973771f75f950560e8afaca37d60e58",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/Fig6_mechanism.svg",
+    "target": "results/figures/historical_manuscript/main/Fig6_mechanism.svg",
+    "sha256": "9cc507c0fa8f354792faece33e801877c530a7a59d2159761af7d82d9ea4e16d",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_illustrated_20261026/figures/projection_human_breast_cancer_SpaSRD_common.npz",
+    "target": "results/figures/historical_manuscript/main/projection_human_breast_cancer_SpaSRD_common.npz",
+    "sha256": "2dab21b10a4d5c5007b0e85419ca5bf5e26662e69e153d7fd1faff870e42afbd",
+    "image": false
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_spatial.pdf",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_spatial.pdf",
+    "sha256": "b9340c2ab8ba47a44b066d5d4df8d4b813078f436f5eb1177f370ec8251564ba",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_spatial.png",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_spatial.png",
+    "sha256": "3ec0fe507bb25664c268722e93fe88e433dab3d0231f20743f0a9e30569bf142",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_spatial.svg",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_spatial.svg",
+    "sha256": "9ea303a83fe013d9154d5a6f87dd49cb106d926f12cabb36ee1c7a93a76f29eb",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_umap_1.pdf",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_umap_1.pdf",
+    "sha256": "dd9c2fa0efd46dd07e49048e7acd0d14e3c90cf849fa83a591714a8f1bec8745",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_umap_1.png",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_umap_1.png",
+    "sha256": "97a2c9c086e883e01c21cd87b5f208c7b3748b54e199976dd5c1d8722f613cdc",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_umap_1.svg",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_umap_1.svg",
+    "sha256": "154e1f9d10e3dccc1ec4259ab1c5e722cb138a9c713e9f26849ead1271f1c1e9",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_umap_2.pdf",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_umap_2.pdf",
+    "sha256": "71cf07ea5ca06f8961547e777c0c69ba79ce7c2bfb06f765fed57973aaa8c596",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_umap_2.png",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_umap_2.png",
+    "sha256": "b23a32d57fa89ab0aedaf815572732708f4fcdce08a91ada69017de510ed36a4",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/151507_all_methods_umap_2.svg",
+    "target": "results/figures/historical_manuscript/external/151507_all_methods_umap_2.svg",
+    "sha256": "c48be791490505948338dcea4b49865ffc77f7e43aa95ea19f1e6fd08581f66c",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_spatial.pdf",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_spatial.pdf",
+    "sha256": "1af106095b36c89ebee688e1813177df6f3f3dd1aa033a74caf48a6561e6614e",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_spatial.png",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_spatial.png",
+    "sha256": "f9c3f0510ebece8e37ad0b9bfcda690996b1f3256549286634f7708f7494f785",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_spatial.svg",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_spatial.svg",
+    "sha256": "f886764e453f6e671bd1cdf2a284cedc5f6843339db8f66b509a8b7937dc02be",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_umap_1.pdf",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_umap_1.pdf",
+    "sha256": "78e843641b4f0a86b0500788a2e36372078b404f486f355aab1855829dda12ce",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_umap_1.png",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_umap_1.png",
+    "sha256": "3bc05da66645f9f43e0aa261a3042aaf0dc09a5994eefeb983caef75bb24b29e",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_umap_1.svg",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_umap_1.svg",
+    "sha256": "c10793874fb2b0d2eeda639d722aa7ec35754f5a322977a25abfc482cc756707",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_umap_2.pdf",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_umap_2.pdf",
+    "sha256": "99de3c595b8a1d401c226b93305134a1b576cdc16ff0dd2f3690bf95ef27b5e1",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_umap_2.png",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_umap_2.png",
+    "sha256": "f8640e7137457e052fe0ac9af9ed78804d4ffb0b55315baca99d5c8160c02aaf",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/human_breast_cancer_all_methods_umap_2.svg",
+    "target": "results/figures/historical_manuscript/external/human_breast_cancer_all_methods_umap_2.svg",
+    "sha256": "b0565a1ef1a090d89ef9763c381659c81707ae60df109228be80b7f184fedd5d",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_spatial.pdf",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_spatial.pdf",
+    "sha256": "12854dfe9f1f191e0c36353958166e046af2195fb5f7e3a66c771109ae60f30f",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_spatial.png",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_spatial.png",
+    "sha256": "b9e6b5c6160b9b8ceca99329481449ff6ddc3e357fbcc4ef0fcd75ad64facc8f",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_spatial.svg",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_spatial.svg",
+    "sha256": "a226aa34f1352f436f102ce8764d5aa1451822cc4e7adf5bff108599dfc98213",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_umap_1.pdf",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_umap_1.pdf",
+    "sha256": "b3fbe42a84b12df3105997254f5668ef5bbddca6960d200ad280a1c0347bb6af",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_umap_1.png",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_umap_1.png",
+    "sha256": "84163b5dd1ed7cfac79598011c4ae77b1c815a3fe6b1ec5f423094d4776e4600",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_umap_1.svg",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_umap_1.svg",
+    "sha256": "23a72858e4277923aeb769bf309fa66707b70d830fed97ce34f301ba6fab2682",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_umap_2.pdf",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_umap_2.pdf",
+    "sha256": "d191b8c827c6cbe911c542cd5b5f93ed46185b6bf42afc495db5abf6a61f3bd0",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_umap_2.png",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_umap_2.png",
+    "sha256": "88c0c01af1ef47edc5362446bd075bd57a82f9d5ebb66bbee84ff27dc0a2ce0a",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/osmfish_all_methods_umap_2.svg",
+    "target": "results/figures/historical_manuscript/external/osmfish_all_methods_umap_2.svg",
+    "sha256": "bbb25470f02cb94c0450b56bfead50397aeb6e7a4d0dfe04044f755f11d1c6fb",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_spatial.pdf",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_spatial.pdf",
+    "sha256": "a0e9cfbd08e461eddd381f2e8d2d37160a566acda2ca1c093d4ed4224ebd75cd",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_spatial.png",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_spatial.png",
+    "sha256": "fb7394a2602cf2f37e64f12ca47bbc580b4a147d406084434f0e9687e5a3b018",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_spatial.svg",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_spatial.svg",
+    "sha256": "8c6cc85920ae7c8889d9a6186b2afc55730d7ae71cf233517a7365979df2d99f",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_umap_1.pdf",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_umap_1.pdf",
+    "sha256": "9f68fe28b23d303d4e425789f2b04c8398108761150c68d90bebdb7368556352",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_umap_1.png",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_umap_1.png",
+    "sha256": "c12c0cb0f8e6a1c0c7d7f976d4142c8bf5fe7423aae28434374adef45a18bbe9",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_umap_1.svg",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_umap_1.svg",
+    "sha256": "e7820f03959b95760722ec736dfebc7f76b078f16929cc4743c0db35774d71a2",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_umap_2.pdf",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_umap_2.pdf",
+    "sha256": "83deefd72067a4253358afc2657a8f460923ec2b67457dc1fe06ba60ba9613e3",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_umap_2.png",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_umap_2.png",
+    "sha256": "888593fb36d7fb1ab8c08b2bc1f09b3f3536415679d9a56edbd73ace629bbc37",
+    "image": true
+  },
+  {
+    "source": "../analysis/manuscript_external_comparison_20261027/figures/starmap_all_methods_umap_2.svg",
+    "target": "results/figures/historical_manuscript/external/starmap_all_methods_umap_2.svg",
+    "sha256": "b275bf1daefb29db4380aca27f6df78c61cfe21cc6005b90b665cf4bba739f59",
+    "image": true
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "requested": [
+    "EPCAM",
+    "KRT19",
+    "ERBB2",
+    "ESR1",
+    "COL1A1",
+    "PTPRC"
+  ],
+  "available": [
+    "EPCAM",
+    "ESR1",
+    "COL1A1",
+    "PTPRC"
+  ],
+  "missing": [
+    "KRT19",
+    "ERBB2"
+  ],
+  "seed": 0,
+  "weight": "weights/HBC/human_breast_cancer/refined/seed_0_best.pt",
+  "weight_sha256": "463ef61792b73bc43151bd96b662e6ea6714976d2cfa125bc79171e2764ed1a5",
+  "normalization": "log1p(10000 * value / sum across retained genes per cell), separately for observed and reconstructed",
+  "reconstruction": "ZINB expectation (1-pi)*mean, frozen model in inference mode; not an independent denoising test",
+  "grouping": "Ground Truth region; these are spatial observations, not independent biological replicates",
+  "status": "complete"
+}

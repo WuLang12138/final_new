@@ -1,0 +1,14 @@
+{
+  "peak": 0.6982309440774325,
+  "final": 0.6376070060077879,
+  "peak_epoch": 349,
+  "final_epoch": 500,
+  "origin": "copied_historical_result",
+  "peak_selection": "maximum ARI over epochs, reference-label-assisted; not a held-out test",
+  "source_directory": "results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_acm_split_hbc_transfer_seed0_af668be1a2f1",
+  "files": {
+    "history.csv": "b4bfb2c6fb5d7224705123e35357045437351a8f18d2b0ab2c86193963d737cc",
+    "peak.npz": "68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9",
+    "final.npz": "397530c7fd3ddc2f41c26b6f038fcd3c10caf45832b67226b9a05d807506616f"
+  }
+}

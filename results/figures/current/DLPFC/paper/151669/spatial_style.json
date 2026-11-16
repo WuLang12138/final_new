@@ -1,0 +1,34 @@
+{
+  "background": "registered original H&E low-resolution image",
+  "assets": {
+    "tissue_lowres_image.png": "c24ebd434d7b4f0837a637a943c766f81f0c805b1deb75faf0f1abaacb6267b3",
+    "scalefactors_json.json": "46422f5b8e256c6f532b9e3bd59671a16536bb6e4640f44fbf69fc654b53c5d3",
+    "tissue_positions_list.csv": "00147e492d41a3724c413934ef777c94f72f15636933346783fcd3e7903bddb4"
+  },
+  "scale": 0.045004502,
+  "coordinate_max_abs_delta": 0,
+  "point_count": 3636,
+  "palette": {
+    "Layer3": "#3A923A",
+    "Layer4": "#C03D3E",
+    "Layer5": "#9372B2",
+    "Layer6": "#845B53",
+    "WM": "#C26FA3"
+  },
+  "crop_bounds_fullres": [
+    2940.9927008271497,
+    12167.00729917285,
+    2235.9927008271497,
+    11761.00729917285
+  ],
+  "histology_alpha": 1.0,
+  "display_diameter_fullres": 158.92423352025327,
+  "diameter_to_spacing": 1.16,
+  "note": "Display diameter is not physical capture diameter; no new points, interpolation, smoothing, or label changes.",
+  "profile": "paper",
+  "checkpoint": "current",
+  "epoch": 186,
+  "seed": 0,
+  "source": "results/predictions/DLPFC/151669/paper/seed_0/best/prediction.npz",
+  "source_sha256": "0bbf10f15edcad11abc677755f554f4ffce32e3672370a57fa1d713b343db5c8"
+}

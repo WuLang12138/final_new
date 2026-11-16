@@ -1,0 +1,11 @@
+{
+  "peak_epoch": 74,
+  "peak": {
+    "ARI": 0.6884405531429829,
+    "NMI": 0.7369422533192196
+  },
+  "final_epoch": 500,
+  "final_weight": "weights/STARmap/starmap/paper/seed_1_retrained_final.pt",
+  "best_weight": "weights/STARmap/starmap/paper/seed_1_best.pt",
+  "recover_best": true
+}

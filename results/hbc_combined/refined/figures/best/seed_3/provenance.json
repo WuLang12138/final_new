@@ -1,0 +1,81 @@
+{
+  "profile": "refined",
+  "seed": 3,
+  "endpoint": "best",
+  "style": {
+    "background": "registered original H&E low-resolution image",
+    "assets": {
+      "tissue_lowres_image.png": "e24b3e0c823838cce2deb6933dbd2e0632de86d29b4cd6c4dc22051c71adb816",
+      "scalefactors_json.json": "e0c079e051357928f76f98d8de0c92e6b85e33e6b1c794f13cdee3384494bcff",
+      "tissue_positions_list.csv": "284f439570700a566512e469cddfb1bc59ac135b523a74c806a4fb59d41c2547"
+    },
+    "scale": 0.024752475,
+    "coordinate_max_abs_delta": 0,
+    "point_count": 3798,
+    "palette": {
+      "Healthy_1": "#3274A1",
+      "Healthy_2": "#E1812C",
+      "Tumor_edge_1": "#29966E",
+      "Tumor_edge_2": "#C43C39",
+      "Tumor_edge_3": "#7856A0",
+      "Tumor_edge_4": "#845B53",
+      "Tumor_edge_5": "#C26FA3",
+      "Tumor_edge_6": "#A6AB55",
+      "DCIS/LCIS_1": "#28A7B3",
+      "DCIS/LCIS_2": "#ADC4E2",
+      "DCIS/LCIS_3": "#F1B575",
+      "DCIS/LCIS_4": "#98C97C",
+      "DCIS/LCIS_5": "#E48789",
+      "IDC_1": "#C1AED0",
+      "IDC_2": "#B9958D",
+      "IDC_3": "#E7AACB",
+      "IDC_4": "#D2D38B",
+      "IDC_5": "#97CED3",
+      "IDC_6": "#A1474E",
+      "IDC_7": "#8C713F"
+    },
+    "crop_bounds_fullres": [
+      3630.0,
+      20859.0,
+      3500.0,
+      22663.0
+    ],
+    "histology_alpha": 1.0,
+    "display_diameter_fullres": 316.67999999999995,
+    "diameter_to_spacing": 1.16,
+    "note": "Display diameter is not physical capture diameter; no new points, interpolation, smoothing, or label changes."
+  },
+  "sources": [
+    {
+      "profile": "refined",
+      "seed": 3,
+      "arm": "control",
+      "endpoint": "best",
+      "epoch": 187,
+      "ARI": 0.6851232710858774,
+      "NMI": 0.6846647903750136,
+      "source": "results/hbc_combined/refined/control/seed_3/best.npz",
+      "sha256": "aec857f43451210918e485fa71b591e7663be0a00ab59193f77a95a06ef76ea5"
+    },
+    {
+      "profile": "refined",
+      "seed": 3,
+      "arm": "combined",
+      "endpoint": "best",
+      "epoch": 435,
+      "ARI": 0.7319554054466538,
+      "NMI": 0.7159346134141995,
+      "source": "results/hbc_combined/refined/combined/seed_3/best.npz",
+      "sha256": "eb30401133d4438c23f814cd3374b55d94ea72539881c919f6a3dc1d74e13323"
+    }
+  ],
+  "interpretation": "Hungarian matching provides display colours only; cluster colour is not a validated biological identity.",
+  "reference_used_for": "Evaluation, display colour matching and explicit diagnostic crop selection only.",
+  "integrity": "No smoothing, no interpolation, no prediction editing. Best is annotation-assisted ARI selection.",
+  "region_zoom": [
+    "DCIS/LCIS_2",
+    "DCIS/LCIS_5",
+    "IDC_3"
+  ],
+  "script_sha256": "23ece9fb23b5af944db83aa4993bcadf07fcb143842f2f731037616642f6fe16"
+}

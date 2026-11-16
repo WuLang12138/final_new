@@ -1,0 +1,212 @@
+[
+  {
+    "sample": "151507",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 67,
+    "ARI": 0.6722640480946683,
+    "file": "sidmgf_final/results/predictions/DLPFC/151507/paper/seed_0/best/prediction.npz",
+    "sha256": "8f3823568c743c5bc403b48a60b29f8075d9e7e3d962ed88411dafc9a6671454"
+  },
+  {
+    "sample": "151507",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 49,
+    "ARI": 0.5551683973868499,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SiDMGF-spatial_seed0_70f9549ec5/eval_peak.npz",
+    "sha256": "ea6b6e93123b68a5a21575168aba31db02d8980dbb422ccf3c038790c10af16f"
+  },
+  {
+    "sample": "151507",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 51,
+    "ARI": 0.5568634700171717,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SiDMGF-full_seed0_fc5c798018/eval_peak.npz",
+    "sha256": "4baffabd21e081e5b75de0a99823a7aeb56a7056e6a510c3a16ee6be7bf2a79d"
+  },
+  {
+    "sample": "151669",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 186,
+    "ARI": 0.4558287798711504,
+    "file": "sidmgf_final/results/predictions/DLPFC/151669/paper/seed_0/best/prediction.npz",
+    "sha256": "0bbf10f15edcad11abc677755f554f4ffce32e3672370a57fa1d713b343db5c8"
+  },
+  {
+    "sample": "151669",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 158,
+    "ARI": 0.5407694285454968,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151669_SiDMGF-spatial_seed0_7a35e38888/eval_peak.npz",
+    "sha256": "8ac72a4f096dc142a10bf4c2ff3075a1b7a0003e710055510cf905260f5a50b9"
+  },
+  {
+    "sample": "151669",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 201,
+    "ARI": 0.5141266014954412,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151669_SiDMGF-full_seed0_4c3cca8245/eval_peak.npz",
+    "sha256": "e4cbdf8b0e392f0dcca0d6ccc9584ad4b08557af0d30025a0589d9794822754a"
+  },
+  {
+    "sample": "151673",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 17,
+    "ARI": 0.6031642356033697,
+    "file": "sidmgf_final/results/predictions/DLPFC/151673/paper/seed_0/best/prediction.npz",
+    "sha256": "985ee32649c60c61e24af432baefdeb7fb3efd590d8adef7efd3b8ada6328768"
+  },
+  {
+    "sample": "151673",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 465,
+    "ARI": 0.5719995009285928,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151673_SiDMGF-spatial_seed0_d8329c23e6/eval_peak.npz",
+    "sha256": "4f7f7a74f0c9eae31e9c09019f7352f6faeedbd1be972dec58b29ece41216a2a"
+  },
+  {
+    "sample": "151673",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 491,
+    "ARI": 0.5411786115978193,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151673_SiDMGF-full_seed0_55f2ae3396/eval_peak.npz",
+    "sha256": "d06a8927f779a88ce7c4ac4660990c3f0fa9f5254b4a31d03f726e1af569fcde"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 362,
+    "ARI": 0.6812017423370361,
+    "file": "sidmgf_final/results/predictions/HBC/human_breast_cancer/paper/seed_0/best/prediction.npz",
+    "sha256": "b3f1cc77b796f9805b0934a97e3a8226e79880e1f62807a4e2e40cf3d5c4d0f9"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 491,
+    "ARI": 0.6707689273463633,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SiDMGF-spatial_seed0_3c89347d7e/eval_peak.npz",
+    "sha256": "64f6a0d3c69d102d28ad2fe50e37ff7ca28c44eeaad75d16c1706ebff734ede0"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 223,
+    "ARI": 0.6919463214160415,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SiDMGF-full_seed0_1b90b9a9f9/eval_peak.npz",
+    "sha256": "4194f7ac6cc6900251daed056494e9dfaa64adccee1457f5e58121a56f67a609"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SpaSRD",
+    "cohort": "refined",
+    "seed": 0,
+    "epoch": 349,
+    "ARI": 0.6982309440774325,
+    "file": "sidmgf_final/results/predictions/HBC/human_breast_cancer/refined/seed_0/best/prediction.npz",
+    "sha256": "68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SiDMGF-spatial",
+    "cohort": "refined",
+    "seed": 0,
+    "epoch": 462,
+    "ARI": 0.7029253854573903,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_gcn_spatial_hbc_transfer_seed0_ad5e4bbaa340/eval_peak.npz",
+    "sha256": "220a326a5c7ed137835564fe42d8d6b63c65b60d2300328b8da5b70227d6205b"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SiDMGF-full",
+    "cohort": "refined",
+    "seed": 0,
+    "epoch": 313,
+    "ARI": 0.6916683782865211,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/spasrd_core_acm_fixed_20261012_v1/runs/human_breast_cancer_gcn_full_hbc_transfer_seed0_e87d3a749c5f/eval_peak.npz",
+    "sha256": "67a607dd7996cfe01354ae8ae834f26a40b8291170511365753743aaa4fef094"
+  },
+  {
+    "sample": "starmap",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 91,
+    "ARI": 0.6255264631250818,
+    "file": "sidmgf_final/results/predictions/STARmap/starmap/paper/seed_0/best/prediction.npz",
+    "sha256": "18003d6145291070df37d65593d73972e12096a46a38b9b8d5584a832308c738"
+  },
+  {
+    "sample": "starmap",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 114,
+    "ARI": 0.5853449291189136,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SiDMGF-spatial_seed0_8471809ecd/eval_peak.npz",
+    "sha256": "b32700361480a038d5f16cc2b2639e09062491354382ccb6027e0e37e35a8f5e"
+  },
+  {
+    "sample": "starmap",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 124,
+    "ARI": 0.6002519489003428,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SiDMGF-full_seed0_84e1c87e19/eval_peak.npz",
+    "sha256": "091810582021f018884ee24475ccb4ff73d5e7b7e31da3db96c1b3c32419e28e"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 385,
+    "ARI": 0.7240338888868818,
+    "file": "sidmgf_final/results/predictions/osmFISH/osmfish/paper/seed_0/best/prediction.npz",
+    "sha256": "6c3ad3ee939d946a14ba565ae6abf7673b950335a8b2accc555d84923ff71f5e"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 476,
+    "ARI": 0.6695612559619737,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SiDMGF-spatial_seed0_463457408d/eval_peak.npz",
+    "sha256": "0a827c0ff116471260b1f2a53f90c6a4d445d5deab8910640b20ccdbd7647a56"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 477,
+    "ARI": 0.6730693142438433,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SiDMGF-full_seed0_a3c5391d3f/eval_peak.npz",
+    "sha256": "5793c696f89004c5a7dee323d6d069840337fb0913f74f83169ecfb1d1af18a2"
+  }
+]

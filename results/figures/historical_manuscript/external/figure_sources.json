@@ -1,0 +1,482 @@
+[
+  {
+    "sample": "151507",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 67,
+    "ARI": 0.6722640480946683,
+    "file": "sidmgf_final/results/predictions/DLPFC/151507/paper/seed_0/best/prediction.npz",
+    "sha256": "8f3823568c743c5bc403b48a60b29f8075d9e7e3d962ed88411dafc9a6671454"
+  },
+  {
+    "sample": "151507",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 49,
+    "ARI": 0.5551683973868499,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SiDMGF-spatial_seed0_70f9549ec5/eval_peak.npz",
+    "sha256": "ea6b6e93123b68a5a21575168aba31db02d8980dbb422ccf3c038790c10af16f"
+  },
+  {
+    "sample": "151507",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 51,
+    "ARI": 0.5568634700171717,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SiDMGF-full_seed0_fc5c798018/eval_peak.npz",
+    "sha256": "4baffabd21e081e5b75de0a99823a7aeb56a7056e6a510c3a16ee6be7bf2a79d"
+  },
+  {
+    "sample": "151507",
+    "method": "GraphST",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 84,
+    "ARI": 0.456553844956995,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_GraphST_seed0_70eac88b1a/eval_peak.npz",
+    "sha256": "b73d28062a73093fac3b03402239f9b003f4d5027e89af9801fd1cea848701ee"
+  },
+  {
+    "sample": "151507",
+    "method": "SpaGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 341,
+    "ARI": 0.4693563679416181,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SpaGCN_seed0_9e09a60234/eval_peak.npz",
+    "sha256": "1b676e1d17818bd5742af374174b44e848aff6f5e00eaae232bb6a31de961fc4"
+  },
+  {
+    "sample": "151507",
+    "method": "SEDR",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 45,
+    "ARI": 0.505639528579547,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SEDR_seed0_faf18933be/eval_peak.npz",
+    "sha256": "5afd67bcd1fdf8caf8b64e76951befdce624b2bfc54c12334274f4c0d673b4bf"
+  },
+  {
+    "sample": "151507",
+    "method": "Spatial-MGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 73,
+    "ARI": 0.5117981045518865,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_Spatial-MGCN_seed0_79b37861c5/eval_peak.npz",
+    "sha256": "50bcf638ce57173a247423701d6e9ed031e305d749b96a5682dd54f8509acab1"
+  },
+  {
+    "sample": "151507",
+    "method": "DisConST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 319,
+    "ARI": 0.5076472580980613,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_DisConST-RNA_seed0_90724ab345/eval_peak.npz",
+    "sha256": "993d984da9c78f0f26c813361c2ebdb84075995e89621851c288dedc83266aed"
+  },
+  {
+    "sample": "151507",
+    "method": "MuCST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 68,
+    "ARI": 0.503595558592157,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_MuCST-RNA_seed0_cb6f27142a/eval_peak.npz",
+    "sha256": "4ebae948bd8906e4c8bac4b2309393af7a5b0967d41ba2ffdf7e02fac75cf6e1"
+  },
+  {
+    "sample": "151507",
+    "method": "stLearn-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.4199258042071474,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_stLearn-RNA_seed0_3c7b876d72/eval_peak.npz",
+    "sha256": "13617db3724f47a09513883908b6256f2cdb0f73693931ae66a4cae431e8c9ba"
+  },
+  {
+    "sample": "151507",
+    "method": "PCA-KMeans",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.3140649349510547,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_PCA-KMeans_seed0_225b6db272/eval_peak.npz",
+    "sha256": "287c7dbf5e4651530a16b2ba2b29aa64b466af00a816bee5f852931b76ef79e9"
+  },
+  {
+    "sample": "151507",
+    "method": "SCANPY-Leiden",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.28721192353067515,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/151507_SCANPY-Leiden_seed0_e0521ac847/eval_peak.npz",
+    "sha256": "c54ef3e83c903773130f3576ee3bf65917195501071c928eb3555e990b05aa3d"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 362,
+    "ARI": 0.6812017423370361,
+    "file": "sidmgf_final/results/predictions/HBC/human_breast_cancer/paper/seed_0/best/prediction.npz",
+    "sha256": "b3f1cc77b796f9805b0934a97e3a8226e79880e1f62807a4e2e40cf3d5c4d0f9"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 491,
+    "ARI": 0.6707689273463633,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SiDMGF-spatial_seed0_3c89347d7e/eval_peak.npz",
+    "sha256": "64f6a0d3c69d102d28ad2fe50e37ff7ca28c44eeaad75d16c1706ebff734ede0"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 223,
+    "ARI": 0.6919463214160415,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SiDMGF-full_seed0_1b90b9a9f9/eval_peak.npz",
+    "sha256": "4194f7ac6cc6900251daed056494e9dfaa64adccee1457f5e58121a56f67a609"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "GraphST",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 130,
+    "ARI": 0.47676634006995927,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_GraphST_seed0_91c4a11ddf/eval_peak.npz",
+    "sha256": "660814686a29643197fb0b7f39b28fe35549019b65b1748c6184fc6db26d1dce"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SpaGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 238,
+    "ARI": 0.5221021667213739,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaGCN_seed0_b239bebd7b/eval_peak.npz",
+    "sha256": "0af812a873801dfb2ab0b8b56fa61929f34a46d8299945c6923714457ac30eae"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SEDR",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 272,
+    "ARI": 0.5458332398182858,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SEDR_seed0_35cdf22107/eval_peak.npz",
+    "sha256": "c16185c064f451ed6e5c648a135ce6252257bf5b0a9da02fb7cfc1835e0fc403"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "Spatial-MGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 74,
+    "ARI": 0.6596165007690133,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_Spatial-MGCN_seed0_82d8bdfb23/eval_peak.npz",
+    "sha256": "062b1488e6bd6ad5e03c1e6d77c52bd5910ccb3705534b9ca079bf82d3449343"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "DisConST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 433,
+    "ARI": 0.5133555829537308,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_DisConST-RNA_seed0_daa71d8f41/eval_peak.npz",
+    "sha256": "879411839467ce9f2efe02f5cac8cf2c12afcc2887cbec8885783dc940c7880c"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "MuCST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 19,
+    "ARI": 0.49333046620980947,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_MuCST-RNA_seed0_3712e8f524/eval_peak.npz",
+    "sha256": "89ceaa9b87098f4f4d2b5dde80b9bbba526d089f768776bd40271b58d809318f"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "stLearn-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.512746248752116,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_stLearn-RNA_seed0_bc70b61f82/eval_peak.npz",
+    "sha256": "0487a1bc24b3b36d3d5977dfb2277daa4326751b0458fe5fbffabeeabd4c2075"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "PCA-KMeans",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.40993457100326847,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_PCA-KMeans_seed0_2449162fe3/eval_peak.npz",
+    "sha256": "8f1ace832aedbf8f6bf3fb20c0d28a9567355517252850e8dba7decd08cb6ae7"
+  },
+  {
+    "sample": "human_breast_cancer",
+    "method": "SCANPY-Leiden",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.5022678440056388,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SCANPY-Leiden_seed0_b588084ff9/eval_peak.npz",
+    "sha256": "878247f65616d5cbd1a909538987c0c898b59ed526d48c3ef60d6fc2ee3165eb"
+  },
+  {
+    "sample": "starmap",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 91,
+    "ARI": 0.6255264631250818,
+    "file": "sidmgf_final/results/predictions/STARmap/starmap/paper/seed_0/best/prediction.npz",
+    "sha256": "18003d6145291070df37d65593d73972e12096a46a38b9b8d5584a832308c738"
+  },
+  {
+    "sample": "starmap",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 114,
+    "ARI": 0.5853449291189136,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SiDMGF-spatial_seed0_8471809ecd/eval_peak.npz",
+    "sha256": "b32700361480a038d5f16cc2b2639e09062491354382ccb6027e0e37e35a8f5e"
+  },
+  {
+    "sample": "starmap",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 124,
+    "ARI": 0.6002519489003428,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SiDMGF-full_seed0_84e1c87e19/eval_peak.npz",
+    "sha256": "091810582021f018884ee24475ccb4ff73d5e7b7e31da3db96c1b3c32419e28e"
+  },
+  {
+    "sample": "starmap",
+    "method": "GraphST",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 142,
+    "ARI": 0.5541022014809974,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_GraphST_seed0_106c4997de/eval_peak.npz",
+    "sha256": "e542dafd5db18bdeb2fedb40869176ff81f9ed3c9cac8933b44c528488627a1c"
+  },
+  {
+    "sample": "starmap",
+    "method": "SpaGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 339,
+    "ARI": 0.6144737045917433,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SpaGCN_seed0_433e584b13/eval_peak.npz",
+    "sha256": "f144b4c9077f4f4b0f240f7452bed6c6ab7473c38671d41ddf6dd5614bbee914"
+  },
+  {
+    "sample": "starmap",
+    "method": "SEDR",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 149,
+    "ARI": 0.5890338688282641,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SEDR_seed0_1356422554/eval_peak.npz",
+    "sha256": "b85d1de5ee6f920a49cea0d0f7f4b46274cea9aabb6e9b5601218c5a3a0fff09"
+  },
+  {
+    "sample": "starmap",
+    "method": "Spatial-MGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 95,
+    "ARI": 0.5125229949184346,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_Spatial-MGCN_seed0_b634cb15b5/eval_peak.npz",
+    "sha256": "8faa24378f4f5626666a0e62bb8301c071e6c3c82ab05f1036e8b7e474051e9d"
+  },
+  {
+    "sample": "starmap",
+    "method": "DisConST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 217,
+    "ARI": 0.441413785002024,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_DisConST-RNA_seed0_47688e1021/eval_peak.npz",
+    "sha256": "315e06d733dc7c2a467243cebbaf793a9a2b92e352770d0bf6105ad40c608c4a"
+  },
+  {
+    "sample": "starmap",
+    "method": "MuCST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 180,
+    "ARI": 0.4995213916833617,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_MuCST-RNA_seed0_0ea4fbfda3/eval_peak.npz",
+    "sha256": "7609e90d193539a18954a89df20f47ee919de360a8e36991c1215c008c4c61fd"
+  },
+  {
+    "sample": "starmap",
+    "method": "stLearn-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.36744131918449063,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_stLearn-RNA_seed0_7138b09428/eval_peak.npz",
+    "sha256": "55dfb5f178cda472b81468354064406cd35920a0b14940ee75e7d2f18a237ad3"
+  },
+  {
+    "sample": "starmap",
+    "method": "PCA-KMeans",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.30120114577931884,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_PCA-KMeans_seed0_3030069ae9/eval_peak.npz",
+    "sha256": "088dbf4ace970e1554ccefef1fbc5c1527ccad2ba867efd3ce8b2241a63472d1"
+  },
+  {
+    "sample": "starmap",
+    "method": "SCANPY-Leiden",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.2733774599511234,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/starmap_SCANPY-Leiden_seed0_614ec4c1b0/eval_peak.npz",
+    "sha256": "dc0a2fab9ee3284b346de6cfe7ed9423a5e6a5a04bf5f1ac3e7121205aa52df5"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SpaSRD",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 385,
+    "ARI": 0.7240338888868818,
+    "file": "sidmgf_final/results/predictions/osmFISH/osmfish/paper/seed_0/best/prediction.npz",
+    "sha256": "6c3ad3ee939d946a14ba565ae6abf7673b950335a8b2accc555d84923ff71f5e"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SiDMGF-spatial",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 476,
+    "ARI": 0.6695612559619737,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SiDMGF-spatial_seed0_463457408d/eval_peak.npz",
+    "sha256": "0a827c0ff116471260b1f2a53f90c6a4d445d5deab8910640b20ccdbd7647a56"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SiDMGF-full",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 477,
+    "ARI": 0.6730693142438433,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SiDMGF-full_seed0_a3c5391d3f/eval_peak.npz",
+    "sha256": "5793c696f89004c5a7dee323d6d069840337fb0913f74f83169ecfb1d1af18a2"
+  },
+  {
+    "sample": "osmfish",
+    "method": "GraphST",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 43,
+    "ARI": 0.5691706313694447,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_GraphST_seed0_1c5b367896/eval_peak.npz",
+    "sha256": "37c197ef066220ef24137a8ffaca5eb96d7ace4893de86656d849458e1166894"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SpaGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 5,
+    "ARI": 0.5419389680186986,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SpaGCN_seed0_9f2daf090b/eval_peak.npz",
+    "sha256": "0d489b62f2abd7ac6708811039ac7ffade790c88637acb7b71f663ce1165018f"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SEDR",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 425,
+    "ARI": 0.3534591737931181,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SEDR_seed0_ec02a81fe1/eval_peak.npz",
+    "sha256": "439eb38c49f4368e6f0c5ed247b6de8ecd326f55e395fff954a4b5d333570b5d"
+  },
+  {
+    "sample": "osmfish",
+    "method": "Spatial-MGCN",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.3241208276958953,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_Spatial-MGCN_seed0_546ac96637/eval_peak.npz",
+    "sha256": "1312856e42883dccbd2a0790271a8e2b5d30edc437124b69fe0ed51607101f45"
+  },
+  {
+    "sample": "osmfish",
+    "method": "DisConST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 430,
+    "ARI": 0.5744921827636383,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_DisConST-RNA_seed0_97a4521a39/eval_peak.npz",
+    "sha256": "8d3947d5e80d402885f49272c66f38f92f1853c01cb2a6a9ff58de8c6ef355ee"
+  },
+  {
+    "sample": "osmfish",
+    "method": "MuCST-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 483,
+    "ARI": 0.5923929487651579,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_MuCST-RNA_seed0_55262cc9ac/eval_peak.npz",
+    "sha256": "2004a5dd2dc5d1cc1125eaf4adae78ed2c7bb54974816b14959db63880e2aaa3"
+  },
+  {
+    "sample": "osmfish",
+    "method": "stLearn-RNA",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.2977702645405786,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_stLearn-RNA_seed0_de0226e854/eval_peak.npz",
+    "sha256": "3c50e2101d1c0639a409090101585b0223ca1c6466153d1ab88264c4a744b388"
+  },
+  {
+    "sample": "osmfish",
+    "method": "PCA-KMeans",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.18953291773658026,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_PCA-KMeans_seed0_74f22d69ba/eval_peak.npz",
+    "sha256": "1e8eb980c1f56c1b4aebd27048b41a4ee36acc059509571c73bce4b147648924"
+  },
+  {
+    "sample": "osmfish",
+    "method": "SCANPY-Leiden",
+    "cohort": "common",
+    "seed": 0,
+    "epoch": 1,
+    "ARI": 0.20612797589594042,
+    "file": "sidmgf_paper_support/experiments/reproduction/results_propagation/extra_methods_knn8_eval_v1/runs/osmfish_SCANPY-Leiden_seed0_1487427f6c/eval_peak.npz",
+    "sha256": "4c12cc9e9ea07275b761838bf720b9e4dd14a0ce4c049916e2728f6ea671be86"
+  }
+]

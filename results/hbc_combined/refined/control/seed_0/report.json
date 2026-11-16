@@ -1,0 +1,99 @@
+{
+  "profile": "refined",
+  "arm": "control",
+  "seed": 0,
+  "parameters": {
+    "encoder": "acm_split",
+    "hidden_dim": 128,
+    "latent_dim": 64,
+    "dropout": 0.1,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0005,
+    "beta": 0.3,
+    "epochs": 500,
+    "spatial_k": 8,
+    "clusters": 20,
+    "threads": 4
+  },
+  "lambda_detail": 0.0,
+  "lambda_consistency": 0.0,
+  "input": "data/HBC/human_breast_cancer",
+  "input_sha256": {
+    "expression.h5ad": "6c775800c63bc5628649043527c53dcf7c9da6a794ce3136ccdf1b342d9bf692",
+    "adjacency.npz": "f8331ea2c7da1145227b7e60f68909737fe195102f9c4a47101a48c5daeda543",
+    "transition.npz": "46b09f007e5c99e972aefe44dbdbcf1e120abac90476a18c0ea4ec2ea6a59c33"
+  },
+  "reports": {
+    "best": {
+      "epoch": 349,
+      "ARI": 0.6982309440774325,
+      "NMI": 0.6818470059954167,
+      "interior_mixing": 0.119553494391717,
+      "interior_error": 0.16652286453839515,
+      "boundary_error": 0.5574324324324325,
+      "boundary_edge_F1": 0.43366013071895426,
+      "macro_region_recall": 0.5473459449918922,
+      "region_recall": {
+        "DCIS/LCIS_1": 0.8222222222222222,
+        "DCIS/LCIS_2": 0.8571428571428571,
+        "DCIS/LCIS_3": 0.8571428571428571,
+        "DCIS/LCIS_4": 0.906832298136646,
+        "DCIS/LCIS_5": 0.539568345323741,
+        "Healthy_1": 0.8929440389294404,
+        "Healthy_2": 0.16216216216216217,
+        "IDC_1": 0.5869565217391305,
+        "IDC_2": 0.95822454308094,
+        "IDC_3": 0.2830188679245283,
+        "IDC_4": 0.9547511312217195,
+        "IDC_5": 0.8307349665924276,
+        "IDC_6": 0.5521472392638037,
+        "IDC_7": 0.13385826771653545,
+        "Tumor_edge_1": 0.16666666666666666,
+        "Tumor_edge_2": 0.5818181818181818,
+        "Tumor_edge_3": 0.3270440251572327,
+        "Tumor_edge_4": 0.0,
+        "Tumor_edge_5": 0.43478260869565216,
+        "Tumor_edge_6": 0.0989010989010989
+      }
+    },
+    "final": {
+      "epoch": 500,
+      "ARI": 0.6376070060077879,
+      "NMI": 0.6650314160402696,
+      "interior_mixing": 0.13308886971527178,
+      "interior_error": 0.227351164797239,
+      "boundary_error": 0.6087837837837838,
+      "boundary_edge_F1": 0.4264729110725004,
+      "macro_region_recall": 0.5031713486824846,
+      "region_recall": {
+        "DCIS/LCIS_1": 0.7925925925925926,
+        "DCIS/LCIS_2": 0.8571428571428571,
+        "DCIS/LCIS_3": 0.8461538461538461,
+        "DCIS/LCIS_4": 0.906832298136646,
+        "DCIS/LCIS_5": 0.31654676258992803,
+        "Healthy_1": 0.7615571776155717,
+        "Healthy_2": 0.25675675675675674,
+        "IDC_1": 0.5869565217391305,
+        "IDC_2": 0.6814621409921671,
+        "IDC_3": 0.018867924528301886,
+        "IDC_4": 0.9411764705882353,
+        "IDC_5": 0.8307349665924276,
+        "IDC_6": 0.6073619631901841,
+        "IDC_7": 0.12598425196850394,
+        "Tumor_edge_1": 0.16666666666666666,
+        "Tumor_edge_2": 0.36363636363636365,
+        "Tumor_edge_3": 0.4528301886792453,
+        "Tumor_edge_4": 0.0,
+        "Tumor_edge_5": 0.43478260869565216,
+        "Tumor_edge_6": 0.11538461538461539
+      }
+    }
+  },
+  "files": {
+    "best.npz": "68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9",
+    "final.npz": "397530c7fd3ddc2f41c26b6f038fcd3c10caf45832b67226b9a05d807506616f",
+    "history.csv": "8ca2d47923e8a9dbf4d744460cb970c57ba9633d6e5ec179ad44096d1938935b"
+  },
+  "original_completed": "sidmgf_paper_support/experiments/hbc_detail_ablation/results/refined/control/seed_0_6dd6e7ad54e4/completed.json",
+  "original_completed_sha256": "86dc553750d082be1ae3ff8731d66fd53867c26199c94ed5bec47b66f3229842"
+}

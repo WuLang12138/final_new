@@ -1,0 +1,17 @@
+{
+  "action": "loaded_existing_weight",
+  "device": "cuda",
+  "epoch": 500,
+  "checkpoint": "final",
+  "metrics": {
+    "ARI": 0.5563062203454138,
+    "NMI": 0.6920258074629712
+  },
+  "comparison_with_archived_final": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_final_ARI": 0.5563062203454138
+  },
+  "weight": "weights/STARmap/starmap/paper/seed_42.pt",
+  "weight_sha256": "4b80642c17d918df89c42f1a06c26d1bcfc397efeb1f0e5e22fba2e91537a27b"
+}

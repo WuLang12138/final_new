@@ -1,0 +1,24 @@
+{
+  "background": "none: no registered histology supplied",
+  "point_count": 4839,
+  "palette": {
+    "Pia Layer 1": "#3274A1",
+    "Layer 2-3 lateral": "#E1812C",
+    "Layer 2-3 medial": "#29966E",
+    "Layer 3-4": "#C43C39",
+    "Layer 4": "#7856A0",
+    "Layer 5": "#845B53",
+    "Layer 6": "#C26FA3",
+    "White matter": "#A6AB55",
+    "Hippocampus": "#28A7B3",
+    "Internal Capsule Caudoputamen": "#ADC4E2",
+    "Ventricle": "#F1B575"
+  },
+  "point_area": 2.0,
+  "profile": "paper",
+  "checkpoint": "current",
+  "epoch": 385,
+  "seed": 0,
+  "source": "results/predictions/osmFISH/osmfish/paper/seed_0/best/prediction.npz",
+  "source_sha256": "6c3ad3ee939d946a14ba565ae6abf7673b950335a8b2accc555d84923ff71f5e"
+}

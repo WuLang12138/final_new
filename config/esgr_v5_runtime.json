@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "name": "Expression-Spatial Guided Routing",
+  "abbreviation": "ESGR",
+  "version": "v5",
+  "freeze_policy": "Route thresholds are immutable for the runtime module. New-data outcomes must not change this file in place.",
+  "preprocessing": {
+    "spatial_k": 8,
+    "top_hvg": 3000,
+    "min_gene_cells": 3,
+    "normalize_target_sum": 10000.0,
+    "scale_max_value": 10.0,
+    "expression_mode": "auto"
+  },
+  "features": {
+    "knn": 8,
+    "pcs": 32,
+    "random_state": 0,
+    "propagation_steps": 10,
+    "restart_alpha": 0.05
+  },
+  "route_rule": {
+    "choose_S_if": {
+      "high_residual_concentration_branch": {
+        "residual_concentration_gte": 4.202386192846328,
+        "edge_length_cv_lte": 0.285,
+        "extended_guard": {
+          "edge_length_cv_lte": 0.325,
+          "retained_variance_gte": 0.24
+        }
+      },
+      "low_neighbor_distance_branch": {
+        "neighbor_distance_ratio_lte": 0.49352821818117385,
+        "edge_length_cv_lte": 0.3
+      },
+      "combine_branches_with": "OR"
+    },
+    "otherwise": "D"
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    42
+  ],
+  "training_common": {
+    "hidden_dim": 128,
+    "latent_dim": 64,
+    "dropout": 0.1,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0005,
+    "beta": 0.3,
+    "epochs": 500,
+    "spatial_k": 8,
+    "threads": 4
+  },
+  "route_profiles": {
+    "D": {
+      "encoder": "appnp",
+      "steps": 10,
+      "alpha": 0.05,
+      "lambda_detail": 0.0,
+      "lambda_consistency": 0.0
+    },
+    "S": {
+      "encoder": "acm_split",
+      "lambda_detail": 0.01,
+      "lambda_consistency": 0.01,
+      "regularization": {
+        "expression_pcs": 20,
+        "similar_edge_quantile": 0.5
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "description": "Standalone plotting snapshot of HBC control/combined; no training or default model replacement.",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    42
+  ],
+  "profiles": [
+    "refined"
+  ],
+  "runs": [
+    {
+      "profile": "refined",
+      "arm": "combined",
+      "seed": 0,
+      "directory": "results/hbc_combined/refined/combined/seed_0",
+      "report_sha256": "31224eee6746beb711f93b24215c7be9e166ac9972039b24b8ae0a530b9cdd82"
+    },
+    {
+      "profile": "refined",
+      "arm": "combined",
+      "seed": 1,
+      "directory": "results/hbc_combined/refined/combined/seed_1",
+      "report_sha256": "e7f65cfa9ebd0edbb230a0bfc0512817aa68c72a9a4ba6c68c2604fcab18b349"
+    },
+    {
+      "profile": "refined",
+      "arm": "combined",
+      "seed": 2,
+      "directory": "results/hbc_combined/refined/combined/seed_2",
+      "report_sha256": "bcadeecf830c0cf21c7ef2de3075bfb77e1699586177d45de5f5124df6349bdd"
+    },
+    {
+      "profile": "refined",
+      "arm": "combined",
+      "seed": 3,
+      "directory": "results/hbc_combined/refined/combined/seed_3",
+      "report_sha256": "39c857a7b67d619730ed0740bdaa416972fdd4fd2e74e723b331b043dbc79eb4"
+    },
+    {
+      "profile": "refined",
+      "arm": "combined",
+      "seed": 42,
+      "directory": "results/hbc_combined/refined/combined/seed_42",
+      "report_sha256": "7148c2177c007d0837e28dcdff9f0b53eabcef2f8359da228a336ce1ab2bcf9f"
+    },
+    {
+      "profile": "refined",
+      "arm": "control",
+      "seed": 0,
+      "directory": "results/hbc_combined/refined/control/seed_0",
+      "report_sha256": "d48b70cb8a72b37072dcbdbe08f64f9ca4275615f74937c685fc01300f94ca5b"
+    },
+    {
+      "profile": "refined",
+      "arm": "control",
+      "seed": 1,
+      "directory": "results/hbc_combined/refined/control/seed_1",
+      "report_sha256": "2fe9c258987a63ed46604feaecb95fd7dce4fedd2efa057b47b1b2c33f542a73"
+    },
+    {
+      "profile": "refined",
+      "arm": "control",
+      "seed": 2,
+      "directory": "results/hbc_combined/refined/control/seed_2",
+      "report_sha256": "a15694b1e739e0a9e2b887e9b1012b7d0e6534821b30e7ff8fdf907337534695"
+    },
+    {
+      "profile": "refined",
+      "arm": "control",
+      "seed": 3,
+      "directory": "results/hbc_combined/refined/control/seed_3",
+      "report_sha256": "c820684af7dbdf70969c40545ec2171b51bceae52c7cfed734755a58af581d2f"
+    },
+    {
+      "profile": "refined",
+      "arm": "control",
+      "seed": 42,
+      "directory": "results/hbc_combined/refined/control/seed_42",
+      "report_sha256": "3e5ccd45101dabeb3b37f5e9a630e0187f7b162d2bb5831bda48c690c6805596"
+    }
+  ]
+}

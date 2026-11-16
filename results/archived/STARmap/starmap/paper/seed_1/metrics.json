@@ -1,0 +1,14 @@
+{
+  "peak": 0.6884405531429829,
+  "final": 0.5478834937022219,
+  "peak_epoch": 74,
+  "final_epoch": 500,
+  "origin": "copied_historical_result",
+  "peak_selection": "maximum ARI over epochs, reference-label-assisted; not a held-out test",
+  "source_directory": "results_propagation/spasrd_core_shared_appnp_knn8_20261014_v1/runs/starmap_SpaSRD_seed1_69feb61bc8",
+  "files": {
+    "history.csv": "272261d0c85d0114799453095a5c66b445368bb225723c1009bcdab28d938ff2",
+    "peak.npz": "6569aef75ec121ca0dee6b4a6acc26623c53494b398844c56f86be221e70c88e",
+    "final.npz": "fefbc335b34c9cb423c4ebda5d909d0f79112e2b987f0674585e0b35d1eae0be"
+  }
+}

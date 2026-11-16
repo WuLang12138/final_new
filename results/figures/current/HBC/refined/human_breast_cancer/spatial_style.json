@@ -1,0 +1,49 @@
+{
+  "background": "registered original H&E low-resolution image",
+  "assets": {
+    "tissue_lowres_image.png": "e24b3e0c823838cce2deb6933dbd2e0632de86d29b4cd6c4dc22051c71adb816",
+    "scalefactors_json.json": "e0c079e051357928f76f98d8de0c92e6b85e33e6b1c794f13cdee3384494bcff",
+    "tissue_positions_list.csv": "284f439570700a566512e469cddfb1bc59ac135b523a74c806a4fb59d41c2547"
+  },
+  "scale": 0.024752475,
+  "coordinate_max_abs_delta": 0,
+  "point_count": 3798,
+  "palette": {
+    "Healthy_1": "#3274A1",
+    "Healthy_2": "#E1812C",
+    "Tumor_edge_1": "#29966E",
+    "Tumor_edge_2": "#C43C39",
+    "Tumor_edge_3": "#7856A0",
+    "Tumor_edge_4": "#845B53",
+    "Tumor_edge_5": "#C26FA3",
+    "Tumor_edge_6": "#A6AB55",
+    "DCIS/LCIS_1": "#28A7B3",
+    "DCIS/LCIS_2": "#ADC4E2",
+    "DCIS/LCIS_3": "#F1B575",
+    "DCIS/LCIS_4": "#98C97C",
+    "DCIS/LCIS_5": "#E48789",
+    "IDC_1": "#C1AED0",
+    "IDC_2": "#B9958D",
+    "IDC_3": "#E7AACB",
+    "IDC_4": "#D2D38B",
+    "IDC_5": "#97CED3",
+    "IDC_6": "#A1474E",
+    "IDC_7": "#8C713F"
+  },
+  "crop_bounds_fullres": [
+    3630.0,
+    20859.0,
+    3500.0,
+    22663.0
+  ],
+  "histology_alpha": 1.0,
+  "display_diameter_fullres": 316.67999999999995,
+  "diameter_to_spacing": 1.16,
+  "note": "Display diameter is not physical capture diameter; no new points, interpolation, smoothing, or label changes.",
+  "profile": "refined",
+  "checkpoint": "current",
+  "epoch": 349,
+  "seed": 0,
+  "source": "results/predictions/HBC/human_breast_cancer/refined/seed_0/best/prediction.npz",
+  "source_sha256": "68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9"
+}

@@ -1,0 +1,26 @@
+{
+  "action": "trained_to_save_best",
+  "device": "cuda",
+  "epoch": 349,
+  "checkpoint": "best",
+  "metrics": {
+    "ARI": 0.6982309440774325,
+    "NMI": 0.6818470059954167
+  },
+  "weight": "weights/HBC/human_breast_cancer/refined/seed_0_best.pt",
+  "weight_sha256": "463ef61792b73bc43151bd96b662e6ea6714976d2cfa125bc79171e2764ed1a5",
+  "best_weight_available": true,
+  "prediction": "results/predictions/HBC/human_breast_cancer/refined/seed_0/best",
+  "comparison_with_archived_peak": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_ARI": 0.6982309440774325
+  },
+  "peak_reload_check": {
+    "saved_ARI": 0.6982309440774325,
+    "ARI_difference": 0.0,
+    "prediction_array_available": true,
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0
+  }
+}

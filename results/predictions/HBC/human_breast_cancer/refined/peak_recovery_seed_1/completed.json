@@ -1,0 +1,11 @@
+{
+  "peak_epoch": 196,
+  "peak": {
+    "ARI": 0.6864053167330815,
+    "NMI": 0.6787498101822692
+  },
+  "final_epoch": 500,
+  "final_weight": "weights/HBC/human_breast_cancer/refined/seed_1_retrained_final.pt",
+  "best_weight": "weights/HBC/human_breast_cancer/refined/seed_1_best.pt",
+  "recover_best": true
+}

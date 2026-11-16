@@ -1,0 +1,8 @@
+{
+  "checkpoint": "peak",
+  "seed_for_panels": 0,
+  "evidence": "Spatial agreement and per-seed variation of the main method; not a baseline comparison.",
+  "peak_is_label_assisted": true,
+  "umap": "descriptive projection, not an independent accuracy test",
+  "alignment": "Hungarian label matching is used only for display; ARI uses original labels."
+}

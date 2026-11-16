@@ -1,0 +1,26 @@
+{
+  "requested": [
+    "Gad2",
+    "Rorb",
+    "Syt6",
+    "Gfap",
+    "Plp1",
+    "Hexb"
+  ],
+  "available": [
+    "Gad2",
+    "Rorb",
+    "Syt6",
+    "Gfap",
+    "Plp1",
+    "Hexb"
+  ],
+  "missing": [],
+  "seed": 0,
+  "weight": "weights/osmFISH/osmfish/paper/seed_0_best.pt",
+  "weight_sha256": "85e73bb261d5c4d9c568263141621b7c1d8295381e1e7b3b3cbe9d9e1ece6c56",
+  "normalization": "log1p(10000 * value / sum across retained genes per cell), separately for observed and reconstructed",
+  "reconstruction": "ZINB expectation (1-pi)*mean, frozen model in inference mode; not an independent denoising test",
+  "grouping": "Ground Truth region; these are spatial observations, not independent biological replicates",
+  "status": "complete"
+}

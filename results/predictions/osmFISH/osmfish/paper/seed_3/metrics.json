@@ -1,0 +1,17 @@
+{
+  "action": "loaded_existing_weight",
+  "device": "cuda",
+  "epoch": 500,
+  "checkpoint": "final",
+  "metrics": {
+    "ARI": 0.6636985381302536,
+    "NMI": 0.7476696260291511
+  },
+  "comparison_with_archived_final": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_final_ARI": 0.6636985381302536
+  },
+  "weight": "weights/osmFISH/osmfish/paper/seed_3.pt",
+  "weight_sha256": "09b4e655b4c796eae585929cbc24d85cb8c135ea4deb04635b55e5dad2f8a1e1"
+}

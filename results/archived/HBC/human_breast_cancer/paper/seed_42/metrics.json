@@ -1,0 +1,14 @@
+{
+  "peak": 0.6799801641139712,
+  "final": 0.662990553377291,
+  "peak_epoch": 466,
+  "final_epoch": 500,
+  "origin": "copied_historical_result",
+  "peak_selection": "maximum ARI over epochs, reference-label-assisted; not a held-out test",
+  "source_directory": "results_propagation/extra_methods_knn8_eval_v1/runs/human_breast_cancer_SpaSRD_seed42_a06e9999ca",
+  "files": {
+    "history.csv": "0a186b19cd2815e03fad4ca78d7351c660d70c44dda2705b3ac26c8be26e4adb",
+    "peak.npz": "8e4077e985f206a2cff336c990b2673df0e7d443e7c441a6017d2e45eb3b5814",
+    "final.npz": "bdc560f8461e18378323a84443a579576cba25a257f34cbf448d5f352cb170b1"
+  }
+}

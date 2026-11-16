@@ -1,0 +1,26 @@
+{
+  "action": "trained_to_save_best",
+  "device": "cuda",
+  "epoch": 21,
+  "checkpoint": "best",
+  "metrics": {
+    "ARI": 0.7148628134430063,
+    "NMI": 0.726926049582172
+  },
+  "weight": "weights/DLPFC/151510/paper/seed_3_best.pt",
+  "weight_sha256": "63d682b53053e514388d06f32a2ca69ca0cab4a08c4abaf3688a9d8b7aa11da5",
+  "best_weight_available": true,
+  "prediction": "results/predictions/DLPFC/151510/paper/seed_3/best",
+  "comparison_with_archived_peak": {
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0,
+    "archived_ARI": 0.7148628134430063
+  },
+  "peak_reload_check": {
+    "saved_ARI": 0.7148628134430063,
+    "ARI_difference": 0.0,
+    "prediction_array_available": true,
+    "max_abs_embedding_delta": 0.0,
+    "clustering_agreement_ARI": 1.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "requested": [
+    "Reln",
+    "Rorb",
+    "Cux2",
+    "Pcp4",
+    "Gad1",
+    "Slc17a7"
+  ],
+  "available": [
+    "Reln",
+    "Rorb",
+    "Cux2",
+    "Pcp4",
+    "Gad1",
+    "Slc17a7"
+  ],
+  "missing": [],
+  "seed": 0,
+  "weight": "weights/STARmap/starmap/paper/seed_0_best.pt",
+  "weight_sha256": "845dbbe4e75a5b89a18d386c34b305ac9ca8d982668848d1089da007fe6c2199",
+  "normalization": "log1p(10000 * value / sum across retained genes per cell), separately for observed and reconstructed",
+  "reconstruction": "ZINB expectation (1-pi)*mean, frozen model in inference mode; not an independent denoising test",
+  "grouping": "Ground Truth region; these are spatial observations, not independent biological replicates",
+  "status": "complete"
+}

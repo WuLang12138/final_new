@@ -1,0 +1,11 @@
+{
+  "peak_epoch": 491,
+  "peak": {
+    "ARI": 0.6987069204664509,
+    "NMI": 0.761413951028717
+  },
+  "final_epoch": 500,
+  "final_weight": "weights/osmFISH/osmfish/paper/seed_3_retrained_final.pt",
+  "best_weight": "weights/osmFISH/osmfish/paper/seed_3_best.pt",
+  "recover_best": true
+}

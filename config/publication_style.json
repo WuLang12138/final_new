@@ -1,0 +1,23 @@
+{
+  "routing_name": "Expression–Spatial Guided Routing",
+  "routing_abbreviation": "ESGR",
+  "width_mm": 178,
+  "preview_dpi": 300,
+  "method_colors": {
+    "SpaSRD": "#0072B2", "STAGATE": "#E69F00", "MNMST": "#009E73",
+    "MAEST": "#CC79A7", "GraphST": "#D55E00", "SpaGCN": "#56B4E9",
+    "SEDR": "#7851A9", "Spatial-MGCN": "#708A00",
+    "SiDMGF-spatial": "#8C564B", "SiDMGF-full": "#4D4D4D",
+    "DisConST-RNA": "#C74767", "MuCST-RNA": "#008B8B", "stLearn-RNA": "#A16E00",
+    "PCA-KMeans": "#708090", "SCANPY-Leiden": "#A450A0"
+  },
+  "region_replacements": {
+    "#3274A1":"#1F77B4", "#E1812C":"#E58320", "#3A923A":"#329B3D",
+    "#C03D3E":"#CB3C40", "#9372B2":"#8960AD", "#845B53":"#855347",
+    "#C26FA3":"#C55A98", "#29966E":"#149873", "#C43C39":"#CB3C40",
+    "#7856A0":"#7549A3", "#A6AB55":"#9BA63A", "#28A7B3":"#00A6B2",
+    "#ADC4E2":"#8DB5DE", "#F1B575":"#F1A75F", "#98C97C":"#8BC56F",
+    "#E48789":"#E7787D", "#C1AED0":"#B79BCF", "#B9958D":"#B8877D",
+    "#E7AACB":"#E594C0", "#D2D38B":"#C9CD6A", "#97CED3":"#80C8D0"
+  }
+}

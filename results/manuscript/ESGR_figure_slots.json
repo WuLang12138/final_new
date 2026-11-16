@@ -1,0 +1,63 @@
+[
+  {
+    "caption": "图2 四类核心数据的方法比较",
+    "svg_files": [
+      "Fig2a_distributions.svg",
+      "Fig2b_violins.svg"
+    ]
+  },
+  {
+    "caption": "图3 DLPFC代表切片151507空间分区与表示比较",
+    "svg_files": [
+      "151507_all_methods_spatial.svg",
+      "151507_all_methods_umap_1.svg",
+      "151507_all_methods_umap_2.svg",
+      "151507_all_methods_umap_3.svg"
+    ]
+  },
+  {
+    "caption": "图4 HBC空间分区与表示比较",
+    "svg_files": [
+      "human_breast_cancer_all_methods_spatial.svg",
+      "human_breast_cancer_all_methods_umap_1.svg",
+      "human_breast_cancer_all_methods_umap_2.svg",
+      "human_breast_cancer_all_methods_umap_3.svg"
+    ]
+  },
+  {
+    "caption": "图5 STARmap空间分区与表示比较",
+    "svg_files": [
+      "starmap_all_methods_spatial.svg",
+      "starmap_all_methods_umap_1.svg",
+      "starmap_all_methods_umap_2.svg",
+      "starmap_all_methods_umap_3.svg"
+    ]
+  },
+  {
+    "caption": "图6 osmFISH空间分区与表示比较",
+    "svg_files": [
+      "osmfish_all_methods_spatial.svg",
+      "osmfish_all_methods_umap_1.svg",
+      "osmfish_all_methods_umap_2.svg",
+      "osmfish_all_methods_umap_3.svg"
+    ]
+  },
+  {
+    "caption": "图7 供体结构与传播权重",
+    "svg_files": [
+      "Fig6_mechanism.svg"
+    ]
+  },
+  {
+    "caption": "图8 HBC表示分离与组合约束消融",
+    "svg_files": [
+      "Fig7_HBC_ablation.svg"
+    ]
+  },
+  {
+    "caption": "图9 冻结ESGR的外部验证",
+    "svg_files": [
+      "Fig8_ESGR_validation.svg"
+    ]
+  }
+]

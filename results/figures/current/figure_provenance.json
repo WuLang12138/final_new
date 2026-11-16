@@ -1,0 +1,764 @@
+{
+  "checkpoint": "current",
+  "seed_for_panels": 0,
+  "evidence": "Spatial agreement and per-seed variation of the main method; not a baseline comparison.",
+  "peak_is_label_assisted": true,
+  "sources": [
+    {
+      "dataset": "DLPFC",
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6722640480946683,
+      "epoch": 67,
+      "source": "results/predictions/DLPFC/151507/paper/seed_0/best/prediction.npz",
+      "source_sha256": "8f3823568c743c5bc403b48a60b29f8075d9e7e3d962ed88411dafc9a6671454"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6047724713963265,
+      "epoch": 55,
+      "source": "results/predictions/DLPFC/151507/paper/seed_1/best/prediction.npz",
+      "source_sha256": "2f0a13ca7342cd2a21c680458bf2900196a2195576cf2734aba6e905326e2f38"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6515174787826853,
+      "epoch": 80,
+      "source": "results/predictions/DLPFC/151507/paper/seed_2/best/prediction.npz",
+      "source_sha256": "c7937546ac03b1f91eaeff0f51df727ad4636a80d275fe9a4acd2065552c7334"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6177587538502444,
+      "epoch": 44,
+      "source": "results/predictions/DLPFC/151507/paper/seed_3/best/prediction.npz",
+      "source_sha256": "6157b2ef26cf318993cd0347f4bf8f2bcc787f94534e9ae1f1f61860b1e6af4a"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151507",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.6088554842641404,
+      "epoch": 88,
+      "source": "results/predictions/DLPFC/151507/paper/seed_42/best/prediction.npz",
+      "source_sha256": "5eaf262736bc5d63fbadac7643dc83f573b5fcc4af6474b10f6b7184f4c71f03"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.567370446885366,
+      "epoch": 389,
+      "source": "results/predictions/DLPFC/151508/paper/seed_0/best/prediction.npz",
+      "source_sha256": "86e86dd8655e19e755c0d4b9cee4ceaaf2bb18545383bafd28675a4c5cdda7dc"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.5317284176118492,
+      "epoch": 48,
+      "source": "results/predictions/DLPFC/151508/paper/seed_1/best/prediction.npz",
+      "source_sha256": "ec8c7626de7c782cea745d0613162808caa1a6ca7eee9c3ba2186048f53f86c5"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.552467866684333,
+      "epoch": 96,
+      "source": "results/predictions/DLPFC/151508/paper/seed_2/best/prediction.npz",
+      "source_sha256": "cce73ad0f1180cf81b0db114388b84d8670c83e06775ca5d84269c4564275b60"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.554875373548429,
+      "epoch": 29,
+      "source": "results/predictions/DLPFC/151508/paper/seed_3/best/prediction.npz",
+      "source_sha256": "80be6b2897e100d1adb8c3d7856de3f57dd44b08d2722b214498ec0793faec5c"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151508",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.568846986972932,
+      "epoch": 104,
+      "source": "results/predictions/DLPFC/151508/paper/seed_42/best/prediction.npz",
+      "source_sha256": "f340b7ce6df7dfed20ef64e559a91cecaf1cf91c310818f02908e8921670f4b8"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6728542461699024,
+      "epoch": 23,
+      "source": "results/predictions/DLPFC/151509/paper/seed_0/best/prediction.npz",
+      "source_sha256": "14013af6f3f7d2ec141cc86fecd0a7a9a6c66c297fec3f63e1750999af19e85b"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6270411618871587,
+      "epoch": 31,
+      "source": "results/predictions/DLPFC/151509/paper/seed_1/best/prediction.npz",
+      "source_sha256": "18271300237ea0923408fc75d6e2e26ead3140921efe85266206ba72cc3f68ff"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.594720841311423,
+      "epoch": 13,
+      "source": "results/predictions/DLPFC/151509/paper/seed_2/best/prediction.npz",
+      "source_sha256": "6fd1d0f33e1dd5c5e0fbebe8130003b3c3d66dde0baf1c0d8fb36dd5ca8d9b3c"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6696969815789634,
+      "epoch": 24,
+      "source": "results/predictions/DLPFC/151509/paper/seed_3/best/prediction.npz",
+      "source_sha256": "04c086ac6b949bb0bb2729321487ee63af00a19bccdb9490e916ad850e797adf"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151509",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.5918408025871198,
+      "epoch": 100,
+      "source": "results/predictions/DLPFC/151509/paper/seed_42/best/prediction.npz",
+      "source_sha256": "957baec826f203be5addba521b7d98c8853b1fa211ebeb5dede25ccb88317aa6"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.5317990914449623,
+      "epoch": 2,
+      "source": "results/predictions/DLPFC/151510/paper/seed_0/best/prediction.npz",
+      "source_sha256": "6c6959577022837d1e17a7380f16f82749d0c817e59f2a8be4797e97bf4425c9"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6754558721455359,
+      "epoch": 14,
+      "source": "results/predictions/DLPFC/151510/paper/seed_1/best/prediction.npz",
+      "source_sha256": "a1566c64f7c14869f6d831c70e67556210e6e64359322d3ba200da1f0fb96da5"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6279716735466175,
+      "epoch": 17,
+      "source": "results/predictions/DLPFC/151510/paper/seed_2/best/prediction.npz",
+      "source_sha256": "14f25d2adfdc11876b623aebb0efbc2f0b614b1d32930d4bb6a88e3000d548b5"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.7148628134430063,
+      "epoch": 21,
+      "source": "results/predictions/DLPFC/151510/paper/seed_3/best/prediction.npz",
+      "source_sha256": "f384e525b96e587ff0897960725b4aa68c103ba9e685f4cc7e82f214fa30708f"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151510",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.7022939672351077,
+      "epoch": 13,
+      "source": "results/predictions/DLPFC/151510/paper/seed_42/best/prediction.npz",
+      "source_sha256": "400736d3049c0a35becc097a88aa4ee91212d4ee9b2ec84a93db392ec29f3cd1"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.4558287798711504,
+      "epoch": 186,
+      "source": "results/predictions/DLPFC/151669/paper/seed_0/best/prediction.npz",
+      "source_sha256": "0bbf10f15edcad11abc677755f554f4ffce32e3672370a57fa1d713b343db5c8"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.5334899828826017,
+      "epoch": 500,
+      "source": "results/predictions/DLPFC/151669/paper/seed_1/best/prediction.npz",
+      "source_sha256": "a6ab9af10d201dc62e261ea39457c7a3b3bccef080499a9edd0faea50d7cd7fc"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.5052593444195705,
+      "epoch": 484,
+      "source": "results/predictions/DLPFC/151669/paper/seed_2/best/prediction.npz",
+      "source_sha256": "ec4c18c4af81e23ba450a7deaacdbc224d55f5fa635aac9ad6ad308272565703"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.5261591758669449,
+      "epoch": 500,
+      "source": "results/predictions/DLPFC/151669/paper/seed_3/best/prediction.npz",
+      "source_sha256": "e3a9b13510976cbda791ebe9d502f1e14a944de915d800529d7d8feb42128bad"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151669",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.5690542415861628,
+      "epoch": 496,
+      "source": "results/predictions/DLPFC/151669/paper/seed_42/best/prediction.npz",
+      "source_sha256": "974531c882678b8a79e9b02e828a048ba1e92f6e29bd5fd3f3c8ee057c695fe9"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.4381034922323914,
+      "epoch": 498,
+      "source": "results/predictions/DLPFC/151670/paper/seed_0/best/prediction.npz",
+      "source_sha256": "bb01ecd0afbd16a3686138d5e90a731db750bf002414bdbac300ba0f5b905572"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.4192257317274614,
+      "epoch": 476,
+      "source": "results/predictions/DLPFC/151670/paper/seed_1/best/prediction.npz",
+      "source_sha256": "2ebe3341da6211ea526fe3411fe744026a120106e4fcee43d95945bfd45ae601"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.4338327514957083,
+      "epoch": 476,
+      "source": "results/predictions/DLPFC/151670/paper/seed_2/best/prediction.npz",
+      "source_sha256": "dabbf92bb0688f2ee8064fc1f60a16dcc07d3caf0c95bea4623782998a58409a"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.4104854975605351,
+      "epoch": 30,
+      "source": "results/predictions/DLPFC/151670/paper/seed_3/best/prediction.npz",
+      "source_sha256": "683e9e322c063f6242311be7912f0ad60ee6bd169a76089d7dac1d1a5e80e966"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151670",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.45119063389367936,
+      "epoch": 303,
+      "source": "results/predictions/DLPFC/151670/paper/seed_42/best/prediction.npz",
+      "source_sha256": "9d8b2c233a65787398d8def7f83a033680bb1544281db428f3437325a578899b"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6327357385948617,
+      "epoch": 463,
+      "source": "results/predictions/DLPFC/151671/paper/seed_0/best/prediction.npz",
+      "source_sha256": "6325d0b4f756c480d5ecab34e067d2490b258df83959db39808b486cc1e79885"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.61596258297173,
+      "epoch": 499,
+      "source": "results/predictions/DLPFC/151671/paper/seed_1/best/prediction.npz",
+      "source_sha256": "e4d22f4e1cbe5e7013eb560d195258cfd3140363254bcd0affdc56aacc5b9115"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6489380880858472,
+      "epoch": 155,
+      "source": "results/predictions/DLPFC/151671/paper/seed_2/best/prediction.npz",
+      "source_sha256": "7ddb51befd49e8fe5227aee4e5bf6260ffadbc912e657b17bc6f513fca1ea89a"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6485728220428908,
+      "epoch": 389,
+      "source": "results/predictions/DLPFC/151671/paper/seed_3/best/prediction.npz",
+      "source_sha256": "7efe69b389c318cf5f18c27b37bf2d748bd7b693cd4bdb8f05f70feddfaf49b1"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151671",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.6971812020937507,
+      "epoch": 382,
+      "source": "results/predictions/DLPFC/151671/paper/seed_42/best/prediction.npz",
+      "source_sha256": "930fd0755d1dc9b127b8a230a726c05442c8236d2da528070b0eb8ee20af6278"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.5850183689410687,
+      "epoch": 96,
+      "source": "results/predictions/DLPFC/151672/paper/seed_0/best/prediction.npz",
+      "source_sha256": "a489f1174fbd827df820d44b3ef8e2d5252b8404ff7202cfc841dd8afd8f658f"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6383434127428086,
+      "epoch": 98,
+      "source": "results/predictions/DLPFC/151672/paper/seed_1/best/prediction.npz",
+      "source_sha256": "aedc4c60e2e0d32c61ffe4797c8b74ca4544ab2655e4aad1e8a2737b379cbd52"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6337716897946799,
+      "epoch": 66,
+      "source": "results/predictions/DLPFC/151672/paper/seed_2/best/prediction.npz",
+      "source_sha256": "2dcb6758576aab951b76c695a13bd06c5de68bdd8bc65a12f970ac29dc518d79"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.7044231729987795,
+      "epoch": 13,
+      "source": "results/predictions/DLPFC/151672/paper/seed_3/best/prediction.npz",
+      "source_sha256": "8261e1bf74becce742f93e4c80565516b0af917afbc21e030678b63826e51f81"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151672",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.5992479657739693,
+      "epoch": 330,
+      "source": "results/predictions/DLPFC/151672/paper/seed_42/best/prediction.npz",
+      "source_sha256": "398c873d6ea81e123498fc92dda5b07698e1b0e339523a37d6779d3aeea59c9a"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6031642356033697,
+      "epoch": 17,
+      "source": "results/predictions/DLPFC/151673/paper/seed_0/best/prediction.npz",
+      "source_sha256": "985ee32649c60c61e24af432baefdeb7fb3efd590d8adef7efd3b8ada6328768"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6099580193126453,
+      "epoch": 94,
+      "source": "results/predictions/DLPFC/151673/paper/seed_1/best/prediction.npz",
+      "source_sha256": "d57424f63c8d1f1e974b77f2dc6f5b4dfdfe9f964dd6d39c15f78a4046e66061"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6221068129634493,
+      "epoch": 474,
+      "source": "results/predictions/DLPFC/151673/paper/seed_2/best/prediction.npz",
+      "source_sha256": "731c27235b836c0b8ac077a0026c93d3af906847cee730cb4a68546ff34addbb"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6560140698432194,
+      "epoch": 69,
+      "source": "results/predictions/DLPFC/151673/paper/seed_3/best/prediction.npz",
+      "source_sha256": "e6fad001520b2961db7e292967e45af60933d7a1fb2c436c059f4a476913beb4"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151673",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.640193215997435,
+      "epoch": 76,
+      "source": "results/predictions/DLPFC/151673/paper/seed_42/best/prediction.npz",
+      "source_sha256": "93867bd43539a1e4d5c60a0b36576389ce406f065812525ac7d2660955dec0c0"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6459932508083841,
+      "epoch": 53,
+      "source": "results/predictions/DLPFC/151674/paper/seed_0/best/prediction.npz",
+      "source_sha256": "0af350942436346fbb745568f572c9b21df22ff446dab9a151481eb0992fa436"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6423655219504654,
+      "epoch": 37,
+      "source": "results/predictions/DLPFC/151674/paper/seed_1/best/prediction.npz",
+      "source_sha256": "041bb4d5b87d5eb0d575ce173dc0e7113d9f496b3da67573dba26585dd97d7d5"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6635679182961941,
+      "epoch": 57,
+      "source": "results/predictions/DLPFC/151674/paper/seed_2/best/prediction.npz",
+      "source_sha256": "71f971f175ff66c6e7f269028479bf59363384e1a932c49b42187cbd65972c0a"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6076237690440968,
+      "epoch": 52,
+      "source": "results/predictions/DLPFC/151674/paper/seed_3/best/prediction.npz",
+      "source_sha256": "61eb06c0ea9a97fff44b5f56186486bba6ff7dfe9c2c539d4c092852e40fe9fd"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151674",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.5916827217826698,
+      "epoch": 35,
+      "source": "results/predictions/DLPFC/151674/paper/seed_42/best/prediction.npz",
+      "source_sha256": "aa0e07a58bf08077ff539f5c6781b6921517819485b4fa1d584b5840f552cb4b"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6154395457900638,
+      "epoch": 43,
+      "source": "results/predictions/DLPFC/151675/paper/seed_0/best/prediction.npz",
+      "source_sha256": "d9cc862508356a8977d25cb5824c7792cbaec86fa806d47ccd2554b81fb0edcf"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.5905003371036541,
+      "epoch": 47,
+      "source": "results/predictions/DLPFC/151675/paper/seed_1/best/prediction.npz",
+      "source_sha256": "c19f5a5ce8c4533d5b5751c5e0005db48aca00077d136691d511989fabab574c"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6165446773786624,
+      "epoch": 39,
+      "source": "results/predictions/DLPFC/151675/paper/seed_2/best/prediction.npz",
+      "source_sha256": "2aefa9393ffa0c416c23f1f369ec59fce14c5a55baad3bd5eefcca7d5895b5af"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6096103154395478,
+      "epoch": 51,
+      "source": "results/predictions/DLPFC/151675/paper/seed_3/best/prediction.npz",
+      "source_sha256": "6723b0f685a3024d4b19de843dada86cb9abb496f011143a48cb1914e54f3480"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151675",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.601965707370159,
+      "epoch": 26,
+      "source": "results/predictions/DLPFC/151675/paper/seed_42/best/prediction.npz",
+      "source_sha256": "b996a4629ac0d6df2020840df9966c0a55c0b386b970dc92576f627e7b7863cb"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.5687198782080513,
+      "epoch": 500,
+      "source": "results/predictions/DLPFC/151676/paper/seed_0/best/prediction.npz",
+      "source_sha256": "8c6dcc823afec86a29d8f3fab2130c4f7ddc2cf092d454bd6f9cad591479f78f"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.5800247971427134,
+      "epoch": 26,
+      "source": "results/predictions/DLPFC/151676/paper/seed_1/best/prediction.npz",
+      "source_sha256": "e16225a6c917915dced58b53668952ca070054d47c1129cb376a075d35b03510"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.5583327440188056,
+      "epoch": 18,
+      "source": "results/predictions/DLPFC/151676/paper/seed_2/best/prediction.npz",
+      "source_sha256": "b1ab43a9aa88a73aaf9d8555139fc4b65e00da3117f0a39397f3d1cbaef94a68"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.5640996087278529,
+      "epoch": 25,
+      "source": "results/predictions/DLPFC/151676/paper/seed_3/best/prediction.npz",
+      "source_sha256": "2371e4e768df0f4bc394bd7206f37b0feb56c125c051fa7440447b787d844d4b"
+    },
+    {
+      "dataset": "DLPFC",
+      "sample": "151676",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.5411784048071404,
+      "epoch": 18,
+      "source": "results/predictions/DLPFC/151676/paper/seed_42/best/prediction.npz",
+      "source_sha256": "5e13a740386d904dd185d24933b83fc51437bebcf06f8485b2323b189cd16b30"
+    },
+    {
+      "dataset": "STARmap",
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.6255264631250818,
+      "epoch": 91,
+      "source": "results/predictions/STARmap/starmap/paper/seed_0/best/prediction.npz",
+      "source_sha256": "18003d6145291070df37d65593d73972e12096a46a38b9b8d5584a832308c738"
+    },
+    {
+      "dataset": "STARmap",
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6884405531429829,
+      "epoch": 74,
+      "source": "results/predictions/STARmap/starmap/paper/seed_1/best/prediction.npz",
+      "source_sha256": "93f4cf3a72f4aa0ff08b8d2b7d86bdcda714d6b62231887f537919025e890e5d"
+    },
+    {
+      "dataset": "STARmap",
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6533824453470986,
+      "epoch": 55,
+      "source": "results/predictions/STARmap/starmap/paper/seed_2/best/prediction.npz",
+      "source_sha256": "d2e04ade51230027162455bdd5b7619f75cc6f6cb908c5308cbf6bf017f753eb"
+    },
+    {
+      "dataset": "STARmap",
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6329799517701094,
+      "epoch": 98,
+      "source": "results/predictions/STARmap/starmap/paper/seed_3/best/prediction.npz",
+      "source_sha256": "1a0d4d32dd57783be19bc24ca33079363dba9f2a43fa12da717b2d40b4fbbcbd"
+    },
+    {
+      "dataset": "STARmap",
+      "sample": "starmap",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.6488316047340197,
+      "epoch": 64,
+      "source": "results/predictions/STARmap/starmap/paper/seed_42/best/prediction.npz",
+      "source_sha256": "a9fc1ef1a3db711756e0a3e0f9a6c75749fa4aac83d09a4c33b0f92ca5e261d1"
+    },
+    {
+      "dataset": "osmFISH",
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 0,
+      "ARI": 0.7240338888868818,
+      "epoch": 385,
+      "source": "results/predictions/osmFISH/osmfish/paper/seed_0/best/prediction.npz",
+      "source_sha256": "6c3ad3ee939d946a14ba565ae6abf7673b950335a8b2accc555d84923ff71f5e"
+    },
+    {
+      "dataset": "osmFISH",
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 1,
+      "ARI": 0.6862853791208767,
+      "epoch": 498,
+      "source": "results/predictions/osmFISH/osmfish/paper/seed_1/best/prediction.npz",
+      "source_sha256": "f0e38b1aa7f2b2d93a172f80b470b57fb319c8b916f960ab09c0c698fb3d0ad8"
+    },
+    {
+      "dataset": "osmFISH",
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 2,
+      "ARI": 0.6976493792717101,
+      "epoch": 106,
+      "source": "results/predictions/osmFISH/osmfish/paper/seed_2/best/prediction.npz",
+      "source_sha256": "68ac4a201e3c90c7707500f1dabae2c302a441323f19c66df218240307780def"
+    },
+    {
+      "dataset": "osmFISH",
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 3,
+      "ARI": 0.6987069204664509,
+      "epoch": 491,
+      "source": "results/predictions/osmFISH/osmfish/paper/seed_3/best/prediction.npz",
+      "source_sha256": "c616758128a263b16bdda4e6eca6605d1def7308e1dedfefcbaa7ec87df737ed"
+    },
+    {
+      "dataset": "osmFISH",
+      "sample": "osmfish",
+      "profile": "paper",
+      "seed": 42,
+      "ARI": 0.6891585444160617,
+      "epoch": 488,
+      "source": "results/predictions/osmFISH/osmfish/paper/seed_42/best/prediction.npz",
+      "source_sha256": "934a345b009d286e69c176775142384cc2a040cc1d5fe23e05bff058a8f55735"
+    },
+    {
+      "dataset": "HBC",
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 0,
+      "ARI": 0.6982309440774325,
+      "epoch": 349,
+      "source": "results/predictions/HBC/human_breast_cancer/refined/seed_0/best/prediction.npz",
+      "source_sha256": "68b3644a7d4010ee4e889d74d98d87a34677059c5a2d6e8e1f833a017be262f9"
+    },
+    {
+      "dataset": "HBC",
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 1,
+      "ARI": 0.6864053167330815,
+      "epoch": 196,
+      "source": "results/predictions/HBC/human_breast_cancer/refined/seed_1/best/prediction.npz",
+      "source_sha256": "896a2180a7934bcefa075a584e1646dd3529b2d8dda3149654fb47dc7e17a5f5"
+    },
+    {
+      "dataset": "HBC",
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 2,
+      "ARI": 0.6957026079899449,
+      "epoch": 188,
+      "source": "results/predictions/HBC/human_breast_cancer/refined/seed_2/best/prediction.npz",
+      "source_sha256": "d5d7fdac8be04f1b484e476ec4b07d20149595615f63c7f0f56b6f9e1a75c02e"
+    },
+    {
+      "dataset": "HBC",
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 3,
+      "ARI": 0.6851232710858774,
+      "epoch": 187,
+      "source": "results/predictions/HBC/human_breast_cancer/refined/seed_3/best/prediction.npz",
+      "source_sha256": "aec857f43451210918e485fa71b591e7663be0a00ab59193f77a95a06ef76ea5"
+    },
+    {
+      "dataset": "HBC",
+      "sample": "human_breast_cancer",
+      "profile": "refined",
+      "seed": 42,
+      "ARI": 0.713797345345791,
+      "epoch": 350,
+      "source": "results/predictions/HBC/human_breast_cancer/refined/seed_42/best/prediction.npz",
+      "source_sha256": "c15933249bba0ce61b0dc4c1a4002e514b252b05a2a481db1192f9c3539b309f"
+    }
+  ],
+  "archive_fallback": false,
+  "umap": "descriptive projection, not an independent accuracy test",
+  "umap_labels": "Ground Truth and prediction color the same model-derived coordinates; no embedding is constructed from labels",
+  "distributions": "Five technical seeds per sample; box median/IQR/1.5 IQR whiskers with all points; violin KDE is descriptive; no significance test",
+  "expression": "Representative samples only; observed and frozen decoder expectations; see per-sample marker_provenance.json",
+  "alignment": "Hungarian label matching is used only for display; ARI uses original labels."
+}

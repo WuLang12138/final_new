@@ -1,0 +1,20 @@
+{
+  "background": "none: no registered histology supplied",
+  "point_count": 1207,
+  "palette": {
+    "L1": "#3274A1",
+    "L2/3": "#E1812C",
+    "L4": "#3A923A",
+    "L5": "#C03D3E",
+    "L6": "#9372B2",
+    "CC": "#845B53",
+    "HPC": "#C26FA3"
+  },
+  "point_area": 2.0,
+  "profile": "paper",
+  "checkpoint": "current",
+  "epoch": 91,
+  "seed": 0,
+  "source": "results/predictions/STARmap/starmap/paper/seed_0/best/prediction.npz",
+  "source_sha256": "18003d6145291070df37d65593d73972e12096a46a38b9b8d5584a832308c738"
+}

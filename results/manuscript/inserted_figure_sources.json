@@ -1,0 +1,350 @@
+{
+  "manuscript": "results\\manuscript\\SpaSRD_ESGR最新结果插图版.docx",
+  "source_document": "results\\manuscript\\SpaSRD_ESGR正文统一SiDMGF对照版.docx",
+  "figure_manifest_sha256": "449e23ba0d8a284ec329a4585a1141d1b1fb6da5d2ea3faa0fe28fa9b8504cb1",
+  "figures": [
+    {
+      "figure": "图1 SpaSRD模型框架",
+      "source": "results/figures/publication/SpaSRD_framework_preview.png",
+      "sha256": "d38eec61f1c2f228b1eb515c22bc8879d24d46358de99b4168aee8069b3e2924",
+      "fallback": "results/figures/publication/SpaSRD_framework_preview.png",
+      "fallback_sha256": "d38eec61f1c2f228b1eb515c22bc8879d24d46358de99b4168aee8069b3e2924",
+      "format": "author framework PNG",
+      "embedded_parts": []
+    },
+    {
+      "figure": "图2 各方法在四类核心数据上的ARI分布",
+      "source": "results/figures/publication/Fig2a_distributions.svg",
+      "sha256": "bb0926b6669a8cd64a05bd792bb2861edc855abf0a69edea597244681d307ec2",
+      "fallback": "results/figures/publication/Fig2a_distributions.png",
+      "fallback_sha256": "948e23d19b702874824f814dada703f7d3c362a3a6e3e805eafbfd1e229fd90e",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_02_1.svg",
+          "embedded_sha256": "6179595e52f214563b01ef01a9c96bd033999f66379311f2e826709bd7203327"
+        }
+      ]
+    },
+    {
+      "figure": "图2（续）ARI分布的小提琴展示",
+      "source": "results/figures/publication/Fig2b_violins.svg",
+      "sha256": "a342351421cca4ec5f9749e9d696b20edb3211202f30be738ed799ac0f50f6d9",
+      "fallback": "results/figures/publication/Fig2b_violins.png",
+      "fallback_sha256": "02ee747bb7d6a0cfe9b54c8dcc42e535916ba351e16247f351f241be07d4ad5c",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_03_1.svg",
+          "embedded_sha256": "276930d4934dc812e6e6cc06d66961771f401816760036b6a6156ca10df1d97e"
+        }
+      ]
+    },
+    {
+      "figure": "图3 DLPFC代表切片151507多方法空间域恢复",
+      "source": "results/figures/publication/151507_all_methods_spatial.svg",
+      "sha256": "6174392093dbc75e344a6c04fd803fdd719d6408120b8b42ac785e783ae39386",
+      "fallback": "results/figures/publication/151507_all_methods_spatial.png",
+      "fallback_sha256": "dc7803f6d0d4c8c3d69b7e37ca3257f065c0b58d480452fd7c962f1fdbcea72c",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_04_1.svg",
+          "embedded_sha256": "5acfdc838749d12bbf5c73610fd8dee0bded2a42cc33f34477e3190bccd57499"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_04_2.svg",
+          "embedded_sha256": "06b8df2a47a373117fc789a54764614410743f20864dc4c588033d9ec1cfc1eb"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_04_3.svg",
+          "embedded_sha256": "afdb87ecdeacb19d6d0ef44071b9cc2883a1f787b73c1ca7e661dcaf0912e444"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_04_4.svg",
+          "embedded_sha256": "cd458e29d3e60696986daacc3b307051842f2df0ba72f79d57fa0b86fb35c4b2"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_04_5.svg",
+          "embedded_sha256": "9f29fa054b1a5842d57b82178eb89202394288ea000ef1adb19f6a735ba33b9e"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_04_6.svg",
+          "embedded_sha256": "cd4e164f37c1d3948ce25f763c0e6c51c9af3d6d6f0bb7941018cfe2ccba6d7a"
+        }
+      ]
+    },
+    {
+      "figure": "图3（续1）DLPFC代表切片151507潜在表示比较",
+      "source": "results/figures/publication/151507_all_methods_umap_1.svg",
+      "sha256": "15a86e4843a5d5017dddcd1d0fb55e8ff623ae8f5cf3f5ed714365b428a3a7a2",
+      "fallback": "results/figures/publication/151507_all_methods_umap_1.png",
+      "fallback_sha256": "c0e94f917c14a66a213ed3d757b43a3cfb962e59e9072dab2dd85fe840019950",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_05_1.svg",
+          "embedded_sha256": "277c1c9ffa2bc61645cabef92e792d78d85a41c359e851915d7dd043050596b7"
+        }
+      ]
+    },
+    {
+      "figure": "图3（续2）DLPFC代表切片151507潜在表示比较",
+      "source": "results/figures/publication/151507_all_methods_umap_2.svg",
+      "sha256": "faa1aa8cc35bb23c9025b991c7bddcc46fbfa9b49a99bd6e8079f334688dcf77",
+      "fallback": "results/figures/publication/151507_all_methods_umap_2.png",
+      "fallback_sha256": "c47305ca9fbcfc36ac2d23e2fb30b9c5e0cf09632f87e5660c4c94a7c2370b75",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_06_1.svg",
+          "embedded_sha256": "252a32903232f56ad2b5d04e7289001515747a489b3e433f8a624ab0515c1312"
+        }
+      ]
+    },
+    {
+      "figure": "图3（续3）DLPFC代表切片151507潜在表示比较",
+      "source": "results/figures/publication/151507_all_methods_umap_3.svg",
+      "sha256": "8d602501c98fa8523d5f658e389654ff6be3d68d3065b4d5a9b4354aa1ed3938",
+      "fallback": "results/figures/publication/151507_all_methods_umap_3.png",
+      "fallback_sha256": "f5cbcf4945cafc49b68d35ddb7f20567ae8f53353cb97ee1de1283d6bd3d45e8",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_07_1.svg",
+          "embedded_sha256": "4acfdfc7bf501d3d6fe49f9bc480a490cea9e525c480c3a222ecc11087b42a95"
+        }
+      ]
+    },
+    {
+      "figure": "图4 HBC多方法空间域恢复",
+      "source": "results/figures/publication/human_breast_cancer_all_methods_spatial.svg",
+      "sha256": "2ea2b6b8ceea09ce636ec65a23e6397e16a7c92cef2aebfea54d5b1cc5a1367f",
+      "fallback": "results/figures/publication/human_breast_cancer_all_methods_spatial.png",
+      "fallback_sha256": "a9c46ae9866176c9e27acf1bcacdaecc61f7c46639614fcc2063e525dad3df04",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_08_1.svg",
+          "embedded_sha256": "2062f878d25f61c334ea641f78d41c4a22d1221c335e8f299f1b8c7f6675f96a"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_08_2.svg",
+          "embedded_sha256": "f180869697b3030ab549cf4d954611dafdee536c07cd13ecec4689af29afeb87"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_08_3.svg",
+          "embedded_sha256": "85a6246b6e153c8356e51656dc8aefa042e076549e91ba7edfbc32c9ae0e4395"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_08_4.svg",
+          "embedded_sha256": "8990a2a3e61dbcf516139db5dd0c57b89fa12bd81f7083f43124fdbefdfd41ec"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_08_5.svg",
+          "embedded_sha256": "d600f55db98f411bb8f58a4438b04e416d99c171d87acd4684c64d0c3f6820fd"
+        },
+        {
+          "embedded_part": "word/media/spasrd_vector_08_6.svg",
+          "embedded_sha256": "db14120d9de1a38689b7c26519badc595f9e7f80f05eba18aec318fda3bc2bd8"
+        }
+      ]
+    },
+    {
+      "figure": "图4（续1）HBC潜在表示比较",
+      "source": "results/figures/publication/human_breast_cancer_all_methods_umap_1.svg",
+      "sha256": "8cf6d454907ffc851c5cb726ed81b265e55c9faa53c3cccecd1cfad3bfdba311",
+      "fallback": "results/figures/publication/human_breast_cancer_all_methods_umap_1.png",
+      "fallback_sha256": "f91ab884237de3a785cca431f1a62673ca3d6ba4e168988ce2a20cb98ec109bb",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_09_1.svg",
+          "embedded_sha256": "f141dad767a9fc5adbb01565e1ec09d1d515e904791b21453b9ce566feec11e7"
+        }
+      ]
+    },
+    {
+      "figure": "图4（续2）HBC潜在表示比较",
+      "source": "results/figures/publication/human_breast_cancer_all_methods_umap_2.svg",
+      "sha256": "226501c1e1915a48b15b18b1bc43c484a45cade31f245598a60d29d28a0ee075",
+      "fallback": "results/figures/publication/human_breast_cancer_all_methods_umap_2.png",
+      "fallback_sha256": "ce63ea9db5522244b161c888b719d020d5b1e46d3585971a233890321d4b5589",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_10_1.svg",
+          "embedded_sha256": "506b40542ef544d387686bdac861b0f982d3204d90a42869558876e7815745a3"
+        }
+      ]
+    },
+    {
+      "figure": "图4（续3）HBC潜在表示比较",
+      "source": "results/figures/publication/human_breast_cancer_all_methods_umap_3.svg",
+      "sha256": "e4c40fb7dd46145cd335e43285aa07e653efd0c49cd025ec9de7c20f55d63c26",
+      "fallback": "results/figures/publication/human_breast_cancer_all_methods_umap_3.png",
+      "fallback_sha256": "d9ac7dab7ad64c52a84e0cbda67fda2dd5967a004da25265aefa6c1455a8805c",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_11_1.svg",
+          "embedded_sha256": "994dfe87d2ab39d858c028767f9fce3ea47f9c59ee6e9f5c65bab0387d4957bb"
+        }
+      ]
+    },
+    {
+      "figure": "图5 STARmap多方法空间域恢复",
+      "source": "results/figures/publication/starmap_all_methods_spatial.svg",
+      "sha256": "bea290e76688dbd6e18ddd905173c2dbbf65213a91c66abb71bcb98b8b1b1959",
+      "fallback": "results/figures/publication/starmap_all_methods_spatial.png",
+      "fallback_sha256": "ee5d7a884b6e8188c136e42e562387e99dac2f652a6d420304fc2d74e0aaffeb",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_12_1.svg",
+          "embedded_sha256": "3e3095fd85244054dca689dd90e59d52824f3c81c004e8c3c966029e46456611"
+        }
+      ]
+    },
+    {
+      "figure": "图5（续1）STARmap潜在表示比较",
+      "source": "results/figures/publication/starmap_all_methods_umap_1.svg",
+      "sha256": "ceed4d78f0f79dc8868b9faef8a8510bf0fe452064f5b1bb08f062a30bf83dfa",
+      "fallback": "results/figures/publication/starmap_all_methods_umap_1.png",
+      "fallback_sha256": "983dd63711b31c3b4b7ffbe47a3a04705b53c43e3c87d00e52911eb428eff8bc",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_13_1.svg",
+          "embedded_sha256": "d8feb4c46ba649aa00069337b3c9bd1230ef69dbee2ec5a3c6a9c7c93700238c"
+        }
+      ]
+    },
+    {
+      "figure": "图5（续2）STARmap潜在表示比较",
+      "source": "results/figures/publication/starmap_all_methods_umap_2.svg",
+      "sha256": "8ae53dad3f18d55e2218c294d113da85f0c81054f97ba2a85649ad3bd2e49e45",
+      "fallback": "results/figures/publication/starmap_all_methods_umap_2.png",
+      "fallback_sha256": "8062ed9a96c59882c03ffccb03481392d4445053f5bce832846843aa9ce7b966",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_14_1.svg",
+          "embedded_sha256": "7358bae203e772ea061388fd3267e2d1d0bdfe2a651ad857c832412d5cc4f05c"
+        }
+      ]
+    },
+    {
+      "figure": "图5（续3）STARmap潜在表示比较",
+      "source": "results/figures/publication/starmap_all_methods_umap_3.svg",
+      "sha256": "20d6bb1747909f214880e700351f3fe74529c75ff971255bcb3e7a2d568ff784",
+      "fallback": "results/figures/publication/starmap_all_methods_umap_3.png",
+      "fallback_sha256": "91d5a0826a59b9f1cd87e889dc640c77e422e16d92829c82451e037cd16c23ba",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_15_1.svg",
+          "embedded_sha256": "442c4fb7a8a8fbdc464d5020281f28091b1a77b52ac97a621a60f9d619a774b9"
+        }
+      ]
+    },
+    {
+      "figure": "图6 osmFISH多方法空间域恢复",
+      "source": "results/figures/publication/osmfish_all_methods_spatial.svg",
+      "sha256": "019174bef35b0e6993f2fedc93d86d854021b98b09383a06f8ea6442e45cd89a",
+      "fallback": "results/figures/publication/osmfish_all_methods_spatial.png",
+      "fallback_sha256": "b98ecec49c5c5696a1b474d642062c0836bf4313ddbeb8f9cff432ed2bd90741",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_16_1.svg",
+          "embedded_sha256": "65bc8194c68d54d3a3ebd644178d816d38745025883b53e0323cbd06434d3cac"
+        }
+      ]
+    },
+    {
+      "figure": "图6（续1）osmFISH潜在表示比较",
+      "source": "results/figures/publication/osmfish_all_methods_umap_1.svg",
+      "sha256": "ca154d8fc11afdadba53be7acd4b8b95d00f67bb07d77b0d65c1a71165aab38a",
+      "fallback": "results/figures/publication/osmfish_all_methods_umap_1.png",
+      "fallback_sha256": "972cd58f4770aef8baa146a53b028ffdfeec7b5e3d1d6e3759ad01c07b6a073c",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_17_1.svg",
+          "embedded_sha256": "68291817eff9b27f9b3715a1982b6185ee134512056d4395ae99770bc93e6af7"
+        }
+      ]
+    },
+    {
+      "figure": "图6（续2）osmFISH潜在表示比较",
+      "source": "results/figures/publication/osmfish_all_methods_umap_2.svg",
+      "sha256": "11b818b1713813d82d0ed9c06d9f23784d0a16220d978cc535fb6f765aa58973",
+      "fallback": "results/figures/publication/osmfish_all_methods_umap_2.png",
+      "fallback_sha256": "aaa56906a4eaf142ad0fd527b38dbc39d01c808c2f7d8ec4a4ada10f20288851",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_18_1.svg",
+          "embedded_sha256": "d98f7241d57c92bec5153e7b50f3bebe8cd9b03bc0fdc7b444438e5229d2366f"
+        }
+      ]
+    },
+    {
+      "figure": "图6（续3）osmFISH潜在表示比较",
+      "source": "results/figures/publication/osmfish_all_methods_umap_3.svg",
+      "sha256": "f2cd9f65bfa3e4368c51e11b0a82dbadceecee58fd8d1e8a7c8180e2afdcc4d3",
+      "fallback": "results/figures/publication/osmfish_all_methods_umap_3.png",
+      "fallback_sha256": "5a8437f21d0c7739531c812afd05e1a8f7e2804d4658917bb1d4052c48cb508f",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_19_1.svg",
+          "embedded_sha256": "2ee64c4e481ad381ca4fd35d02242735a974d2fa7d7d718330ff0b5c03c75b74"
+        }
+      ]
+    },
+    {
+      "figure": "图7 供体结构与传播权重",
+      "source": "results/figures/publication/Fig6_mechanism.svg",
+      "sha256": "61a7c5d1def28fbc3dcdd9aba926b96f281acb2857756925b6a2213dad2c3c69",
+      "fallback": "results/figures/publication/Fig6_mechanism.png",
+      "fallback_sha256": "044ca6a7af53bb59f4957689c8d76698ee3e00b5a7a266c018b82551ebe0c821",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_20_1.svg",
+          "embedded_sha256": "f22922e5278133a56fc4594dba4249cbc9b113ac720e58b81fbebdb53c511b67"
+        }
+      ]
+    },
+    {
+      "figure": "图8 HBC表示分离与组合约束的作用",
+      "source": "results/figures/publication/Fig7_HBC_ablation.svg",
+      "sha256": "9d295bdba382effa8c13a01cb31c926de07c22da17aab1315db5c7c92fc12f75",
+      "fallback": "results/figures/publication/Fig7_HBC_ablation.png",
+      "fallback_sha256": "954e07e545c512ac609ed1c64283ebe524502e486c4fe51518979ac1d424f6c9",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_21_1.svg",
+          "embedded_sha256": "21dbcd955a85375a70d1a00188d8eeed84404cf6fc7e61790e10c4e73f74c447"
+        }
+      ]
+    },
+    {
+      "figure": "图9 冻结ESGR的外部选路验证",
+      "source": "results/figures/publication/Fig8_ESGR_validation.svg",
+      "sha256": "c797237c0b867b51f64a7df29d03ed2deeac9f8a8552ec2b7dc0e3b957bb6b28",
+      "fallback": "results/figures/publication/Fig8_ESGR_validation.png",
+      "fallback_sha256": "8196efd7d76ee5276d675e34d89c787bcb41567357689801a5f0b67d22c8c7a4",
+      "format": "SVG+PNG fallback",
+      "embedded_parts": [
+        {
+          "embedded_part": "word/media/spasrd_vector_22_1.svg",
+          "embedded_sha256": "bd4707b85ebf5f641d4139a1836adde00dd7519a64736e1bd2986633d639d4a4"
+        }
+      ]
+    }
+  ]
+}
